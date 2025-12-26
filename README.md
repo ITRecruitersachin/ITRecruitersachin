@@ -93,12 +93,26 @@ Hi there 👋 I’m Sachin
 
 ## Industries Supported
 
-- Information Technology & Artificial Intelligence  
-- Banking & Financial Services  
-- Automotive & Manufacturing  
-- Healthcare  
-- Retail & Energy  
-- Federal & State Government  
+💻 Information Technology
+🤖 Artificial Intelligence
+🥽 AR / VR / XR Technologies
+☁️ Cloud Computing & Infrastructure
+🔐 Cybersecurity & Information Security
+🧪 Software QA & Test Engineering
+🛠️ Smart Devices, Hardware & IoT
+📱 Mobile, Web & Digital Platforms
+🛰️ Aerospace & Defense
+📡 Telecommunications & Networking
+🏭 Industrial Engineering & Operations
+⚙️ Mechanical, Electrical & Civil Engineering
+💰 Banking & Financial Services
+🚗 Automotive & Manufacturing
+🩺 Healthcare
+🛒 Retail
+⚡ Energy, Utilities & Oil & Gas
+🌱 Renewable Energy & Sustainability
+🚚 Logistics, Supply Chain & Transportation
+🏛️ Federal & State Government
 
 ---
 
