@@ -68,12 +68,12 @@ Hi there 👋 I’m Sachin
 
 ## Tools & Platforms
 
-![JobDiva](https://img.shields.io/badge/JobDiva-0f172a?style=for-the-badge&labelColor=00bfff)
-![Bullhorn](https://img.shields.io/badge/Bullhorn-0f172a?style=for-the-badge&labelColor=00bfff)
-![VectorVMS](https://img.shields.io/badge/VectorVMS-0f172a?style=for-the-badge&labelColor=00bfff)
-![PeopleFluent](https://img.shields.io/badge/PeopleFluent-0f172a?style=for-the-badge&labelColor=00bfff)
-![LinkedIn Recruiter](https://img.shields.io/badge/LinkedIn_Recruiter-0f172a?style=for-the-badge&labelColor=00bfff)
-![AI Tools](https://img.shields.io/badge/AI_Recruitment_Tools-0f172a?style=for-the-badge&labelColor=00bfff)
+![JobDiva](https://img.shields.io/badge/JobDiva-0f172a?style=for-the-badge&labelColor=FF5733)       <!-- Orange -->
+![Bullhorn](https://img.shields.io/badge/Bullhorn-0f172a?style=for-the-badge&labelColor=33FF57)     <!-- Green -->
+![VectorVMS](https://img.shields.io/badge/VectorVMS-0f172a?style=for-the-badge&labelColor=3357FF)  <!-- Blue -->
+![PeopleFluent](https://img.shields.io/badge/PeopleFluent-0f172a?style=for-the-badge&labelColor=FF33A6) <!-- Pink -->
+![LinkedIn Recruiter](https://img.shields.io/badge/LinkedIn_Recruiter-0f172a?style=for-the-badge&labelColor=00FFFF) <!-- Cyan -->
+![AI Tools](https://img.shields.io/badge/AI_Recruitment_Tools-0f172a?style=for-the-badge&labelColor=FFD700)  <!-- Gold -->
 
 ---
 
