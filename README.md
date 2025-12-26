@@ -79,7 +79,7 @@ Hi there 👋 I’m Sachin
 
 ## US Hiring, Tax & Compliance
 
-- 🇺🇸 US Tax Terms: **W2, C2C & 1099**
+- US Tax Terms: **W2, C2C & 1099**
 - 📑 Visa Knowledge:
   - H-1B, Transfers & CAP Filings
 - 🏛️ MSP & Government hiring compliance
