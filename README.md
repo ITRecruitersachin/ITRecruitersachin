@@ -58,11 +58,11 @@ Hi there 👋 I’m Sachin
 
 ## Tech Stack (Recruiter Edition)
 
-![US Staffing](https://img.shields.io/badge/US_Staffing-111827?style=for-the-badge)
-![Full Cycle Recruitment](https://img.shields.io/badge/Full_Cycle_Recruitment-1f2937?style=for-the-badge)
-![W2 C2C 1099](https://img.shields.io/badge/W2_|_C2C_|_1099-374151?style=for-the-badge)
-![MSP VMS](https://img.shields.io/badge/MSP_|_VMS-4b5563?style=for-the-badge)
-![AI Recruiting](https://img.shields.io/badge/AI_Recruiting-6d28d9?style=for-the-badge)
+![US Staffing](https://img.shields.io/badge/US_Staffing-1e40af?style=for-the-badge&logo=usa&logoColor=white)
+![Full Cycle Recruitment](https://img.shields.io/badge/Full_Cycle_Recruitment-1e3a8a?style=for-the-badge&logo=target&logoColor=white)
+![W2 C2C 1099](https://img.shields.io/badge/W2_|_C2C_|_1099-1d4ed8?style=for-the-badge&logo=law&logoColor=white)
+![MSP VMS](https://img.shields.io/badge/MSP_|_VMS-2563eb?style=for-the-badge&logo=stackshare&logoColor=white)
+![AI Recruiting](https://img.shields.io/badge/AI_Recruiting-4f46e5?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
