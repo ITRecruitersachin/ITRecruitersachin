@@ -11,12 +11,12 @@ Hi there 👋 I’m Sachin
 
 ## About Me
 
-- 🧠 Senior US Technical & Strategic Recruiter with **10+ years** of experience  
-- 📜 Extensive expertise in **US Staffing & Compliance**  
-- 🔄 Full-Cycle Recruitment across **IT, Engineering, Non-IT & Leadership roles**  
-- 🖥️ Strong experience with **Direct Clients, MSP & VMS environments**  
-- 📊 Data-driven, consultative recruiter leveraging **AI recruitment tools**  
-- ⏱️ Known for delivering quality hires under aggressive timelines  
+🧠 Senior US Technical & Strategic Recruiter with **10+ years** of experience  
+📜 Extensive expertise in **US Staffing & Compliance**  
+🔄 Full-Cycle Recruitment across **IT, Engineering, Non-IT & Leadership roles**  
+🖥️ Strong experience with **Direct Clients, MSP & VMS environments**  
+📊 Data-driven, consultative recruiter leveraging **AI recruitment tools**  
+⏱️ Known for delivering quality hires under aggressive timelines  
 
 ---
 
