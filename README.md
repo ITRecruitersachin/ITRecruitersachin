@@ -126,12 +126,24 @@ Hi there 👋 I’m Sachin
 
 ---
 
-## Let’s Connect
+## Let’s Connect 🤝
 
-I collaborate with:
-- Hiring Managers & Engineering Leaders  
-- Direct Clients, MSPs & VMS Partners  
-- US IT Consultants (W2 / C2C)  
+I’m happy to connect and collaborate with:
+
+💼 US IT Consultants (W2 / C2C)
+Open to connecting for current and upcoming opportunities, project alignment, and transparent guidance on submissions and onboarding
+
+🧠 Early-Career & Experienced Tech Professionals
+Available for career advice, role alignment discussions, and navigating the US IT job market
+
+🧑‍💻 Job Seekers & Technology Professionals
+Feel free to reach out for career opportunities, resume guidance, interview preparation, and market insights
+
+👔 Hiring Managers & Engineering Leaders
+Partnering on scalable, compliant hiring strategies and hard-to-fill technical roles
+
+🏢 Direct Clients, MSPs & VMS Partners
+Supporting high-volume, niche, and strategic hiring across US IT, Engineering & Government programs
 
 🔗 www.linkedin.com/in/writeforsachin
 📧 writeforsachin@gmail.com
