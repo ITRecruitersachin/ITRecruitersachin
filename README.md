@@ -79,15 +79,15 @@ Hi there 👋 I’m Sachin
 
 ## US Hiring, Tax & Compliance
 
-- US Tax Terms: **W2, C2C & 1099**
-- Visa Knowledge:
+- 🇺🇸 US Tax Terms: **W2, C2C & 1099**
+- 📑 Visa Knowledge:
   - H-1B, Transfers & CAP Filings
-- MSP & Government compliance workflows
-- Documentation management:
-  - IDs, Work Authorization
+- 🏛️ MSP & Government hiring compliance
+- 📁 Documentation management:
+  - IDs & Work Authorization
   - NDAs & Compliance Forms
   - Background Check Consents
-- Ethical recruiting & data privacy adherence  
+- 🛡️ Ethical recruiting & data privacy adherence  
 
 ---
 
