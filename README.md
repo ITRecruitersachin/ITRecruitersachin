@@ -68,12 +68,12 @@ Hi there 👋 I’m Sachin
 
 ## Tools & Platforms
 
-![JobDiva](https://img.shields.io/badge/JobDiva-0f172a?style=for-the-badge)
-![Bullhorn](https://img.shields.io/badge/Bullhorn-020617?style=for-the-badge)
-![VectorVMS](https://img.shields.io/badge/VectorVMS-020617?style=for-the-badge)
-![PeopleFluent](https://img.shields.io/badge/PeopleFluent-020617?style=for-the-badge)
-![LinkedIn Recruiter](https://img.shields.io/badge/LinkedIn_Recruiter-020617?style=for-the-badge)
-![AI Tools](https://img.shields.io/badge/AI_Recruitment_Tools-020617?style=for-the-badge)
+![JobDiva](https://img.shields.io/badge/JobDiva-0f172a?style=for-the-badge&labelColor=00bfff)
+![Bullhorn](https://img.shields.io/badge/Bullhorn-0f172a?style=for-the-badge&labelColor=00bfff)
+![VectorVMS](https://img.shields.io/badge/VectorVMS-0f172a?style=for-the-badge&labelColor=00bfff)
+![PeopleFluent](https://img.shields.io/badge/PeopleFluent-0f172a?style=for-the-badge&labelColor=00bfff)
+![LinkedIn Recruiter](https://img.shields.io/badge/LinkedIn_Recruiter-0f172a?style=for-the-badge&labelColor=00bfff)
+![AI Tools](https://img.shields.io/badge/AI_Recruitment_Tools-0f172a?style=for-the-badge&labelColor=00bfff)
 
 ---
 
