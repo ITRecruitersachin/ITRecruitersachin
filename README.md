@@ -3,7 +3,7 @@
 # Profile
 
 Hi there 👋 I’m Sachin
-> Lead / Senior US Technical Recruiter | US Staffing | IT, AI & Engineering
+> Lead US IT Technical Recruiter | US Staffing | IT, AI & Engineering
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ITRecruitersachin&Blue=8b5cf6)
 
