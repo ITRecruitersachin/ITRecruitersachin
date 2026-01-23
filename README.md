@@ -11,23 +11,11 @@ Hi there 👋 I’m Sachin
 
 ## About Me
 
-🧠 Senior US Technical & Strategic Recruiter with **10+ years** of experience  
+🧠 Lead US Technical & Strategic Recruiter
 📜 Extensive expertise in **US Staffing & Compliance**  
 🔄 Full-Cycle Recruitment across **IT, Engineering, Non-IT & Leadership roles**  
-🖥️ Strong experience with **Direct Clients, MSP & VMS environments**  
 📊 Data-driven, consultative recruiter leveraging **AI recruitment tools**  
 ⏱️ Known for delivering quality hires under aggressive timelines  
-
----
-
-## Recruitment Focus
-
-- Software Engineers (Frontend, Backend, Full Stack)
-- AI / ML Engineers & Data Professionals
-- QA / Automation / Performance Testers
-- Cloud, DevOps & Infrastructure Engineers
-- ERP, CRM & Enterprise Applications
-- Federal, State & Commercial IT roles
 
 ---
 
@@ -35,22 +23,18 @@ Hi there 👋 I’m Sachin
 
 - End-to-End / Full-Cycle US IT Recruitment  
 - Contract, Contract-to-Hire & Full-Time Hiring  
-- High-Volume, Niche & Leadership Hiring  
+- Niche & Leadership Hiring  
 - Advanced Boolean & Google X-Ray Sourcing  
 - Passive Talent Mapping & Market Intelligence  
 - Technical, Functional & Behavioral Screening  
-- Offer Negotiation & Onboarding Coordination  
 
 ---
 
 ## Sourcing & Talent Mapping
 
-- Advanced Boolean & X-Ray search strategies  
 - Passive sourcing via:
-  - LinkedIn, GitHub, Stack Overflow
-  - Reddit, Twitter/X & professional communities  
-- Free & low-cost job boards:
-  - Indeed, SimplyHired, Recruit.net, JobSpider, US.jobs, Handshake  
+- LinkedIn, GitHub, Stack Overflow, medium, Reddit, Twitter/X & professional communities  
+- Free & low-cost job boards such as Indeed, SimplyHired, Recruit.net, JobSpider, US.jobs, Handshake  
 - Contact discovery, email validation & candidate data enrichment  
 - Long-term talent pipeline development  
 
@@ -87,32 +71,7 @@ Hi there 👋 I’m Sachin
   - IDs & Work Authorization
   - NDAs & Compliance Forms
   - Background Check Consents
-- 🛡️ Ethical recruiting & data privacy adherence  
-
----
-
-## Industries Supported
-
-💻 Information Technology
-🤖 Artificial Intelligence
-🥽 AR / VR / XR Technologies
-☁️ Cloud Computing & Infrastructure
-🔐 Cybersecurity & Information Security
-🧪 Software QA & Test Engineering
-🛠️ Smart Devices, Hardware & IoT
-📱 Mobile, Web & Digital Platforms
-🛰️ Aerospace & Defense
-📡 Telecommunications & Networking
-🏭 Industrial Engineering & Operations
-⚙️ Mechanical, Electrical & Civil Engineering
-💰 Banking & Financial Services
-🚗 Automotive & Manufacturing
-🩺 Healthcare
-🛒 Retail
-⚡ Energy, Utilities & Oil & Gas
-🌱 Renewable Energy & Sustainability
-🚚 Logistics, Supply Chain & Transportation
-🏛️ Federal & State Government
+- 🛡️ Ethical recruiting & data privacy adherence
 
 ---
 
@@ -146,4 +105,4 @@ Partnering on scalable, compliant hiring strategies and hard-to-fill technical r
 Supporting high-volume, niche, and strategic hiring across US IT, Engineering & Government programs
 
 🔗 www.linkedin.com/in/writeforsachin
-📧 writeforsachin@gmail.com
+📧 writeforsachin@zohomail.in
