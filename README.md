@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=1400&height=80&lines=Sachin+R+%7C+Senior+US+IT+Recruiter;AI+%7C+Cloud+%7C+ERP+%7C+Security+%7C+Data+Engineering;15%2C000%2B+LinkedIn+Connections;Boolean+Search+%7C+X-Ray+Search+%7C+Talent+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=1400&height=80&lines=Sachin+R;US+Recruitment+Strategist;Technical+Talent+Acquisition;AI+%7C+Cloud+%7C+ERP+%7C+Cybersecurity+%7C+Data+Engineering;Boolean+Search+%7C+X-Ray+Search+%7C+Talent+Intelligence)](https://git.io/typing-svg)
 
 </div>
 
