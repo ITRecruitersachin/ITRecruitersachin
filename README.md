@@ -171,7 +171,7 @@ site:kaggle.com "data scientist" "top 1%"
 
 > *No resume escapes my gravity.*
 
-[![writeforsachin@gmail.con](https://img.shields.io/badge/Email_Me-0a0f1e?style=for-the-badge&logo=gmail&logoColor=f59e0b)](mailto:writeforsachin@gmail.com)
+[![writeforsachin@gmail.com](https://img.shields.io/badge/Email_Me-0a0f1e?style=for-the-badge&logo=gmail&logoColor=f59e0b)](mailto:writeforsachin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_15K%2B-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://linkedin.com/in/recruitersachin)
 [![Submit Profile](https://img.shields.io/badge/Submit_Your_Profile-0a0f1e?style=for-the-badge&logo=github&logoColor=93c5fd)](mailto:writeforsachin@gmail.com?subject=Candidate%20Submission)
 
@@ -180,7 +180,7 @@ site:kaggle.com "data scientist" "top 1%"
 ---
 
 <div align="center">
-<sub>🕳️ US RECRUITER · IT · ENGINEERING · NON-IT · NICHE TECH · NDA PROTECTED · ALL CLIENTS CONFIDENTIAL 🕳️</sub>
+<sub> US RECRUITER · IT · ENGINEERING · NON-IT · NICHE TECH · NDA PROTECTED · ALL CLIENTS CONFIDENTIAL </sub>
 </div>
 
 <div align="center">
