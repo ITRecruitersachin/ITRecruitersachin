@@ -53,14 +53,6 @@
 <img src="./CB.png" alt="CB" height="30"/>
 <img src="https://cdn.simpleicons.org/indeed" width="30">
 <img src="./icons8-discord-94.png" alt="Discord" height="30"/>
-<img src="./Stackoverflow.jpg" alt="Stackoverflow" height="30" />
-<img src="./JobDiva.png" alt="JobDiva" height="30" />
-<img src="./Chatgpt.png" alt="ChatGPT" height="30" />
-<img src="./Ladders.jpeg" alt="Ladders" height="30" />
-<img src="./Indeed.png" alt="Indeed" height="30" />
-<img src="./Techfetch.jpg" alt="TechFetch" height="30" />
-<img src="./Medium.png" alt="Medium" height="30" />
-<img src="./icons8-linkedin-94.png" alt="LinkedIn" height="30" />
 
 ---
 
