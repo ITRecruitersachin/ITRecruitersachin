@@ -1,4 +1,4 @@
-<!-- SACHIN R — All client details under NDA -->
+<!-- SACHIN R -->
 
 <div align="center">
 
@@ -24,7 +24,6 @@
 
 ![](https://img.shields.io/badge/📍_US_Recruiter-IT_%26_Beyond-0a0f1e?style=for-the-badge&labelColor=1e3a5f)
 ![](https://img.shields.io/badge/🔭_15K%2B-LinkedIn_Connections-0a0f1e?style=for-the-badge&labelColor=92400e)
-![](https://img.shields.io/badge/🛸_NDA-All_Clients_Confidential-0a0f1e?style=for-the-badge&labelColor=5b21b6)
 ![](https://img.shields.io/badge/🌀_Niche_Tech-Specialist-0a0f1e?style=for-the-badge&labelColor=1e40af)
 
 </div>
@@ -180,7 +179,7 @@ site:kaggle.com "data scientist" "top 1%"
 ---
 
 <div align="center">
-<sub> US RECRUITER · IT · ENGINEERING · NON-IT · NICHE TECH · NDA PROTECTED · ALL CLIENTS CONFIDENTIAL </sub>
+<sub> US RECRUITER · IT · ENGINEERING · NON-IT · NICHE TECH · NDA PROTECTED </sub>
 </div>
 
 <div align="center">
