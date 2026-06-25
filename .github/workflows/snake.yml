@@ -15,7 +15,7 @@ permissions:
 
 steps:
   - name: Generate Snake
-    uses: Platane/snk@v3
+    uses: ITRecruitersachin
     with:
       github_user_name: ITRecruitersachin
       outputs: |
