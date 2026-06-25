@@ -12,6 +12,12 @@
 
 </div>
 
+<h3 align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
+| [![GitHub stars](https://img.shields.io/github/stars/AvidCoder101.svg?style=social&label=Stars)](https://github.com/AvidCoder101)
+</h3>
+
 ---
 
 <div align="center">
@@ -25,68 +31,36 @@
 
 ---
 
-## 🕳️ About SACHIN R
+<p align="center">
+<img src="./AboutMe.gif.gif" width="9%">
+<br>
+<i>⚡ ABOUT ME</i>
+</p>
 
-> I source candidates others can't find — pulling niche tech talent from the darkest corners of the internet.
-> Strong in **IT roles** with solid knowledge across **Engineering** and **Non-IT** functions.
-> All client engagements are **under NDA**. Results speak for themselves.
+🤝 Connecting Opportunities with Hidden Talent 🔎
 
----
-
-## 🌌 Roles I Fill · IT + Engineering + Non-IT
-
-<div align="center">
-
-| 🔥 Hot | 🔥 Hot | 🔥 Hot |
-|:-:|:-:|:-:|
-| AI / ML / GenAI | Cybersecurity | ERP / SAP / Oracle |
-
-| IT Roles | Engineering | Non-IT |
-|---|---|---|
-| Project Manager | Mechanical Engineer | Finance & Accounting |
-| Business Analyst | Electrical Engineer | Supply Chain |
-| Network Engineer | Embedded Systems | Healthcare IT |
-| Cloud / DevOps | Manufacturing Eng. | Operations |
-| Full Stack Dev | Civil / Structural | Legal & Compliance |
-| Data Engineer | Aerospace | Sales & Marketing |
-| QA / Automation | Process Engineer | HR & Talent |
-| Scrum Master | Controls Engineer | Admin & Support |
-
-</div>
+> Strong in **IT roles** Pulling **niche tech talent** from the darkest corners of the internet. Solid knowledge across **Engineering** and **Non-IT** functions.
 
 ---
 
-## 🛰️ Paid Job Boards
+## 🛰️ Job Boards & ATS
 
-<div align="center">
-
-![](https://img.shields.io/badge/LinkedIn_Recruiter-0a66c2?style=flat-square&logo=linkedin&logoColor=white)
-![](https://img.shields.io/badge/Dice-1e3a5f?style=flat-square)
-![](https://img.shields.io/badge/CareerBuilder-1e3a5f?style=flat-square)
-![](https://img.shields.io/badge/Monster-1e3a5f?style=flat-square)
-![](https://img.shields.io/badge/ZipRecruiter-1e3a5f?style=flat-square)
-![](https://img.shields.io/badge/Indeed_Sponsored-1e3a5f?style=flat-square)
-![](https://img.shields.io/badge/TechFetch-1e3a5f?style=flat-square)
-![](https://img.shields.io/badge/Hired-1e3a5f?style=flat-square)
-
-</div>
-
-## 🌐 Free Job Boards
-
-<div align="center">
-
-![](https://img.shields.io/badge/Indeed_Free-92400e?style=flat-square)
-![](https://img.shields.io/badge/Glassdoor-92400e?style=flat-square)
-![](https://img.shields.io/badge/SimplyHired-92400e?style=flat-square)
-![](https://img.shields.io/badge/Handshake-92400e?style=flat-square)
-![](https://img.shields.io/badge/Wellfound-92400e?style=flat-square)
-![](https://img.shields.io/badge/AngelList-92400e?style=flat-square)
-![](https://img.shields.io/badge/USAJobs-92400e?style=flat-square)
-![](https://img.shields.io/badge/Craigslist-92400e?style=flat-square)
-![](https://img.shields.io/badge/LinkedIn_Free-92400e?style=flat-square)
-![](https://img.shields.io/badge/RemoteOK-92400e?style=flat-square)
-
-</div>
+<img src="./LinkedIn.png" alt="LinkedIn" height="30"/>
+<img src="./Dice.jpg" alt="Dice" height="30"/>
+<img src="./Monster.png" alt="Monster" height="30"/>
+<img src="./Discord.png.png" alt="Discord" height="40"/>
+<img src="./bullhorn.png" alt="bullhorn" height="30"/>
+<img src="./CB.png" alt="CB" height="30"/>
+<img src="https://cdn.simpleicons.org/indeed" width="30">
+<img src="./icons8-discord-94.png" alt="Discord" height="30"/>
+<img src="./StackOverflow.jpg" alt="StackOverflow" height="30" />
+<img src="./JobDiva.png" alt="JobDiva" height="30" />
+<img src="./Chatgpt.png" alt="ChatGPT" height="30" />
+<img src="./Ladders.jpeg" alt="Ladders" height="30" />
+<img src="./Indeed.png" alt="Indeed" height="30" />
+<img src="./Techfetch.jpg" alt="TechFetch" height="30" />
+<img src="./Medium.png" alt="Medium" height="30" />
+<img src="./icons8-linkedin-94.png" alt="LinkedIn" height="30" />
 
 ---
 
@@ -195,31 +169,11 @@ site:kaggle.com "data scientist" "top 1%"
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 👁️ Visitors Pulled Into the Event Horizon
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/ITRecruitersachin/count.svg)
-
-</div>
-
----
-
 ## 🌠 Enter the Gravitational Field
 
 <div align="center">
 
-> *No resume escapes my gravity. All client details under NDA.*
+> *No resume escapes my gravity.*
 
 [![Email](https://img.shields.io/badge/Email_Me-0a0f1e?style=for-the-badge&logo=gmail&logoColor=f59e0b)](mailto:writeforsachin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_15K%2B-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://linkedin.com/in/recruitersachin)
@@ -231,4 +185,11 @@ site:kaggle.com "data scientist" "top 1%"
 
 <div align="center">
 <sub>🕳️ US RECRUITER · IT · ENGINEERING · NON-IT · NICHE TECH · NDA PROTECTED · ALL CLIENTS CONFIDENTIAL 🕳️</sub>
+</div>
+
+<div align="center">
+
+
+<div align="center">
+   <img width="100%" src="India n fantasy.png" />
 </div>
