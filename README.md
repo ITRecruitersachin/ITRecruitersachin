@@ -45,6 +45,8 @@
 
 ## 🛰️ Job Boards & ATS
 
+<div align="center">
+
 <img src="./LinkedIn.png" alt="LinkedIn" height="30"/>
 <img src="./Dice.jpg" alt="Dice" height="30"/>
 <img src="./Monster.png" alt="Monster" height="30"/>
@@ -53,6 +55,8 @@
 <img src="./CB.png" alt="CB" height="30"/>
 <img src="https://cdn.simpleicons.org/indeed" width="30">
 <img src="./icons8-discord-94.png" alt="Discord" height="30"/>
+
+</div>
 
 ---
 
