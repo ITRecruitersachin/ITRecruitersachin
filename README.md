@@ -188,3 +188,7 @@ site:kaggle.com "data scientist" "top 1%"
 <div align="center">
    <img width="100%" src="India n fantasy.png" />
 </div>
+
+<p align="center">
+<img src="./Dyno.gif.gif" width="100%">
+<br>
