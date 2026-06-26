@@ -28,9 +28,9 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/📍_US_Recruiter-IT_%26_Beyond-0a0f1e?style=for-the-badge&labelColor=1e3a5f)
-![](https://img.shields.io/badge/🔭_15K%2B-LinkedIn_Connections-0a0f1e?style=for-the-badge&labelColor=92400e)
-![](https://img.shields.io/badge/🌀_Niche_Tech-Specialist-0a0f1e?style=for-the-badge&labelColor=1e40af)
+![](https://img.shields.io/badge/📍_US_Recruiter-IT_%26_Beyond-0a0f1e?style=for-the-badge&labelColor=8534F3)
+![](https://img.shields.io/badge/🔭_15K%2B-LinkedIn_Connections-0a0f1e?style=for-the-badge&labelColor=8534F3)
+![](https://img.shields.io/badge/🌀_Niche_Tech-Specialist-0a0f1e?style=for-the-badge&labelColor=8534F3)
 
 </div>
 
@@ -69,14 +69,14 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Clay-5b21b6?style=flat-square)
-![](https://img.shields.io/badge/Juicebox-5b21b6?style=flat-square)
-![](https://img.shields.io/badge/HireEZ-5b21b6?style=flat-square)
-![](https://img.shields.io/badge/SeekOut-5b21b6?style=flat-square)
-![](https://img.shields.io/badge/Fetcher-5b21b6?style=flat-square)
-![](https://img.shields.io/badge/Entelo-5b21b6?style=flat-square)
-![](https://img.shields.io/badge/Findem-5b21b6?style=flat-square)
-![](https://img.shields.io/badge/Paradox_AI-5b21b6?style=flat-square)
+![](https://img.shields.io/badge/Clay-9EECFF?style=flat-square)
+![](https://img.shields.io/badge/Juicebox-9EECFF?style=flat-square)
+![](https://img.shields.io/badge/HireEZ-9EECFF?style=flat-square)
+![](https://img.shields.io/badge/SeekOut-9EECFF?style=flat-square)
+![](https://img.shields.io/badge/Fetcher-9EECFF?style=flat-square)
+![](https://img.shields.io/badge/Entelo-9EECFF?style=flat-square)
+![](https://img.shields.io/badge/Findem-9EECFF?style=flat-square)
+![](https://img.shields.io/badge/Paradox_AI-9EECFF?style=flat-square)
 
 </div>
 
@@ -86,17 +86,17 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/JD_Generation-1e3a5f?style=flat-square)
-![](https://img.shields.io/badge/Boolean_String_Builder-1e3a5f?style=flat-square)
-![](https://img.shields.io/badge/Resume_Match_Scoring-1e3a5f?style=flat-square)
-![](https://img.shields.io/badge/Candidate_Outreach_Scripts-1e3a5f?style=flat-square)
-![](https://img.shields.io/badge/Interview_Question_Gen-1e3a5f?style=flat-square)
-![](https://img.shields.io/badge/Salary_Benchmarking-1e3a5f?style=flat-square)
-![](https://img.shields.io/badge/Market_Mapping-92400e?style=flat-square)
-![](https://img.shields.io/badge/Talent_Pool_Analysis-92400e?style=flat-square)
-![](https://img.shields.io/badge/Competitor_Org_Mapping-92400e?style=flat-square)
-![](https://img.shields.io/badge/Pipeline_Summaries-92400e?style=flat-square)
-![](https://img.shields.io/badge/Offer_Letter_Drafting-92400e?style=flat-square)
+![](https://img.shields.io/badge/JD_Generation-0FBF3E?style=flat-square)
+![](https://img.shields.io/badge/Boolean_String_Builder-0FBF3E?style=flat-square)
+![](https://img.shields.io/badge/Resume_Match_Scoring-0FBF3E?style=flat-square)
+![](https://img.shields.io/badge/Candidate_Outreach_Scripts-0FBF3E?style=flat-square)
+![](https://img.shields.io/badge/Interview_Question_Gen-0FBF3E?style=flat-square)
+![](https://img.shields.io/badge/Salary_Benchmarking-0FBF3E?style=flat-square)
+![](https://img.shields.io/badge/Market_Mapping-8CF2A6?style=flat-square)
+![](https://img.shields.io/badge/Talent_Pool_Analysis-8CF2A6?style=flat-square)
+![](https://img.shields.io/badge/Competitor_Org_Mapping-8CF2A6?style=flat-square)
+![](https://img.shields.io/badge/Pipeline_Summaries-8CF2A6?style=flat-square)
+![](https://img.shields.io/badge/Offer_Letter_Drafting-8CF2A6?style=flat-square)
 
 </div>
 
