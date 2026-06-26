@@ -172,6 +172,24 @@ site:kaggle.com "data scientist" "top 1%"
 
 ---
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITRecruitersachin&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+<div align="center">
+
+📊 Recruitment Intelligence: What I Bring
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ITRecruitersachin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&hide=contribs" height="150"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITRecruitersachin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="150"/>
+</div>
+
+---
+
 ## 🌠 Enter the Gravitational Field
 
 <div align="center">
@@ -182,6 +200,38 @@ site:kaggle.com "data scientist" "top 1%"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_15K%2B-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://linkedin.com/in/recruitersachin)
 [![Submit Profile](https://img.shields.io/badge/Submit_Your_Profile-0a0f1e?style=for-the-badge&logo=github&logoColor=93c5fd)](mailto:writeforsachin@gmail.com?subject=Candidate%20Submission)
 
+</div>
+
+---
+
+<div align="center">
+
+🔗 Connect & Collaborate
+
+<div align="center">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR-EMAIL@domain.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://calendly.com/YOUR-CALENDLY-LINK">
+  <img src="https://img.shields.io/badge/Calendly-Book%20a%20Call-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
+</a>
+<br/><br/>
+<a href="https://discord.com/users/YOUR-DISCORD-ID">
+  <img src="https://img.shields.io/badge/Discord-Find%20Me%20Here-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://stackoverflow.com/users/YOUR-SO-ID">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-Tech%20Sourcing-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/ITRecruitersachin">
+  <img src="https://img.shields.io/badge/GitHub-@ITRecruitersachin-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </div>
 
 ---
@@ -205,3 +255,35 @@ site:kaggle.com "data scientist" "top 1%"
 <p align="center">
 <img src="./Dyno.gif.gif" width="100%">
 <br>
+
+---
+
+<div align="center">
+         🌌 About Me — The Recruiter Behind the Code
+</div>
+```yaml
+Name        : Sachin
+Role        : IT Recruiter & Talent Strategist
+Location    : United States 🇺🇸
+Focus       : Niche Tech Talent | Multi-Vendor Staffing | HBITS (NY State)
+Experience  : IT • Engineering • AI/ML • Cybersecurity • ERP • Cloud • DevOps
+Network     : Independent candidate database + large professional network
+Mode        : Sub-vendor | Competitive multi-vendor environments
+NDA         : Active across all clients
+Superpower  : Finding the talent others can't — fast.
+
+---
+🎯 What I Recruit For 
+<div align="center">
+         🤖 AI / ML	🔐 Cybersecurity	☁️ Cloud & DevOps
+         Data Scientists	SOC Analysts	AWS / Azure / GCP
+         ML Engineers	Penetration Testers	Kubernetes / Docker
+         LLM Specialists	CISO / vCISO	CI/CD Engineers
+         🏗️ ERP / SAP	🌐 Network Eng	📋 PM / BA
+         SAP FICO / MM	Network Architects	Project Managers
+         SAP Basis	CCNA / CCIE	Business Analysts
+         SAP ABAP Dev	NOC Engineers	Scrum Masters
+
+</div>
+
+---
