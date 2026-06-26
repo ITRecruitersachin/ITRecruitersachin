@@ -188,7 +188,7 @@ site:kaggle.com "data scientist" "top 1%"
 
 <div align="center">
 
-<sub> US RECRUITER · IT · ENGINEERING · NON-IT · NICHE TECH · NDA PROTECTED </sub>
+<sub> US RECRUITER · IT · ENGINEERING · NON-IT · NICHE TECH </sub>
 
 </div>
 
