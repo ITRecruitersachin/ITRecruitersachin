@@ -11,12 +11,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=1400&height=80&lines=Sachin+R;US+Recruitment+Strategist;Technical+Talent+Acquisition;AI+%7C+Cloud+%7C+ERP+%7C+Cybersecurity+%7C+Data+Engineering;Boolean+Search+%7C+X-Ray+Search+%7C+Talent+Intelligence)](https://git.io/typing-svg)
 
 </div>
-
 <h3 align="center">
+<img src="./Stats.gif.gif" width="3%">
+<a href="https://github.com/ITRecruitersachin?tab=followers">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/ITRecruitersachin?style=social">
+<a href="https://github.com/ITRecruitersachin?tab=repositories">
+<img src="https://img.shields.io/github/stars/ITRecruitersachin?affiliations=OWNER&style=social">
+<img src="https://komarev.com/ghpvc/?username=ITRecruitersachin&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+         
 
-[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
-| [![GitHub stars](https://img.shields.io/github/stars/AvidCoder101.svg?style=social&label=Stars)](https://github.com/AvidCoder101)
-</h3>
+</a>
+</p>
 
 ---
 
@@ -199,18 +205,3 @@ site:kaggle.com "data scientist" "top 1%"
 <p align="center">
 <img src="./Dyno.gif.gif" width="100%">
 <br>
-
----
-
-<table width="100%">
-<tr>
-<td align="left" width="50%">
-<img src="Artloop.gif" width="450" alt="Left Artloop">
-</td>
-
-<td align="right" width="50%">
-<img src="Artloop.gif" width="450" alt="Right Artloop">
-</td>
-</tr>
-</table>
-
