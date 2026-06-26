@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-<img src="./AboutMe.gif.gif" width="9%">
+<img src="./Robo.gif" width="25%">
 <br>
 <i>⚡ ABOUT ME</i>
 </p>
@@ -73,6 +73,8 @@
 ![](https://img.shields.io/badge/Paradox_AI-5b21b6?style=flat-square)
 
 </div>
+
+---
 
 ## ✍️ AI Prompt Experience
 
@@ -179,16 +181,36 @@ site:kaggle.com "data scientist" "top 1%"
 ---
 
 <div align="center">
+
 <sub> US RECRUITER · IT · ENGINEERING · NON-IT · NICHE TECH · NDA PROTECTED </sub>
+
 </div>
-
-<div align="center">
-
 
 <div align="center">
    <img width="100%" src="India n fantasy.png" />
 </div>
 
+---
+
+<img src="./colourfull line.gif " width="100%">
+
+---
+
 <p align="center">
 <img src="./Dyno.gif.gif" width="100%">
 <br>
+
+---
+
+<table width="100%">
+<tr>
+<td align="left" width="50%">
+<img src="Artloop.gif" width="450" alt="Left Artloop">
+</td>
+
+<td align="right" width="50%">
+<img src="Artloop.gif" width="450" alt="Right Artloop">
+</td>
+</tr>
+</table>
+
