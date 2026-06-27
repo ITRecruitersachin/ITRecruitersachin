@@ -209,7 +209,7 @@ site:kaggle.com "data scientist" "top 1%"
 🔗 Connect & Collaborate
 
 <div align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG">
+<a href="https://www.linkedin.com/in/recruitersachin">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
