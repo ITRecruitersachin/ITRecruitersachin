@@ -213,7 +213,7 @@ site:kaggle.com "data scientist" "top 1%"
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR-EMAIL@domain.com">
+<a href="mailto:writeforsachin@gmail.com">
   <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
@@ -221,7 +221,7 @@ site:kaggle.com "data scientist" "top 1%"
   <img src="https://img.shields.io/badge/Calendly-Book%20a%20Call-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
 </a>
 <br/><br/>
-<a href="https://discord.com/users/YOUR-DISCORD-ID">
+<a href="https://discord.com/users/sourcexsachin">
   <img src="https://img.shields.io/badge/Discord-Find%20Me%20Here-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 &nbsp;
