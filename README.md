@@ -12,7 +12,7 @@
 
 </div>
 <h3 align="center">
-<img src="./Stats.gif.gif" width="15%">
+<img src="./Stats.gif.gif" width="10%">
 <a href="https://github.com/ITRecruitersachin?tab=followers">
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/ITRecruitersachin?style=social">
