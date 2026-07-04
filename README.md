@@ -63,9 +63,136 @@
 ╘══════╛╘═══════╛ ╘══════╛  ╘══╛   ╘══╛ ╘═╛╘══════╛╘══════╛╘══╛ ╘═╛╘══════╛╘══════╛  ╘══╛  ╘══════╛╘══╛ ╘═╛
  </pre></div>
 
-🤝 Connecting Opportunities with Hidden Talent 🔎
+ > ## 💡 Professional Summary
+>
+> Senior US IT Recruiter with **10+ years of experience** specializing in full-cycle technical recruitment across Fortune 500 enterprises, MSPs, direct clients, and consulting organizations.
+>
+> Experienced in sourcing, screening, and hiring professionals across Cloud, AI/ML, Data Engineering, Java, .NET, DevOps, Cybersecurity, SAP, Salesforce, ERP, QA, Networking, Infrastructure, Project Management, and emerging technologies.
+>
+> Passionate about leveraging AI-powered recruitment workflows, Boolean search, X-Ray sourcing, and modern recruiting technologies to deliver high-quality talent solutions.
 
-> Strong in **IT roles** Pulling **niche tech talent** from the darkest corners of the internet. Solid knowledge across **Engineering** and **Non-IT** functions.
+---
+
+<!-- ===================================================== -->
+<!--            📊 LIVE GITHUB ANALYTICS                  -->
+<!-- ===================================================== -->
+
+<h1 align="center">📊 Live GitHub Analytics</h1>
+
+<p align="center">
+<i>Real-time GitHub statistics updated automatically.</i>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=ITRecruitersachin&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=ITRecruitersachin&theme=github-dark&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+## 🌍 Large Contribution Heatmap
+
+<p align="center">
+
+<img
+src="https://ghchart.rshah.org/58A6FF/ITRecruitersachin"
+alt="Contribution Heatmap"/>
+
+</p>
+
+---
+
+## ⚡ GitHub Metrics
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ITRecruitersachin&theme=github_dark"/>
+
+</p>
+
+---
+
+## 📊 Productivity Statistics
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITRecruitersachin&theme=github_dark"/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ITRecruitersachin&theme=github_dark"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ITRecruitersachin&theme=github_dark"/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ITRecruitersachin&theme=github_dark&utcOffset=5.5"/>
+
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=ITRecruitersachin&label=PROFILE+VISITORS&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+---
+
+## ⭐ GitHub Overview
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    LIVE GITHUB OVERVIEW                     ║
+╠══════════════════════════════════════════════════════════════╣
+║ 📊 Public Repositories      │ Live                          ║
+║ ⭐ Total Stars              │ Live                          ║
+║ 👥 Followers                │ Live                          ║
+║ 🔥 Contribution Streak      │ Auto Updated                  ║
+║ 📈 Contribution Graph       │ Auto Updated                  ║
+║ 🏆 GitHub Achievements      │ Auto Updated                  ║
+║ 🐍 Snake Animation          │ Daily Refresh                 ║
+║ 🌍 Activity Heatmap         │ Auto Updated                  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+### ⚡ Building the future of Technical Recruitment, one successful hire at a time.
+
+</div>
+
+<!-- ===================================================== -->
+<!--                 💼 ABOUT ME                           -->
+<!-- ===================================================== -->
 
 ---
 
@@ -201,28 +328,6 @@ site:kaggle.com "data scientist" "top 1%"
 
 <div align="center">
 
-📊 Recruitment Intelligence: What I Bring
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ITRecruitersachin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&hide=contribs" height="150"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITRecruitersachin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="150"/>
-</div>
-
----
-
-## 🌠 Enter the Gravitational Field
-
-<div align="center">
-
-> *No resume escapes my gravity.*
-
-[![writeforsachin@gmail.com](https://img.shields.io/badge/Email_Me-0a0f1e?style=for-the-badge&logo=gmail&logoColor=f59e0b)](mailto:writeforsachin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_15K%2B-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://linkedin.com/in/recruitersachin)
-[![Submit Profile](https://img.shields.io/badge/Submit_Your_Profile-0a0f1e?style=for-the-badge&logo=github&logoColor=93c5fd)](mailto:writeforsachin@gmail.com?subject=Candidate%20Submission)
-
-</div>
-
 ---
 
 <div align="center">
@@ -278,24 +383,24 @@ site:kaggle.com "data scientist" "top 1%"
 <br>
 
 ---
-
+🌌 About Me — The Recruiter Behind the Code
 <div align="center">
-         🌌 About Me — The Recruiter Behind the Code
+         
+         Name: Sachin
+         Role: IT Recruiter & Talent Strategist
+         Location: United States
+         Focus: Niche Tech Talent | Multi-Vendor Staffing | HBITS (NY State)
+         Experience: IT • Engineering • AI/ML • Cybersecurity • ERP • Cloud • DevOps
+         Network: Independent candidate database + large professional network
+         Mode: Sub-vendor | Competitive multi-vendor environments
+         Superpower: Finding the talent others can't — fast.
 </div>
-```yaml
-Name        : Sachin
-Role        : IT Recruiter & Talent Strategist
-Location    : United States 🇺🇸
-Focus       : Niche Tech Talent | Multi-Vendor Staffing | HBITS (NY State)
-Experience  : IT • Engineering • AI/ML • Cybersecurity • ERP • Cloud • DevOps
-Network     : Independent candidate database + large professional network
-Mode        : Sub-vendor | Competitive multi-vendor environments
-NDA         : Active across all clients
-Superpower  : Finding the talent others can't — fast.
 
 ---
+
 🎯 What I Recruit For 
 <div align="center">
+
          🤖 AI / ML	🔐 Cybersecurity	☁️ Cloud & DevOps
          Data Scientists	SOC Analysts	AWS / Azure / GCP
          ML Engineers	Penetration Testers	Kubernetes / Docker
@@ -304,6 +409,7 @@ Superpower  : Finding the talent others can't — fast.
          SAP FICO / MM	Network Architects	Project Managers
          SAP Basis	CCNA / CCIE	Business Analysts
          SAP ABAP Dev	NOC Engineers	Scrum Masters
+
 
 </div>
 
