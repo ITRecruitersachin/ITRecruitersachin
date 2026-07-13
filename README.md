@@ -1,4 +1,4 @@
-<!-- SACHIN R -->
+[<!-- SACHIN R -->
 
 <div align="center">
 
@@ -39,29 +39,8 @@
 <p align="center">
 <img src="./Robo.gif" width="25%">
 <br>
-<i>⚡ ABOUT ME</i>
-</p>
 
-<div align="center"><pre>
- ┌───────────┐ ┌─────────┐ ┌─────────┐ ┌───┐  ┌──┐ ┌────────┐ ┌───────────┐
- │           │=│         │=│         │=│   │= │  │=│        │=│.         .│
-═│∙ ╒════════╛ │∙  ╒══╕  │ │∙  ╒═══╕∙│ │∙  │  │  │ ╘══╕∙ ╒══╛ │∙   ╒═══╕ ·│
-▓│  └────────┐▓│   └──┘  │▓│   │▓▓ ╘═┘ │   └══┘  │▓ ░░│  │░░▓ │    │░▓░│  │
-█╘═════╕     │ │   ╒══╕  │ │   │       │         │    │  │    │    │ ░ │  │
-       │     │░│   │ ░│ ∙│ │   │░  ╒═╕ │ ░ ╒══╕ ░│  ░░│  │░░  │    │   │  │
-▓┌─────┘     │░│   │ ░│  │░│   │░  │ │░│   │░ │  │░┌──┘  └──┐░│    │ ░ │  │
-═│∙      ∙   │═│ ∙ │ ═│ ∙│═│∙  ╘═══╛∙│═│∙  │  │∙ │═│ .   .  │═│  . │ = │ .│
- ╘═══════════╛ ╘═══╛  ╘══╛ ╘═════════╛ ╘═══╛  ╘══╛ ╘════════╛ ╘════╛   ╘══╛
- </pre></div>
-
- <div align="center"><pre>
-┌──┐ ┌─┐┌───────┐ ┌──────┐┌──────┐ ┌──────┐┌──────┐┌──────┐┌──────┐┌──┐ ┌─┐┌──────┐┌──────┐┌──────┐┌──────┐
-│∙ │ │∙││∙╒═════╛ ╘═╕∙ ╒═╛╘═╕∙·╒═╛ │∙ ╒═╕∙││∙ ╒═╕∙││∙ ╒═╕∙││∙ ╒═╕∙││∙ │═│∙│╘═╕∙ ╒═╛╘═╕∙·╒═╛│∙ ╒═╕∙││∙ ╒═╕∙│
-│  │ │ ││ └─────┐   │  │    │▒ |   |  └─┘┌┘│  └┐└─┘│  │▓└─┘│  └─┘┌┘│  │█│ │▓▓│  │░▓░▒│  │▒░│  └┐└─┘│  └─┘┌┘
-|  │ │ │╘═══╕  ∙│   │  │    │  │   │  ╒═╕└┐│  ┌┘┌─┐│  │░┌─┐│  ╒═╕└┐│  │ │ │░░│  │▓█░▒│  │▒░│  ┌┘┌─┐│  ╒═╕└┐
-│  └─┘ │┌───┘   │ ┌─┘∙ └─┐  │  │   │  │ │░││  │░│  │  ╘═╛ ││∙ │▒| ||  └─┘ |┌─┘  └─┐░▒│  │▒░│  │░│ ││  │░│ │
-╘══════╛╘═══════╛ ╘══════╛  ╘══╛   ╘══╛ ╘═╛╘══════╛╘══════╛╘══╛ ╘═╛╘══════╛╘══════╛  ╘══╛  ╘══════╛╘══╛ ╘═╛
- </pre></div>
+ > ## 🌌 About Me — The Recruiter Behind the Code
 
  > ## 💡 Professional Summary
 >
@@ -70,6 +49,36 @@
 > Experienced in sourcing, screening, and hiring professionals across Cloud, AI/ML, Data Engineering, Java, .NET, DevOps, Cybersecurity, SAP, Salesforce, ERP, QA, Networking, Infrastructure, Project Management, and emerging technologies.
 >
 > Passionate about leveraging AI-powered recruitment workflows, Boolean search, X-Ray sourcing, and modern recruiting technologies to deliver high-quality talent solutions.
+
+
+<div align="center">
+ 
+         Name: Sachin
+         Role: IT Recruiter & Talent Strategist
+         Location: United States
+         Focus: Niche Tech Talent | Multi-Vendor Staffing | HBITS (NY State)
+         Experience: IT • Engineering • AI/ML • Cybersecurity • ERP • Cloud • DevOps
+         Network: Independent candidate database + large professional network
+         Mode: Sub-vendor | Competitive multi-vendor environments
+         Superpower: Finding the talent others can't — fast.
+</div>
+
+---
+
+🎯 What I Recruit For
+<div align="center">
+
+         🤖 AI / ML	🔐 Cybersecurity	☁️ Cloud & DevOps
+         Data Scientists	SOC Analysts	AWS / Azure / GCP
+         ML Engineers	Penetration Testers	Kubernetes / Docker
+         LLM Specialists	CISO / vCISO	CI/CD Engineers
+         🏗️ ERP / SAP	🌐 Network Eng	📋 PM / BA
+         SAP FICO / MM	Network Architects	Project Managers
+         SAP Basis	CCNA / CCIE	Business Analysts
+         SAP ABAP Dev	NOC Engineers	Scrum Masters
+
+
+</div>
 
 ---
 
@@ -82,8 +91,6 @@
 <p align="center">
 <i>Real-time GitHub statistics updated automatically.</i>
 </p>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -381,36 +388,5 @@ site:kaggle.com "data scientist" "top 1%"
 <p align="center">
 <img src="./Dyno.gif.gif" width="100%">
 <br>
-
----
-🌌 About Me — The Recruiter Behind the Code
-<div align="center">
-         
-         Name: Sachin
-         Role: IT Recruiter & Talent Strategist
-         Location: United States
-         Focus: Niche Tech Talent | Multi-Vendor Staffing | HBITS (NY State)
-         Experience: IT • Engineering • AI/ML • Cybersecurity • ERP • Cloud • DevOps
-         Network: Independent candidate database + large professional network
-         Mode: Sub-vendor | Competitive multi-vendor environments
-         Superpower: Finding the talent others can't — fast.
-</div>
-
----
-
-🎯 What I Recruit For 
-<div align="center">
-
-         🤖 AI / ML	🔐 Cybersecurity	☁️ Cloud & DevOps
-         Data Scientists	SOC Analysts	AWS / Azure / GCP
-         ML Engineers	Penetration Testers	Kubernetes / Docker
-         LLM Specialists	CISO / vCISO	CI/CD Engineers
-         🏗️ ERP / SAP	🌐 Network Eng	📋 PM / BA
-         SAP FICO / MM	Network Architects	Project Managers
-         SAP Basis	CCNA / CCIE	Business Analysts
-         SAP ABAP Dev	NOC Engineers	Scrum Masters
-
-
-</div>
 
 ---
