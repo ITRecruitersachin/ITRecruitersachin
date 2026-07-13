@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Binary Pulse Beat — Sachin</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #060610; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; font-family: 'JetBrains Mono', monospace; }
+  canvas { display: block; border-radius: 12px; box-shadow: 0 0 60px rgba(6,182,212,0.25), 0 0 120px rgba(6,182,212,0.08); }
+  .controls { margin-top: 20px; display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
+  button {
+    background: rgba(6,182,212,0.1); border: 1px solid rgba(6,182,212,0.4);
+    color: #67e8f9; font-family: 'JetBrains Mono', monospace; font-size: 11px;
+    padding: 8px 18px; border-radius: 6px; cursor: pointer; letter-spacing: 1px; transition: all 0.2s;
+  }
+  button:hover { background: rgba(6,182,212,0.25); border-color: #06b6d4; }
+  button.active { background: rgba(6,182,212,0.3); border-color: #22d3ee; color: #fff; }
+  #btnRecord { background: rgba(239,68,68,0.12); border-color: rgba(239,68,68,0.5); color: #fca5a5; }
+  #btnRecord:hover { background: rgba(239,68,68,0.25); border-color: #ef4444; }
+  #btnRecord.recording { background: rgba(239,68,68,0.4); border-color: #ef4444; color: #fff; animation: rpulse 0.8s infinite; }
+  @keyframes rpulse { 0%,100%{ box-shadow:0 0 0 0 rgba(239,68,68,0.5) } 50%{ box-shadow:0 0 0 8px rgba(239,68,68,0) } }
+  #status { margin-top: 12px; font-size: 10px; color: #06b6d4; letter-spacing: 1.5px; min-height: 14px; text-align:center; }
+  #bar-wrap { width: 220px; height: 4px; background: rgba(6,182,212,0.12); border-radius: 2px; margin: 7px auto 0; display:none; }
+  #bar-fill { height: 100%; width: 0%; background: linear-gradient(90deg,#7c3aed,#06b6d4); border-radius: 2px; transition: width 0.08s; }
+  .hint { color: rgba(100,116,139,0.5); font-size: 10px; margin-top: 10px; letter-spacing: 1px; text-align:center; }
+</style>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Syne:wght@700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<canvas id="c"></canvas>
+
+<div class="controls">
+  <button id="btnCyan"    class="active" onclick="setTheme('cyan')">CYAN</button>
+  <button id="btnGreen"   onclick="setTheme('green')">MATRIX</button>
+  <button id="btnPurple"  onclick="setTheme('purple')">VIOLET</button>
+  <button id="btnFire"    onclick="setTheme('fire')">FIRE</button>
+  <button id="btnRainbow" onclick="setTheme('rainbow')">RAINBOW</button>
+  <button id="btnRecord"  onclick="toggleRecord()">⬤ REC GIF</button>
+</div>
+<div id="status">// pick a theme · hit REC GIF to capture</div>
+<div id="bar-wrap"><div id="bar-fill"></div></div>
+<div class="hint">// 3 sec HD capture · auto-downloads as .gif</div>
+
+<!-- gif.js CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gif.js/0.2.0/gif.js"></script>
+<script>
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+const W = 840, H = 280;
+canvas.width = W; canvas.height = H;
+
+let theme = 'cyan', t = 0;
+let recording = false, gifEncoder = null, frameCount = 0;
+const TOTAL_FRAMES = 90; // 3 sec @ ~30fps
+
+const themes = {
+  cyan:    { base: 180, bg: '#060610', banner: '#06b6d4', text: '#67e8f9',  mid: '#0891b2' },
+  green:   { base: 130, bg: '#030e05', banner: '#00ff41', text: '#39ff14',  mid: '#00c832' },
+  purple:  { base: 270, bg: '#0a0614', banner: '#a855f7', text: '#d8b4fe',  mid: '#7c3aed' },
+  fire:    { base: 20,  bg: '#0f0500', banner: '#f97316', text: '#fde68a',  mid: '#ef4444' },
+  rainbow: { base: -1,  bg: '#08080f', banner: '#06b6d4', text: '#ffffff',  mid: '#7c3aed' },
+};
+
+function setTheme(name) {
+  theme = name;
+  document.querySelectorAll('button:not(#btnRecord)').forEach(b => b.classList.remove('active'));
+  document.getElementById('btn' + name.charAt(0).toUpperCase() + name.slice(1)).classList.add('active');
+}
+
+// Grid
+const ROWS = 10, COLS = 72;
+const cellW = W / COLS, cellH = H / ROWS;
+const cells = Array.from({length: ROWS}, () =>
+  Array.from({length: COLS}, () => ({
+    v: Math.random() > 0.5 ? 1 : 0,
+    age: Math.random() * 80,
+    flipAt: 40 + Math.random() * 60,
+  }))
+);
+
+// Pulses
+const pulses = [
+  { x: 0,       speed: 3.2, amp: 1.0 },
+  { x: W * 0.4, speed: 2.6, amp: 0.7 },
+  { x: W * 0.75,speed: 4.0, amp: 0.5 },
+];
+let beatBars = [], beatTimer = 0;
+function spawnBeat() { beatBars.push({ x: -10, speed: 6 + Math.random() * 4, alpha: 1 }); }
+
+// ── RECORD ──────────────────────────────────────────────
+function toggleRecord() {
+  if (recording) return;
+  const btn = document.getElementById('btnRecord');
+  const status = document.getElementById('status');
+  const barWrap = document.getElementById('bar-wrap');
+  const barFill = document.getElementById('bar-fill');
+
+  if (typeof GIF === 'undefined') {
+    status.textContent = '✗ gif.js failed to load — try refreshing';
+    return;
+  }
+
+  recording = true;
+  frameCount = 0;
+  btn.classList.add('recording');
+  btn.textContent = '● RECORDING…';
+  barWrap.style.display = 'block';
+  barFill.style.width = '0%';
+  status.textContent = `CAPTURING ${TOTAL_FRAMES} FRAMES · DO NOT SWITCH TABS`;
+
+  gifEncoder = new GIF({
+    workers: 2,
+    quality: 4,
+    width: W,
+    height: H,
+    workerScript: 'https://cdnjs.cloudflare.com/ajax/libs/gif.js/0.2.0/gif.worker.js',
+  });
+
+  gifEncoder.on('progress', p => {
+    barFill.style.width = (p * 100) + '%';
+    status.textContent = `ENCODING GIF… ${Math.floor(p * 100)}%`;
+  });
+
+  gifEncoder.on('finished', blob => {
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url; a.download = 'sachin-binary-pulse.gif'; a.click();
+    URL.revokeObjectURL(url);
+    recording = false;
+    btn.classList.remove('recording');
+    btn.textContent = '⬤ REC GIF';
+    barWrap.style.display = 'none';
+    status.textContent = '✓ GIF DOWNLOADED — sachin-binary-pulse.gif';
+  });
+}
+
+// ── DRAW ────────────────────────────────────────────────
+function draw() {
+  const th = themes[theme];
+
+  ctx.fillStyle = th.bg;
+  ctx.fillRect(0, 0, W, H);
+
+  // Scanlines
+  for (let y = 0; y < H; y += 4) {
+    ctx.fillStyle = 'rgba(0,0,0,0.18)';
+    ctx.fillRect(0, y, W, 1);
+  }
+
+  // Beat bars
+  beatTimer++;
+  if (beatTimer % 55 === 0) spawnBeat();
+  beatBars = beatBars.filter(b => b.x < W + 20);
+  beatBars.forEach(b => {
+    b.x += b.speed; b.alpha = Math.max(0, 1 - b.x / W);
+    const g = ctx.createLinearGradient(b.x - 20, 0, b.x + 20, 0);
+    g.addColorStop(0, th.banner + '00');
+    g.addColorStop(0.5, th.banner + Math.floor(b.alpha * 80).toString(16).padStart(2,'0'));
+    g.addColorStop(1, th.banner + '00');
+    ctx.fillStyle = g; ctx.fillRect(b.x - 20, 0, 40, H);
+  });
+
+  // Pulses
+  pulses.forEach(p => { p.x += p.speed; if (p.x > W + 80) p.x = -80; });
+
+  // Binary cells
+  cells.forEach((row, ri) => {
+    row.forEach((cell, ci) => {
+      cell.age++;
+      if (cell.age > cell.flipAt) { cell.v ^= 1; cell.age = 0; cell.flipAt = 35 + Math.random() * 70; }
+      const cx = ci * cellW + cellW / 2;
+      const cy = ri * cellH + cellH * 0.75;
+      let pulseBoost = 0;
+      pulses.forEach(p => { const d = Math.abs(cx - p.x); if (d < 60) pulseBoost += (1 - d/60) * p.amp; });
+      let beatBoost = 0;
+      beatBars.forEach(b => { const d = Math.abs(cx - b.x); if (d < 30) beatBoost += (1 - d/30) * b.alpha * 1.5; });
+      const sine = Math.sin(t * 0.035 - ci * 0.12 + ri * 0.4) * 0.5 + 0.5;
+      let alpha = cell.v === 1
+        ? Math.min(1, 0.25 + sine * 0.4 + pulseBoost * 0.7 + beatBoost * 0.8)
+        : Math.min(1, 0.03 + sine * 0.05 + pulseBoost * 0.15 + beatBoost * 0.2);
+      const hue = theme === 'rainbow' ? (t * 0.5 + ci * 5 + ri * 20) % 360 : th.base + sine * 30;
+      ctx.font = `bold ${Math.floor(cellH * 0.55)}px JetBrains Mono, monospace`;
+      ctx.textAlign = 'center';
+      ctx.shadowColor = alpha > 0.6 ? `hsla(${hue},100%,65%,0.8)` : 'transparent';
+      ctx.shadowBlur = alpha > 0.6 ? 8 : 0;
+      ctx.fillStyle = `hsla(${hue},95%,${55 + alpha * 25}%,${alpha})`;
+      ctx.fillText(cell.v, cx, cy);
+    });
+  });
+  ctx.shadowBlur = 0;
+
+  // ── BANNER ──────────────────────────────────────────
+  const bw = 460, bh = 64, bx = W/2 - bw/2, by = H/2 - bh/2;
+  ctx.fillStyle = th.bg + 'ee'; ctx.fillRect(bx, by, bw, bh);
+  ctx.save();
+  ctx.strokeStyle = th.banner; ctx.lineWidth = 1.5;
+  ctx.setLineDash([6,3]); ctx.lineDashOffset = -t * 0.5;
+  ctx.strokeRect(bx, by, bw, bh);
+  ctx.setLineDash([]); ctx.restore();
+
+  // Corner marks
+  [[bx,by],[bx+bw,by],[bx,by+bh],[bx+bw,by+bh]].forEach(([x,y]) => {
+    const sx = x < W/2 ? 1 : -1, sy = y < H/2 ? 1 : -1;
+    ctx.strokeStyle = th.text; ctx.lineWidth = 2;
+    ctx.beginPath(); ctx.moveTo(x+sx*10,y); ctx.lineTo(x,y); ctx.lineTo(x,y+sy*10); ctx.stroke();
+  });
+
+  // Main name
+  ctx.font = 'bold 22px JetBrains Mono, monospace';
+  ctx.textAlign = 'center';
+  ctx.shadowColor = th.banner; ctx.shadowBlur = 18 + Math.sin(t*0.05)*8;
+  ctx.fillStyle = th.text;
+  ctx.fillText('01010011 · SACHIN · 01000111', W/2, H/2 + 2);
+  ctx.shadowBlur = 0;
+
+  // Sub label
+  ctx.font = 'bold 11px JetBrains Mono, monospace';
+  ctx.fillStyle = th.mid + 'dd';
+  ctx.fillText('TECHNICAL RECRUITER  ·  GITHUB', W/2, H/2 + 22);
+
+  // HEX counters
+  const hexVal = (Math.floor(t * 0.4) % 0xFFFF).toString(16).toUpperCase().padStart(4,'0');
+  ctx.font = '9px JetBrains Mono, monospace';
+  ctx.fillStyle = th.banner + '77';
+  ctx.textAlign = 'left';  ctx.fillText('0x' + hexVal, 10, H - 10);
+  ctx.textAlign = 'right'; ctx.fillText('SIG:' + Math.floor(85 + Math.sin(t*0.07)*10) + '%', W-10, H-10);
+
+  // Waveform strip
+  const stripY = H - 26;
+  for (let x = 0; x < W; x += 2) {
+    const wave = Math.sin(x*0.035+t*0.08)*8 + Math.sin(x*0.06-t*0.05)*4 + Math.sin(x*0.012+t*0.03)*5;
+    const wA = 0.3 + Math.abs(wave)/17*0.5;
+    ctx.fillStyle = `hsla(${theme==='rainbow'?(x/W*360+t)%360:themes[theme].base},90%,65%,${wA})`;
+    ctx.fillRect(x, stripY - Math.abs(wave), 2, Math.abs(wave)*2);
+  }
+
+  // Capture frame if recording
+  if (recording && gifEncoder) {
+    gifEncoder.addFrame(canvas, { copy: true, delay: 33 });
+    frameCount++;
+    const pct = Math.floor((frameCount / TOTAL_FRAMES) * 100);
+    document.getElementById('bar-fill').style.width = pct + '%';
+    document.getElementById('status').textContent = `CAPTURING… ${frameCount}/${TOTAL_FRAMES} FRAMES`;
+    if (frameCount >= TOTAL_FRAMES) {
+      recording = false;
+      document.getElementById('btnRecord').textContent = '⬤ ENCODING…';
+      document.getElementById('status').textContent = 'ENCODING GIF — PLEASE WAIT…';
+      gifEncoder.render();
+    }
+  }
+
+  t++;
+  requestAnimationFrame(draw);
+}
+
+draw();
+</script>
+</body>
+</html>
