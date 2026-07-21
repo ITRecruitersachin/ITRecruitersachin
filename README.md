@@ -4,6 +4,8 @@
 
 ![Black Hole Banner](https://raw.githubusercontent.com/ITRecruitersachin/ITRecruitersachin/main/blackhole.jpg.jpg)
 
+![Sachin - US IT Recruiter](./sachin-recruiter-banner-cosmic.svg)
+
 </div>
 
 <div align="center">
