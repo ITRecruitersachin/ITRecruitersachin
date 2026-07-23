@@ -1,0 +1,1019 @@
+<div align="center">
+
+<pre>
+██╗  ██╗███████╗ █████╗ ██████╗ ██████╗  ██████╗  ██████╗ ███╗   ███╗
+██║  ██║██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗████╗ ████║
+███████║█████╗  ███████║██║  ██║██████╔╝██║   ██║██║   ██║██╔████╔██║
+██╔══██║██╔══╝  ██╔══██║██║  ██║██╔══██╗██║   ██║██║   ██║██║╚██╔╝██║
+██║  ██║███████╗██║  ██║██████╔╝██║  ██║╚██████╔╝╚██████╔╝██║ ╚═╝ ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝
+</pre>
+
+# Headroom
+
+### The Local Context Compression Layer for AI Agents
+
+Compress prompts, tool outputs, RAG context, logs, files, and conversation history **before they reach your LLM**—reducing token usage by **60–95%** while preserving answer quality.
+
+**Library • Proxy • MCP • Cross-Agent Memory • Local-First • Reversible Compression**
+
+</div>
+
+---
+
+<div align="center">
+
+[![CI](https://github.com/chopratejas/headroom/actions/workflows/ci.yml/badge.svg)](https://github.com/chopratejas/headroom/actions/workflows/ci.yml)
+[![Coverage](https://codecov.io/gh/chopratejas/headroom/graph/badge.svg)](https://app.codecov.io/gh/chopratejas/headroom)
+[![PyPI](https://img.shields.io/pypi/v/headroom-ai.svg)](https://pypi.org/project/headroom-ai/)
+[![npm](https://img.shields.io/npm/v/headroom-ai.svg)](https://www.npmjs.com/package/headroom-ai)
+[![Model](https://img.shields.io/badge/model-Kompress--v2--base-yellow.svg)](https://huggingface.co/chopratejas/kompress-v2-base)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![Documentation](https://img.shields.io/badge/docs-online-blue.svg)](https://headroom-docs.vercel.app/docs)
+
+</div>
+
+---
+
+<div align="center">
+
+### Quick Links
+
+[Documentation](https://headroom-docs.vercel.app/docs) •
+[Quick Start](#get-started) •
+[Installation](#installation) •
+[Benchmarks](#benchmarks) •
+[Architecture](#architecture) •
+[Compatibility](#agent-compatibility-matrix) •
+[Discord](https://discord.gg/yRmaUNpsPJ) •
+[Enterprise](ENTERPRISE.md)
+
+</div>
+
+---
+
+> **For AI Agents and LLMs**
+>
+> Read the local repository instructions from **`/llms.txt`**, or access the latest published versions:
+>
+> - https://headroom-docs.vercel.app/llms.txt
+> - https://headroom-docs.vercel.app/llms-full.txt
+
+---
+
+<p align="center">
+<a href="https://trendshift.io/repositories/20881">
+<img
+src="https://trendshift.io/api/badge/repositories/20881"
+alt="Headroom Trendshift Ranking"
+width="250"
+/>
+</a>
+</p>
+
+---
+
+# What is Headroom?
+
+Headroom is a **local context optimization layer** for AI applications and coding agents.
+
+Instead of sending raw context directly to an LLM, Headroom intelligently compresses:
+
+- Tool outputs
+- Build logs
+- Large files
+- RAG documents
+- Conversation history
+- JSON payloads
+- Source code
+- Images
+- Agent memory
+
+The result is dramatically lower token consumption while maintaining answer quality.
+
+Unlike traditional prompt compaction, Headroom operates **locally**, supports **multiple content types**, and can **reconstruct original content on demand** using reversible compression (CCR).
+
+---
+
+# Why Headroom?
+
+Modern AI workflows spend most of their tokens on context rather than reasoning.
+
+Headroom reduces unnecessary context before it reaches the model, allowing AI agents to:
+
+- process larger projects
+- lower API costs
+- reduce latency
+- improve cache efficiency
+- retain important information
+- share memory across multiple agents
+- preserve retrieval of original content when needed
+
+Whether you're using Claude Code, Codex, Cursor, OpenHands, Goose, Continue, LangChain, or your own AI application, Headroom integrates into existing workflows with minimal changes.
+
+---
+
+# Key Features
+
+- 🚀 60–95% token reduction
+- 🧠 Cross-agent shared memory
+- 🔄 Reversible compression (CCR)
+- 📦 Python & TypeScript libraries
+- 🌐 OpenAI-compatible proxy
+- 🔌 MCP Server
+- ⚡ Zero-code integration mode
+- 🧩 Framework adapters
+- 📊 Live savings dashboard
+- 🧪 Built-in benchmarking
+- 🔍 Intelligent content routing
+- 🛡 Local-first architecture
+- 📁 Multi-format compression
+- 🤖 Works with major coding agents
+
+- ---
+
+# Architecture
+
+Headroom sits between your application (or AI agent) and the language model, reducing unnecessary context before every request.
+
+```text
+                    ┌──────────────────────────────┐
+                    │   Your AI Agent / Application │
+                    │──────────────────────────────│
+                    │ Claude │ Codex │ Cursor │ MCP │
+                    │ LangChain │ Agno │ OpenAI SDK │
+                    └──────────────┬───────────────┘
+                                   │
+                    Prompts • Logs • Files • RAG • Tools
+                                   │
+                                   ▼
+        ┌────────────────────────────────────────────────────┐
+        │                    Headroom                        │
+        │────────────────────────────────────────────────────│
+        │                                                    │
+        │  CacheAligner                                      │
+        │        │                                           │
+        │        ▼                                           │
+        │  ContentRouter                                     │
+        │        │                                           │
+        │        ├── SmartCrusher (JSON)                     │
+        │        ├── CodeCompressor (AST)                    │
+        │        ├── Kompress-v2 (Text)                      │
+        │        └── Image Compression                       │
+        │                                                    │
+        │  CCR (Reversible Compression)                      │
+        │  Cross-Agent Memory                                │
+        │  MCP Server                                        │
+        │  Learning Engine                                   │
+        └──────────────────────────┬─────────────────────────┘
+                                   │
+                     Optimized Context + Retrieval Metadata
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │       LLM Provider           │
+                    │──────────────────────────────│
+                    │ OpenAI │ Anthropic │ Gemini  │
+                    │ Bedrock │ Azure │ Others     │
+                    └──────────────────────────────┘
+```
+
+---
+
+# How It Works
+
+Every request follows the same optimized pipeline.
+
+## 1. Context Collection
+
+Headroom intercepts all incoming context, including:
+
+- Prompts
+- Tool outputs
+- Conversation history
+- Source code
+- JSON responses
+- Build logs
+- RAG documents
+- Images
+
+---
+
+## 2. Intelligent Routing
+
+The **ContentRouter** identifies the content type and automatically selects the most suitable compression strategy.
+
+| Content Type | Compression Engine |
+|--------------|-------------------|
+| JSON | SmartCrusher |
+| Source Code | CodeCompressor |
+| Plain Text | Kompress-v2 |
+| Images | Image Compression |
+| Mixed Content | Hybrid Pipeline |
+
+No manual configuration is required.
+
+---
+
+## 3. Compression
+
+Compression is applied only where it provides measurable value.
+
+Rather than removing information indiscriminately, Headroom prioritizes preserving semantic meaning while eliminating redundancy.
+
+Benefits include:
+
+- Lower token usage
+- Reduced API cost
+- Faster requests
+- Higher context capacity
+- Improved provider cache utilization
+
+---
+
+## 4. Reversible Compression (CCR)
+
+Original content is retained locally.
+
+If additional detail is required, the model can retrieve the original data using the CCR retrieval mechanism without permanently increasing prompt size.
+
+This enables aggressive compression while maintaining accuracy.
+
+---
+
+## 5. Model Inference
+
+The optimized prompt is sent to the configured LLM provider.
+
+Supported providers include:
+
+- OpenAI
+- Anthropic
+- Azure OpenAI
+- Amazon Bedrock
+- Google Gemini
+- OpenAI-compatible APIs
+
+---
+
+# Why the Pipeline Matters
+
+Traditional AI workflows repeatedly transmit the same large context.
+
+Headroom minimizes redundant information before every request, allowing models to focus on the information that matters most.
+
+This approach improves:
+
+- Cost efficiency
+- Latency
+- Context utilization
+- Cache hit rates
+- Multi-agent collaboration
+
+without requiring changes to existing applications.
+
+---
+
+# Get Started
+
+Get up and running in under a minute.
+
+## 1. Install
+
+### Python
+
+```bash
+pip install "headroom-ai[all]"
+```
+
+### Node.js
+
+```bash
+npm install headroom-ai
+```
+
+---
+
+## 2. Choose a Deployment Mode
+
+### Wrap an AI Agent
+
+```bash
+headroom wrap claude
+```
+
+### Start the Proxy
+
+```bash
+headroom proxy --port 8787
+```
+
+### Use as a Library
+
+Python
+
+```python
+from headroom import compress
+```
+
+TypeScript
+
+```typescript
+import { compress } from "headroom-ai";
+```
+
+---
+
+## 3. Verify Installation
+
+```bash
+headroom doctor
+```
+
+Run performance diagnostics:
+
+```bash
+headroom perf
+```
+
+Open the live dashboard:
+
+```bash
+headroom dashboard
+```
+
+---
+
+# Supported Deployment Modes
+
+| Mode | Best For |
+|------|----------|
+| Library | Existing Python and TypeScript applications |
+| Proxy | Any OpenAI-compatible client |
+| MCP Server | MCP-enabled tools |
+| Agent Wrapper | Claude Code, Codex, Copilot, Cursor, Continue, and more |
+
+---
+
+# Benchmarks
+
+Headroom has been evaluated against real-world AI engineering workflows and standard NLP benchmarks to ensure that token reduction does not significantly impact answer quality.
+
+## Real-World Token Savings
+
+| Workload | Input Tokens | Optimized Tokens | Reduction |
+|-----------|-------------:|-----------------:|----------:|
+| Code Search (100 Results) | 17,765 | 1,408 | **92%** |
+| SRE Incident Debugging | 65,694 | 5,118 | **92%** |
+| GitHub Issue Triage | 54,174 | 14,761 | **73%** |
+| Large Codebase Exploration | 78,502 | 41,254 | **47%** |
+
+> Savings vary depending on content type, redundancy, and workload characteristics.
+
+---
+
+## Quality Benchmarks
+
+Compression is designed to preserve semantic meaning while minimizing unnecessary context.
+
+| Benchmark | Category | Baseline | Headroom | Difference |
+|------------|----------|---------:|----------:|-----------:|
+| GSM8K | Mathematical Reasoning | 87.0% | 87.0% | ±0.0 |
+| TruthfulQA | Factual Accuracy | 53.0% | 56.0% | +3.0 |
+| SQuAD v2 | Question Answering | — | 97% | 19% Compression |
+| BFCL | Tool Calling | — | 97% | 32% Compression |
+
+Run the evaluation suite locally:
+
+```bash
+python -m headroom.evals suite --tier 1
+```
+
+For complete benchmark methodology and reproducibility, refer to the project documentation.
+
+---
+
+# Output Token Optimization
+
+Reducing prompt size lowers **input token costs**, but model responses also contribute significantly to API usage.
+
+Headroom can optimize output generation by reducing unnecessary verbosity while preserving important technical content.
+
+## Features
+
+- Removes repetitive introductions
+- Avoids unnecessary code repetition
+- Reduces excessive reasoning on routine tasks
+- Encourages concise responses
+- Preserves technical accuracy
+
+Enable output shaping:
+
+```bash
+export HEADROOM_OUTPUT_SHAPER=1
+```
+
+Then start the proxy:
+
+```bash
+headroom proxy --port 8787
+```
+
+---
+
+## Automatic Verbosity Learning
+
+Different users prefer different response styles.
+
+Headroom can analyze previous interactions and automatically determine an appropriate verbosity level.
+
+Preview recommendations:
+
+```bash
+headroom learn --verbosity
+```
+
+Apply recommendations:
+
+```bash
+headroom learn --verbosity --apply
+```
+
+---
+
+## Estimate Output Savings
+
+Display estimated response token reductions:
+
+```bash
+headroom output-savings
+```
+
+Example:
+
+```text
+Estimated Output Reduction
+
+31.7%
+
+95% Confidence Interval
+
+27.7% – 35.7%
+```
+
+For measured (rather than estimated) savings, configure a holdout group:
+
+```bash
+export HEADROOM_OUTPUT_HOLDOUT=0.1
+```
+
+---
+
+# Star History
+
+Track project growth over time.
+
+```html
+<a href="https://www.star-history.com/?repos=chopratejas/headroom&type=date">
+  <picture>
+    <img
+      alt="Star History"
+      src="https://api.star-history.com/chart?repos=chopratejas/headroom&type=date"
+    />
+  </picture>
+</a>
+```
+
+---
+
+# Agent Compatibility
+
+Headroom integrates with leading AI coding agents and OpenAI-compatible clients.
+
+| Agent | Supported | Notes |
+|--------|:---------:|------|
+| Claude Code | ✅ | Full wrapper support |
+| OpenAI Codex | ✅ | Shared memory |
+| Cursor | ✅ | Proxy configuration |
+| GitHub Copilot CLI | ✅ | Wrapper + Subscription Mode |
+| Aider | ✅ | Native integration |
+| Continue | ✅ | Configuration injection |
+| Cline | ✅ | Proxy support |
+| Goose | ✅ | Wrapper support |
+| OpenHands | ✅ | Wrapper support |
+| OpenCode | ✅ | Wrapper support |
+| OpenClaw | ✅ | Context Engine plugin |
+| Cortex Code | ✅ | Library mode |
+
+Any OpenAI-compatible application can connect through the Headroom proxy.
+
+---
+
+# GitHub Copilot Subscription Mode
+
+Authenticate once:
+
+```bash
+headroom copilot-auth login
+```
+
+Launch Copilot with Headroom:
+
+```bash
+headroom wrap copilot --subscription -- --model gpt-4o
+```
+
+Headroom transparently routes Copilot requests through its optimization pipeline before forwarding them to GitHub Copilot.
+
+For enterprise deployments, configure:
+
+```bash
+export GITHUB_COPILOT_ENTERPRISE_DOMAIN=your-domain.example.com
+```
+
+GitHub Enterprise Cloud users typically do **not** need this variable.
+
+---
+
+# When to Use Headroom
+
+Headroom is an excellent choice if you:
+
+- Use AI coding agents daily
+- Work with large repositories
+- Frequently exceed context limits
+- Want to reduce API costs
+- Need shared memory across agents
+- Require reversible compression
+- Prefer local processing
+
+---
+
+# When Headroom May Not Be Necessary
+
+Headroom may be unnecessary if you:
+
+- Use only a single provider's built-in prompt compaction
+- Rarely encounter context limits
+- Do not require cross-agent memory
+- Operate in environments where local processes cannot run
+
+- # Integrations
+
+Headroom is designed to integrate seamlessly with modern AI frameworks, SDKs, and development workflows. Whether you're building an AI application, using a coding agent, or deploying an enterprise solution, Headroom fits into your existing stack with minimal configuration.
+
+## Supported Integrations
+
+| Platform | Integration |
+|----------|-------------|
+| Python Applications | `compress(messages)` |
+| TypeScript / Node.js | `compress(messages)` |
+| OpenAI SDK | `withHeadroom(new OpenAI())` |
+| Anthropic SDK | `withHeadroom(new Anthropic())` |
+| Vercel AI SDK | `headroomMiddleware()` |
+| LiteLLM | `HeadroomCallback()` |
+| LangChain | `HeadroomChatModel` |
+| Agno | `HeadroomAgnoModel` |
+| Strands | Native Integration |
+| ASGI Applications | `CompressionMiddleware` |
+| Multi-Agent Systems | `SharedContext` |
+| MCP Clients | `headroom mcp install` |
+
+Headroom works with any OpenAI-compatible API through its proxy mode, enabling integration without application changes.
+
+---
+
+# Core Components
+
+Headroom automatically routes content to the most suitable optimization engine.
+
+## SmartCrusher
+
+Optimized for structured data:
+
+- JSON
+- Nested objects
+- Arrays
+- API responses
+
+---
+
+## CodeCompressor
+
+AST-aware compression supporting:
+
+- Python
+- JavaScript
+- TypeScript
+- Go
+- Rust
+- Java
+- C++
+- C#
+
+Code structure is preserved while redundant context is minimized.
+
+---
+
+## Kompress-v2
+
+A machine-learning model trained specifically for AI context compression.
+
+Designed for:
+
+- Documentation
+- Natural language
+- RAG content
+- Logs
+- Mixed text
+
+---
+
+## Image Compression
+
+Optimizes visual context before it reaches multimodal language models.
+
+Supported workloads include:
+
+- Screenshots
+- UI captures
+- Diagrams
+- Technical drawings
+- Mixed documents
+
+---
+
+## CacheAligner
+
+Improves prompt cache efficiency by stabilizing shared prompt prefixes.
+
+Benefits include:
+
+- Higher cache hit rates
+- Lower latency
+- Reduced inference costs
+
+---
+
+## Intelligent Context Manager
+
+Automatically prioritizes the most relevant information when context windows approach model limits.
+
+Key capabilities include:
+
+- Context ranking
+- Importance scoring
+- Rolling window management
+- Semantic prioritization
+
+---
+
+## Cross-Agent Memory
+
+Multiple AI agents can securely share compressed context.
+
+Supported workflows include:
+
+- Claude Code
+- Codex
+- Cursor
+- Continue
+- OpenHands
+- Goose
+
+This reduces duplicate processing across collaborative agent workflows.
+
+---
+
+# Installation
+
+## Python
+
+Install the complete feature set:
+
+```bash
+pip install "headroom-ai[all]"
+```
+
+---
+
+## Node.js
+
+```bash
+npm install headroom-ai
+```
+
+---
+
+## Docker
+
+```bash
+docker pull ghcr.io/chopratejas/headroom:latest
+```
+
+---
+
+## Optional Python Extras
+
+Install only the features you need.
+
+| Extra | Purpose |
+|--------|----------|
+| proxy | Proxy Server |
+| mcp | MCP Server |
+| ml | Machine Learning Models |
+| code | Code Compression |
+| memory | Cross-Agent Memory |
+| relevance | Context Ranking |
+| image | Image Compression |
+| langchain | LangChain Adapter |
+| agno | Agno Adapter |
+| evals | Benchmark Suite |
+| pytorch-mps | Apple Silicon Acceleration |
+
+Python **3.10 or later** is required.
+
+---
+
+# Updating
+
+Upgrade to the latest release:
+
+```bash
+headroom update
+```
+
+Check for updates only:
+
+```bash
+headroom update --check
+```
+
+Include pre-release versions:
+
+```bash
+headroom update --pre
+```
+
+The update command automatically detects how Headroom was installed and performs the appropriate upgrade.
+
+Supported installation methods include:
+
+- pip
+- pipx
+- uv
+- Virtual Environments
+
+For unsupported installation methods (such as editable Git checkouts or Docker images), Headroom provides the appropriate manual update instructions.
+
+---
+
+# Corporate Networks and SSL Inspection
+
+Some enterprise environments perform SSL inspection using internally managed Certificate Authorities (CAs).
+
+If installation fails with certificate verification errors, install Rust before installing Headroom:
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+rustup default stable
+```
+
+Then reinstall:
+
+```bash
+pip install "headroom-ai[all]"
+```
+
+Windows users:
+
+```powershell
+winget install Rustlang.Rustup
+rustup default stable
+```
+
+---
+
+## Strict TLS Validation
+
+If Python 3.13+ reports strict certificate validation errors, temporarily disable strict verification:
+
+```bash
+HEADROOM_TLS_STRICT=0 headroom proxy --port 8787
+```
+
+This relaxes strict certificate validation while preserving standard TLS verification.
+
+Refer to the documentation before using this option in production environments.
+
+---
+
+# Learning from Previous Sessions
+
+Headroom can analyze previous AI interactions and generate reusable guidance.
+
+```bash
+headroom learn
+```
+
+Target specific platforms:
+
+```bash
+headroom learn --target CLAUDE.md
+```
+
+or
+
+```bash
+headroom learn --target AGENTS.md
+```
+
+or
+
+```bash
+headroom learn --target GEMINI.md
+```
+
+Generated recommendations are written into project instruction files, helping future AI sessions avoid previously encountered mistakes.
+
+# Documentation
+
+Comprehensive documentation is available online and covers installation, architecture, integrations, configuration, deployment, and advanced features.
+
+| Topic | Description |
+|--------|-------------|
+| Quick Start | Install and begin using Headroom in minutes |
+| Installation | Python, Node.js, Docker, and platform-specific setup |
+| Architecture | Internal request lifecycle and compression pipeline |
+| Proxy | OpenAI-compatible proxy configuration |
+| MCP | MCP server installation and available tools |
+| Memory | Cross-agent shared memory |
+| Compression | How content optimization works |
+| CCR | Reversible compression architecture |
+| Cache Optimization | Prompt cache improvements |
+| Configuration | Runtime settings and environment variables |
+| Benchmarks | Performance methodology and evaluation suite |
+| Limitations | Current constraints and known trade-offs |
+
+For complete documentation, visit the official documentation site.
+
+---
+
+# Comparison
+
+Headroom differs from traditional prompt compression tools by operating locally, supporting multiple content types, and providing reversible compression.
+
+| Feature | Headroom | Typical Prompt Compression |
+|----------|:---------:|:-------------------------:|
+| Local Processing | ✅ | ❌ |
+| OpenAI-Compatible Proxy | ✅ | Limited |
+| Reversible Compression | ✅ | ❌ |
+| JSON Optimization | ✅ | Limited |
+| Source Code Compression | ✅ | Rare |
+| Image Compression | ✅ | Rare |
+| Cross-Agent Memory | ✅ | ❌ |
+| MCP Support | ✅ | Rare |
+| Framework Integrations | Extensive | Limited |
+
+---
+
+# Repository Structure
+
+```text
+headroom/
+├── docs/
+├── examples/
+├── headroom/
+│   ├── providers/
+│   ├── proxy/
+│   ├── compression/
+│   ├── memory/
+│   ├── routing/
+│   ├── integrations/
+│   └── evals/
+├── tests/
+├── benchmarks/
+├── .github/
+├── LICENSE
+├── README.md
+└── pyproject.toml
+```
+
+---
+
+# Development
+
+Clone the repository:
+
+```bash
+git clone https://github.com/chopratejas/headroom.git
+```
+
+Change into the project directory:
+
+```bash
+cd headroom
+```
+
+Install development dependencies:
+
+```bash
+uv sync --extra dev
+```
+
+Run the complete test suite:
+
+```bash
+uv run pytest
+```
+
+---
+
+# Contributing
+
+Contributions of all sizes are welcome.
+
+Examples include:
+
+- Bug reports
+- Feature requests
+- Documentation improvements
+- Performance enhancements
+- New integrations
+- Additional benchmarks
+- Framework adapters
+- Community examples
+
+Before opening a pull request:
+
+1. Ensure tests pass.
+2. Follow the existing coding style.
+3. Update documentation where necessary.
+4. Include relevant tests for new functionality.
+
+---
+
+# Community
+
+Join the community to ask questions, share feedback, and discuss new ideas.
+
+- Discord
+- GitHub Discussions
+- GitHub Issues
+
+Community contributions help shape future releases.
+
+---
+
+# License
+
+Headroom is released under the **Apache License 2.0**.
+
+See the `LICENSE` file for complete licensing information.
+
+---
+
+# Acknowledgements
+
+Special thanks to the maintainers and contributors whose work has helped shape the project.
+
+The project also builds upon ideas and technologies from the broader open-source AI ecosystem.
+
+---
+
+# Support the Project
+
+If Headroom has been useful in your workflow:
+
+- ⭐ Star the repository
+- 🍴 Fork the project
+- 🐛 Report issues
+- 💡 Suggest improvements
+- 📢 Share it with the community
+
+Your support helps improve documentation, integrations, benchmarks, and future releases.
+
+---
+
+# Roadmap
+
+Planned improvements include:
+
+- Additional language support
+- Expanded framework adapters
+- Enhanced multimodal compression
+- Improved evaluation tooling
+- Enterprise deployment features
+- More provider integrations
+- Advanced context analytics
+- Improved visualization dashboard
+
+---
+
+# Final Notes
+
+Headroom is designed to improve AI workflows without requiring changes to existing applications.
+
+Whether you're optimizing coding agents, enterprise AI systems, retrieval pipelines, or custom LLM applications, Headroom provides a practical approach to reducing token usage while preserving response quality.
+
+For feature requests, bug reports, or questions, please use the project's GitHub Issues or community channels.
