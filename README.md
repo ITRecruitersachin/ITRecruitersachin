@@ -1069,8 +1069,8 @@ F --> G[Onboarding]
   📊 PLACEMENTS BY WORK TYPE          📊 PLACEMENTS BY TECH DOMAIN
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  C2C Contract      ▓▓▓▓▓▓▓▓░  38%      Cloud / AWS / Azure   ▓▓▓▓▓▓▓▓░  38%
-  W2 Contract       ▓▓▓▓▓▓░░░  26%      Data / ML / AI        ▓▓▓▓▓▓░░░  26%
+  W2 Contract       ▓▓▓▓▓▓▓▓░  48%      Cloud / AWS / Azure   ▓▓▓▓▓▓▓▓░  38%
+  C2C Contract      ▓▓▓▓▓▓░░░  16%      Data / ML / AI        ▓▓▓▓▓▓░░░  26%
   Contract-to-Hire  ▓▓▓▓▓░░░░  22%      Full Stack Dev        ▓▓▓▓▓░░░░  20%
   Full-Time (FTE)   ▓▓▓▓░░░░░  14%      SAP / Oracle / ERP    ▓▓▓░░░░░░  10%
                                           Cyber / Network        ▓▓░░░░░░░   6%
