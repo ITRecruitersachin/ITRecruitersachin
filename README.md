@@ -49,9 +49,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect)](https://linkedin.com/in/recruitersachin)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Hire%20Me)](mailto:writeforsachin@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Chat)](https://wa.me/919742080111)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Chat)](https://wa.me/919742434111)
 [![Calendly](https://img.shields.io/badge/Book%20a%20Call-006BFF?style=for-the-badge&logo=googlemeet&logoColor=white)](https://calendly.com/ITRecruitersachin)
-[![Resume](https://img.shields.io/badge/Resume-4F46E5?style=for-the-badge&logo=googledrive&logoColor=white&label=PDF)](https://drive.google.com/sachin-resume)
 [![Profile Views](https://komarev.com/ghpvc/?username=ITRecruitersachin&label=👁️+Views&color=00e5ff&style=for-the-badge)](https://github.com/ITRecruitersachin)
 
 </div>
@@ -157,7 +156,7 @@ motto: >
 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:writeforsachin@gmail.com)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919742080111)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919742434111)
 
 [![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/ITRecruitersachin)
 
@@ -476,19 +475,14 @@ A D V A N C E D   T A L E N T   S O U R C I N G
 <summary><b>📂 Click to expand</b></summary>
 
 ### 🗂 Applicant Tracking Systems (ATS)
-Bullhorn · JobDiva · Ceipal · iCIMS · Oracle Taleo · Greenhouse · Lever · Workday Recruiting · SmartRecruiters · Zoho Recruit · Recruit CRM · Crelate
-
-### 🤝 Vendor Management Systems (VMS)
-Fieldglass · Beeline · IQNavigator · VectorVMS
+Bullhorn · JobDiva · Ceipal · SmartRecruiters
 
 ### 🏢 Enterprise Talent Platforms
 PeopleFluent · Workday Recruiting · Oracle Taleo · iCIMS
 
 ### 💬 Collaboration & Productivity
-Microsoft Teams · Zoom · Outlook · Gmail · Slack · Loom · Notion · Trello · Asana · Calendly · ClickUp
+Microsoft Teams · Zoom · Outlook · Gmail · Slack · Calendly
 
-### 📊 Analytics
-Tableau · Excel + BI · Looker · Google Data Studio · Recruiter Analytics Query (AQ)
 
 ### 🔐 Compliance
 I-9/E-Verify · OFCCP Rules · EEOC Compliance · SOC2 Aware · GDPR/CCPA
