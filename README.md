@@ -1174,6 +1174,19 @@ F --> G[Onboarding]
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ITRecruitersachin&theme=tokyo-night&hide_border=true&area=true&radius=16" />
 </p>
 
+<div align="center">
+  <img
+    src="./profile/stats.svg"
+    height="150"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="150"
+    alt="Top Languages"
+  />
+</div>
+
 ---
 
 <h2 align="center">🔥 Contribution Heatmap</h2>
@@ -1183,7 +1196,25 @@ F --> G[Onboarding]
 </p>
 
 ---
+<p align="center">
+  Pacman Contribution Graph Action
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ITRecruitersachin/ITRecruitersachin/pacman-output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ITRecruitersachin/ITRecruitersachin/pacman-output/pacman-contribution-graph.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/ITRecruitersachin/ITRecruitersachin/pacman-output/pacman-contribution-graph.svg"
+    alt="Pacman contribution graph"
+    width="100%"
+  />
+</picture>
 
+---
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
@@ -1195,14 +1226,6 @@ F --> G[Onboarding]
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ITRecruitersachin&label=PROFILE+VISITORS&style=for-the-badge&color=0e75b6"/>
-</p>
-
-</picture>
-
-</div>
 
 <div align="center">
 
