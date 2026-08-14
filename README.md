@@ -209,7 +209,7 @@ motto: >
 | Semantic Search | Cloud Computing (AWS, Azure, GCP) | Recruitment Delivery |
 | Skills-Based Matching | Cloud & Platform Engineering | Candidate Screening |
 | Candidate Enrichment | Data Engineering | Technical Assessment |
-| Advanced Boolean Search | Data Science & Analytics | Resume Evaluation |
+| Advanced Boolean Search | Data Science &  | Resume Evaluation |
 | Google X-Ray Search | Machine Learning | Interview Coordination |
 | OSINT Research | Deep Learning | Hiring Manager Partnership |
 | LinkedIn Recruiter | LLM Engineering | Client Relationship Management |
@@ -1143,13 +1143,27 @@ F --> G[Onboarding]
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ITRecruitersachin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+  
   <img height="180" src="https://streak-stats.demolab.com?user=ITRecruitersachin&theme=tokyonight&hide_border=true" />
+
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ITRecruitersachin?style=for-the-badge&color=00F7FF&labelColor=0D1117&logo=github" />
+  <img src="https://img.shields.io/github/stars/ITRecruitersachin?style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/ITRecruitersachin&color=B388FF&labelColor=0D1117" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITRecruitersachin&layout=donut&theme=tokyonight&hide_border=true" />
+  <img src="images/userstats.svg" alt="GitHub Stats, Repos, and Top Languages" />
+</p>
+
+<p align="center">
+  <img src="profile/streak.svg" alt="GitHub Streak Stats" />
 </p>
 
 ---
