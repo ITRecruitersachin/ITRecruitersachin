@@ -1,8 +1,8 @@
 
       <svg
-        width="300"
+        width="320"
         height="115"
-        viewBox="0 0 300 115"
+        viewBox="0 0 320 115"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -92,7 +92,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="299"
+          width="319"
           fill="#282a36"
           stroke-opacity="1"
         />
@@ -122,7 +122,7 @@
       
   
       <mask id="rect-mask">
-          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
+          <rect x="0" y="0" width="270" height="8" fill="white" rx="5"/>
         </mask>
         
         <rect
@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="250"
+          width="270"
           height="8"
           fill="#e34c26"
         />
