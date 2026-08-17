@@ -324,7 +324,7 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
 
 ## 📈 Live Job Market Pulse · Hottest Roles 2025
 
-> Demand signals updated based on job board activity, LinkedIn postings & placement data.
+> Demand signals updated based on job board activity.
 
 | Role | Demand | YoY Growth | Avg. Rate |
 |---|:-:|:-:|:-:|
@@ -362,14 +362,6 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
 <img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27bar%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27Northeast%27%2C+%27Midwest%27%2C+%27South+%28incl.+D.C.%29%27%2C+%27West%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27States+Covered%27%2C%0A++++++data%3A+%5B9%2C+12%2C+17%2C+13%5D%2C%0A++++++backgroundColor%3A+%5B%27%239b59b6%27%2C+%27%23e67e22%27%2C+%27%231abc9c%27%2C+%27%23e74c3c%27%5D%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Nationwide+Coverage+%E2%80%94+All+50+States+%2B+D.C.%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scales%3A+%7B%0A++++++xAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+display%3A+false+%7D+%7D%5D%2C%0A++++++yAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%0A++++%7D%0A++%7D%0A%7D&w=560&h=300&bkg=transparent&devicePixelRatio=2" alt="States covered by region"/>
 
 > Region groupings follow the standard U.S. Census Bureau definitions (Northeast: 9 · Midwest: 12 · South incl. D.C.: 17 · West: 13 = 51).
-
----
-
-## 🧭 Domain Expertise (Requisitions Filled)
-
-<div align="center">
-<img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27bar%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27IT+%2F+Software%27%2C+%27Healthcare+%2F+Clinical%27%2C+%27Banking+%26+Finance%27%2C+%27Engineering%27%2C+%27Life+Sciences%27%2C+%27Government+%2F+Public+Sector%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27Requisitions+Filled%27%2C%0A++++++data%3A+%5B420%2C+180%2C+150%2C+110%2C+90%2C+60%5D%2C%0A++++++backgroundColor%3A+%27%233498db%27%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Domain+Expertise+%28Sample+Distribution%29%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scales%3A+%7B%0A++++++xAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%2C%0A++++++yAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%0A++++%7D%0A++%7D%0A%7D&w=620&h=320&bkg=transparent&devicePixelRatio=2" alt="Domain expertise chart"/>
-</div>
 
 ---
 
@@ -505,18 +497,6 @@ I-9/E-Verify · OFCCP Rules · EEOC Compliance · SOC2 Aware · GDPR/CCPA
 HireEZ · Hiretual · Fetcher.ai · Findem.ai · Juicebox.io · SeekOut · Entelo · Eightfold.ai · AI X-Ray Sourcing
 
 ---
-
-## 📊 Performance Metrics
-
-<div align="center">
-<img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27bar%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27Jan%27%2C%27Feb%27%2C%27Mar%27%2C%27Apr%27%2C%27May%27%2C%27Jun%27%2C%27Jul%27%2C%27Aug%27%2C%27Sep%27%2C%27Oct%27%2C%27Nov%27%2C%27Dec%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27Placements+Closed%27%2C%0A++++++data%3A+%5B6%2C8%2C7%2C9%2C11%2C10%2C12%2C9%2C13%2C14%2C12%2C15%5D%2C%0A++++++backgroundColor%3A+%27%232ecc71%27%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Monthly+Placement+Velocity+%28Sample+Year%29%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scales%3A+%7B%0A++++++xAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+display%3A+false+%7D+%7D%5D%2C%0A++++++yAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%0A++++%7D%0A++%7D%0A%7D&w=640&h=300&bkg=transparent&devicePixelRatio=2" alt="Monthly placement velocity chart" width="90%"/>
-<img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27line%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27Year+1%27%2C%27Year+2%27%2C%27Year+3%27%2C%27Year+4%27%2C%27Year+5%27%2C%27Year+6%27%2C%27Year+7%27%2C%27Today%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27Avg.+Time-to-Fill+%28days%29%27%2C%0A++++++data%3A+%5B38%2C34%2C31%2C28%2C26%2C24%2C21%2C18%5D%2C%0A++++++borderColor%3A+%27%23e67e22%27%2C%0A++++++backgroundColor%3A+%27rgba%28230%2C126%2C34%2C0.2%29%27%2C%0A++++++fill%3A+true%2C%0A++++++pointBackgroundColor%3A+%27%23ffffff%27%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Average+Time-to-Fill+Improvement%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scales%3A+%7B%0A++++++xAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%2C%0A++++++yAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%0A++++%7D%0A++%7D%0A%7D&w=640&h=300&bkg=transparent&devicePixelRatio=2" alt="Time to fill trend chart" width="90%"/>
-<img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27bar%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27Sourced%27%2C%27Screened%27%2C%27Submitted+to+Client%27%2C%27Interviewed%27%2C%27Offered%27%2C%27Placed%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27Candidates%27%2C%0A++++++data%3A+%5B1000%2C520%2C240%2C120%2C70%2C50%5D%2C%0A++++++backgroundColor%3A+%5B%27%231abc9c%27%2C%27%2316a085%27%2C%27%232ecc71%27%2C%27%2327ae60%27%2C%27%23f1c40f%27%2C%27%23e67e22%27%5D%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++indexAxis%3A+%27y%27%2C%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Candidate+Pipeline+Funnel+%28Sample%2C+per+1000+sourced%29%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+15+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scales%3A+%7B%0A++++++xAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%2C%0A++++++yAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+display%3A+false+%7D+%7D%5D%0A++++%7D%0A++%7D%0A%7D&w=640&h=340&bkg=transparent&devicePixelRatio=2" alt="Candidate pipeline funnel chart" width="90%"/>
-<img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27doughnut%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27Repeat+%2F+Retained+Clients%27%2C+%27New+Clients%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++data%3A+%5B78%2C+22%5D%2C%0A++++++backgroundColor%3A+%5B%27%232ecc71%27%2C+%27%2334495e%27%5D%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++cutoutPercentage%3A+70%2C%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Client+Retention+Rate+%28Sample%29%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+15+%7D%2C%0A++++++legend%3A+%7B+labels%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D+%7D%0A++++%7D%0A++%7D%0A%7D&w=420&h=320&bkg=transparent&devicePixelRatio=2" alt="Client retention chart" width="60%"/>
-</div>
-
----
-
 ## 🛂 Work Authorization & Visa Types Supported
 
 <div align="center">
