@@ -1,0 +1,9 @@
+- name: Generate ITRecruiterSachin Gravity Lens
+  uses: Rujuu-prog/github-contribution-gravity-lens@v1.0.0
+  with:
+    github-token: ${{ github.token }}
+    username: ITRecruitersachin
+    theme: deep-space
+    format: svg
+    output-path: dist/itrecruitersachin-gravity-lens.svg
+    strength: 0.35
