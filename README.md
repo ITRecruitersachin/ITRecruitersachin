@@ -7,6 +7,7 @@
 </div>
 
 <h3 align="center">
+  
 <img src="./Stats.gif.gif" width="7%">
 <a href="https://github.com/ITRecruitersachin?tab=followers">
 &nbsp;&nbsp;
@@ -1145,6 +1146,14 @@ F --> G[Onboarding]
 <p align="center">
   <img src="profile/streak.svg" alt="GitHub Streak Stats" />
 </p>
+
+<div align="center">
+  <img
+    src="./profile-3d-contrib/profile-gitblock.svg"
+    alt="ITRecruitersachin GitHub 3D Contribution Graph"
+    width="100%"
+  />
+</div>
 
 ---
 
