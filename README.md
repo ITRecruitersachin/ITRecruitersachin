@@ -1371,3 +1371,23 @@ F --> G[Onboarding]
 │████████████████████████████████████████████████████████████████████████████████████████████████████████████│
 └────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+Senior US Technical Recruiter
+US IT Recruiter
+US Recruiter
+US IT Recruitment
+Technical Talent Acquisition
+US Staffing
+W2
+W-2
+C2C
+1099
+Contract Recruiting
+Boolean Search
+Google X-Ray Search
+Passive Candidate Sourcing
+AI Recruiting
+ATS
+VMS
+MSP
+RPO
