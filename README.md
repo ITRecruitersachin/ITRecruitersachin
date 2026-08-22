@@ -516,6 +516,19 @@ HireEZ · Hiretual · Fetcher.ai · Findem.ai · Juicebox.io · SeekOut · Entel
 
 ---
 
+```mermaid
+timeline
+    title Career Progression
+    2013 : Technical Recruiter @ Pragna Technologies
+    2015 : US IT Recruiter @ ObjectWin Technologies
+    2018 : Senior Technical Recruiter @ Q Analysts LLC
+    2020 : Lead Technical Recruiter @ i-Link Solutions
+    2025 : Senior US IT Recruiter @ V2Soft
+    2026 : Lead Recruiter @ Staffworxs
+```
+
+<br>
+
 ## 🕐 Professional Timeline
 
 ```text
