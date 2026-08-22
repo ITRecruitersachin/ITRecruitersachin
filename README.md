@@ -287,7 +287,7 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
 
 ---
 
-## 🌊 Pipeline · How the Aurora Light Travels
+## 🌊 Pipeline
 
 ```
 🌌  STEP 1 — X-ray + Boolean sourcing across open web
