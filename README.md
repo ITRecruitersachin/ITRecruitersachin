@@ -1,4 +1,4 @@
-<p align="center"> <img src="./matrix_banner_Detailed_HD.svg" alt="Premium Matrix-themed US IT Recruiting banner" width="100%" /> </p>
+<p align="center"> <img src="./matrix_banner_pro.svg" alt="Premium Matrix-themed US IT Recruiting banner" width="100%" /> </p>
 
 <div align="center">
 
