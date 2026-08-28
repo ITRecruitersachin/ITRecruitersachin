@@ -1,0 +1,234 @@
+<svg width="1200" height="14" viewBox="0 0 1200 14" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="baseLine" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00ff8c" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#00ff8c" stop-opacity="0.5"/>
+    <stop offset="100%" stop-color="#00ff8c" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="fadeSides" cx="50%" cy="50%" r="60%">
+    <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+    <stop offset="75%" stop-color="#000000" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#000000" stop-opacity="0.95"/>
+  </radialGradient>
+  <clipPath id="frame"><rect x="0" y="0" width="1200" height="14"/></clipPath>
+</defs>
+<style>
+
+.pf0 { animation: drift0 8.51s linear -5.32s infinite, flick0 1.99s ease-in-out -1.2s infinite; }
+@keyframes drift0 { 0% { transform: translateX(1037.1px); } 100% { transform: translateX(1165.6999999999998px); } }
+@keyframes flick0 { 0%,100% { opacity:0.35; } 50% { opacity:0.75; } }
+
+.pf1 { animation: drift1 6.18s linear -1.89s infinite, flick1 1.68s ease-in-out -0.33s infinite; }
+@keyframes drift1 { 0% { transform: translateX(555.9px); } 100% { transform: translateX(702.0px); } }
+@keyframes flick1 { 0%,100% { opacity:0.32; } 50% { opacity:0.72; } }
+
+.pf2 { animation: drift2 5.18s linear -4.91s infinite, flick2 1.77s ease-in-out -0.84s infinite; }
+@keyframes drift2 { 0% { transform: translateX(952.0px); } 100% { transform: translateX(889.5px); } }
+@keyframes flick2 { 0%,100% { opacity:0.5; } 50% { opacity:0.9; } }
+
+.pf3 { animation: drift3 4.07s linear -0.51s infinite, flick3 1.82s ease-in-out -0.16s infinite; }
+@keyframes drift3 { 0% { transform: translateX(870.2px); } 100% { transform: translateX(745.5px); } }
+@keyframes flick3 { 0%,100% { opacity:0.65; } 50% { opacity:1.0; } }
+
+.pf4 { animation: drift4 8.88s linear -3.24s infinite, flick4 1.31s ease-in-out -0.41s infinite; }
+@keyframes drift4 { 0% { transform: translateX(1043.1px); } 100% { transform: translateX(1173.6999999999998px); } }
+@keyframes flick4 { 0%,100% { opacity:0.53; } 50% { opacity:0.93; } }
+
+.pf5 { animation: drift5 7.91s linear -3.26s infinite, flick5 2.17s ease-in-out -0.07s infinite; }
+@keyframes drift5 { 0% { transform: translateX(760.9px); } 100% { transform: translateX(916.9px); } }
+@keyframes flick5 { 0%,100% { opacity:0.62; } 50% { opacity:1.0; } }
+
+.pf6 { animation: drift6 6.25s linear -4.81s infinite, flick6 1.56s ease-in-out -1.39s infinite; }
+@keyframes drift6 { 0% { transform: translateX(80.3px); } 100% { transform: translateX(15.0px); } }
+@keyframes flick6 { 0%,100% { opacity:0.42; } 50% { opacity:0.8200000000000001; } }
+
+.pf7 { animation: drift7 5.1s linear -0.09s infinite, flick7 2.06s ease-in-out -1.6s infinite; }
+@keyframes drift7 { 0% { transform: translateX(1107.1px); } 100% { transform: translateX(983.0999999999999px); } }
+@keyframes flick7 { 0%,100% { opacity:0.32; } 50% { opacity:0.72; } }
+
+.pf8 { animation: drift8 7.1s linear -0.64s infinite, flick8 2.07s ease-in-out -0.09s infinite; }
+@keyframes drift8 { 0% { transform: translateX(635.6px); } 100% { transform: translateX(519.3000000000001px); } }
+@keyframes flick8 { 0%,100% { opacity:0.48; } 50% { opacity:0.88; } }
+
+.pf9 { animation: drift9 5.95s linear -3.6s infinite, flick9 1.42s ease-in-out -1.23s infinite; }
+@keyframes drift9 { 0% { transform: translateX(569.3px); } 100% { transform: translateX(703.6999999999999px); } }
+@keyframes flick9 { 0%,100% { opacity:0.53; } 50% { opacity:0.93; } }
+
+.pf10 { animation: drift10 5.83s linear -1.83s infinite, flick10 2.23s ease-in-out -1.22s infinite; }
+@keyframes drift10 { 0% { transform: translateX(426.6px); } 100% { transform: translateX(322.3px); } }
+@keyframes flick10 { 0%,100% { opacity:0.58; } 50% { opacity:0.98; } }
+
+.pf11 { animation: drift11 4.97s linear -4.21s infinite, flick11 1.37s ease-in-out -1.13s infinite; }
+@keyframes drift11 { 0% { transform: translateX(594.9px); } 100% { transform: translateX(494.2px); } }
+@keyframes flick11 { 0%,100% { opacity:0.51; } 50% { opacity:0.91; } }
+
+.pf12 { animation: drift12 4.47s linear -3.29s infinite, flick12 1.69s ease-in-out -0.22s infinite; }
+@keyframes drift12 { 0% { transform: translateX(483.5px); } 100% { transform: translateX(393.1px); } }
+@keyframes flick12 { 0%,100% { opacity:0.67; } 50% { opacity:1.0; } }
+
+.pf13 { animation: drift13 7.93s linear -1.29s infinite, flick13 1.25s ease-in-out -0.21s infinite; }
+@keyframes drift13 { 0% { transform: translateX(183.3px); } 100% { transform: translateX(89.80000000000001px); } }
+@keyframes flick13 { 0%,100% { opacity:0.59; } 50% { opacity:0.99; } }
+
+.pf14 { animation: drift14 6.76s linear -4.7s infinite, flick14 1.6s ease-in-out -0.67s infinite; }
+@keyframes drift14 { 0% { transform: translateX(1148.2px); } 100% { transform: translateX(993.5px); } }
+@keyframes flick14 { 0%,100% { opacity:0.38; } 50% { opacity:0.78; } }
+
+.pf15 { animation: drift15 7.87s linear -7.82s infinite, flick15 1.51s ease-in-out -0.31s infinite; }
+@keyframes drift15 { 0% { transform: translateX(45.9px); } 100% { transform: translateX(-20.6px); } }
+@keyframes flick15 { 0%,100% { opacity:0.61; } 50% { opacity:1.0; } }
+
+.pf16 { animation: drift16 7.73s linear -5.66s infinite, flick16 2.08s ease-in-out -1.71s infinite; }
+@keyframes drift16 { 0% { transform: translateX(943.1px); } 100% { transform: translateX(871.0px); } }
+@keyframes flick16 { 0%,100% { opacity:0.35; } 50% { opacity:0.75; } }
+
+.pf17 { animation: drift17 8.05s linear -7.15s infinite, flick17 2.16s ease-in-out -0.99s infinite; }
+@keyframes drift17 { 0% { transform: translateX(1059.5px); } 100% { transform: translateX(900.0px); } }
+@keyframes flick17 { 0%,100% { opacity:0.34; } 50% { opacity:0.74; } }
+
+.pf18 { animation: drift18 5.55s linear -2.07s infinite, flick18 1.41s ease-in-out -0.61s infinite; }
+@keyframes drift18 { 0% { transform: translateX(638.7px); } 100% { transform: translateX(760.8000000000001px); } }
+@keyframes flick18 { 0%,100% { opacity:0.46; } 50% { opacity:0.8600000000000001; } }
+
+.pf19 { animation: drift19 7.88s linear -2.36s infinite, flick19 1.35s ease-in-out -0.02s infinite; }
+@keyframes drift19 { 0% { transform: translateX(1015.1px); } 100% { transform: translateX(929.1px); } }
+@keyframes flick19 { 0%,100% { opacity:0.45; } 50% { opacity:0.8500000000000001; } }
+
+.pf20 { animation: drift20 6.42s linear -3.51s infinite, flick20 2.02s ease-in-out -1.34s infinite; }
+@keyframes drift20 { 0% { transform: translateX(-0.9px); } 100% { transform: translateX(-97.80000000000001px); } }
+@keyframes flick20 { 0%,100% { opacity:0.45; } 50% { opacity:0.8500000000000001; } }
+
+.pf21 { animation: drift21 7.19s linear -0.31s infinite, flick21 2.22s ease-in-out -1.62s infinite; }
+@keyframes drift21 { 0% { transform: translateX(138.9px); } 100% { transform: translateX(250.9px); } }
+@keyframes flick21 { 0%,100% { opacity:0.47; } 50% { opacity:0.87; } }
+
+.pf22 { animation: drift22 5.62s linear -2.8s infinite, flick22 1.43s ease-in-out -0.84s infinite; }
+@keyframes drift22 { 0% { transform: translateX(11.2px); } 100% { transform: translateX(120.4px); } }
+@keyframes flick22 { 0%,100% { opacity:0.64; } 50% { opacity:1.0; } }
+
+.pf23 { animation: drift23 5.72s linear -2.01s infinite, flick23 1.31s ease-in-out -0.31s infinite; }
+@keyframes drift23 { 0% { transform: translateX(440.8px); } 100% { transform: translateX(369.9px); } }
+@keyframes flick23 { 0%,100% { opacity:0.33; } 50% { opacity:0.73; } }
+
+.pf24 { animation: drift24 8.67s linear -5.91s infinite, flick24 1.71s ease-in-out -1.16s infinite; }
+@keyframes drift24 { 0% { transform: translateX(249.6px); } 100% { transform: translateX(141.3px); } }
+@keyframes flick24 { 0%,100% { opacity:0.66; } 50% { opacity:1.0; } }
+
+.pf25 { animation: drift25 8.88s linear -7.52s infinite, flick25 2.07s ease-in-out -0.34s infinite; }
+@keyframes drift25 { 0% { transform: translateX(83.2px); } 100% { transform: translateX(163.3px); } }
+@keyframes flick25 { 0%,100% { opacity:0.51; } 50% { opacity:0.91; } }
+
+.pf26 { animation: drift26 6.35s linear -3.95s infinite, flick26 1.89s ease-in-out -1.28s infinite; }
+@keyframes drift26 { 0% { transform: translateX(0.3px); } 100% { transform: translateX(-78.8px); } }
+@keyframes flick26 { 0%,100% { opacity:0.49; } 50% { opacity:0.89; } }
+
+.pf27 { animation: drift27 4.03s linear -2.13s infinite, flick27 2.19s ease-in-out -0.59s infinite; }
+@keyframes drift27 { 0% { transform: translateX(305.4px); } 100% { transform: translateX(405.9px); } }
+@keyframes flick27 { 0%,100% { opacity:0.31; } 50% { opacity:0.71; } }
+
+.pf28 { animation: drift28 5.29s linear -1.64s infinite, flick28 1.61s ease-in-out -0.42s infinite; }
+@keyframes drift28 { 0% { transform: translateX(711.2px); } 100% { transform: translateX(589.4000000000001px); } }
+@keyframes flick28 { 0%,100% { opacity:0.36; } 50% { opacity:0.76; } }
+
+.pf29 { animation: drift29 5.48s linear -0.28s infinite, flick29 1.34s ease-in-out -1.24s infinite; }
+@keyframes drift29 { 0% { transform: translateX(623.2px); } 100% { transform: translateX(765.5px); } }
+@keyframes flick29 { 0%,100% { opacity:0.31; } 50% { opacity:0.71; } }
+
+.pf30 { animation: drift30 8.49s linear -8.01s infinite, flick30 1.12s ease-in-out -0.68s infinite; }
+@keyframes drift30 { 0% { transform: translateX(299.1px); } 100% { transform: translateX(236.3px); } }
+@keyframes flick30 { 0%,100% { opacity:0.63; } 50% { opacity:1.0; } }
+
+.pf31 { animation: drift31 8.93s linear -3.04s infinite, flick31 1.54s ease-in-out -1.35s infinite; }
+@keyframes drift31 { 0% { transform: translateX(276.8px); } 100% { transform: translateX(346.8px); } }
+@keyframes flick31 { 0%,100% { opacity:0.52; } 50% { opacity:0.92; } }
+
+.pf32 { animation: drift32 4.31s linear -2.21s infinite, flick32 1.56s ease-in-out -1.24s infinite; }
+@keyframes drift32 { 0% { transform: translateX(801.0px); } 100% { transform: translateX(937.5px); } }
+@keyframes flick32 { 0%,100% { opacity:0.47; } 50% { opacity:0.87; } }
+
+.pf33 { animation: drift33 4.13s linear -2.22s infinite, flick33 1.13s ease-in-out -1.02s infinite; }
+@keyframes drift33 { 0% { transform: translateX(1170.2px); } 100% { transform: translateX(1315.3px); } }
+@keyframes flick33 { 0%,100% { opacity:0.6; } 50% { opacity:1.0; } }
+
+.pf34 { animation: drift34 4.51s linear -4.14s infinite, flick34 2.27s ease-in-out -2.0s infinite; }
+@keyframes drift34 { 0% { transform: translateX(119.9px); } 100% { transform: translateX(271.8px); } }
+@keyframes flick34 { 0%,100% { opacity:0.36; } 50% { opacity:0.76; } }
+
+.pf35 { animation: drift35 7.71s linear -0.7s infinite, flick35 2.01s ease-in-out -1.26s infinite; }
+@keyframes drift35 { 0% { transform: translateX(1198.5px); } 100% { transform: translateX(1299.6px); } }
+@keyframes flick35 { 0%,100% { opacity:0.63; } 50% { opacity:1.0; } }
+
+.pf36 { animation: drift36 7.49s linear -5.34s infinite, flick36 2.25s ease-in-out -1.88s infinite; }
+@keyframes drift36 { 0% { transform: translateX(635.9px); } 100% { transform: translateX(742.4px); } }
+@keyframes flick36 { 0%,100% { opacity:0.69; } 50% { opacity:1.0; } }
+
+.pf37 { animation: drift37 4.31s linear -2.21s infinite, flick37 2.13s ease-in-out -0.02s infinite; }
+@keyframes drift37 { 0% { transform: translateX(1005.5px); } 100% { transform: translateX(912.8px); } }
+@keyframes flick37 { 0%,100% { opacity:0.35; } 50% { opacity:0.75; } }
+
+.pf38 { animation: drift38 4.75s linear -2.99s infinite, flick38 1.58s ease-in-out -0.72s infinite; }
+@keyframes drift38 { 0% { transform: translateX(700.5px); } 100% { transform: translateX(785.7px); } }
+@keyframes flick38 { 0%,100% { opacity:0.67; } 50% { opacity:1.0; } }
+
+.pf39 { animation: drift39 8.9s linear -0.74s infinite, flick39 1.69s ease-in-out -0.17s infinite; }
+@keyframes drift39 { 0% { transform: translateX(1182.5px); } 100% { transform: translateX(1075.3px); } }
+@keyframes flick39 { 0%,100% { opacity:0.35; } 50% { opacity:0.75; } }
+
+
+.gb0 { opacity:0; animation: gflash0 4.2s ease-in-out -3.53s infinite; }
+@keyframes gflash0 {
+  0%, 90%, 100% { opacity: 0; transform: scaleX(0.2); }
+  91% { opacity: 0.95; transform: scaleX(1); }
+  93% { opacity: 0.3; transform: scaleX(0.6) translateX(4px); }
+  94.5% { opacity: 0.9; transform: scaleX(1) translateX(-3px); }
+  96% { opacity: 0; transform: scaleX(1); }
+}
+
+.gb1 { opacity:0; animation: gflash1 3.89s ease-in-out -3.3s infinite; }
+@keyframes gflash1 {
+  0%, 90%, 100% { opacity: 0; transform: scaleX(0.2); }
+  91% { opacity: 0.95; transform: scaleX(1); }
+  93% { opacity: 0.3; transform: scaleX(0.6) translateX(4px); }
+  94.5% { opacity: 0.9; transform: scaleX(1) translateX(-3px); }
+  96% { opacity: 0; transform: scaleX(1); }
+}
+
+.gb2 { opacity:0; animation: gflash2 4.35s ease-in-out -0.08s infinite; }
+@keyframes gflash2 {
+  0%, 90%, 100% { opacity: 0; transform: scaleX(0.2); }
+  91% { opacity: 0.95; transform: scaleX(1); }
+  93% { opacity: 0.3; transform: scaleX(0.6) translateX(4px); }
+  94.5% { opacity: 0.9; transform: scaleX(1) translateX(-3px); }
+  96% { opacity: 0; transform: scaleX(1); }
+}
+
+.scanband { animation: scanmove 2s linear infinite; }
+@keyframes scanmove { 0% { transform: translateX(-60px); } 100% { transform: translateX(1260px); } }
+</style>
+<g clip-path="url(#frame)">
+  <rect x="0" y="0" width="1200" height="14" fill="#000603"/>
+  <line x1="0" y1="7.0" x2="1200" y2="7.0" stroke="url(#baseLine)" stroke-width="0.8"/>
+  <circle class="pf0" cx="0" cy="6.1" r="0.95" transform="translate(1037.1,0)" fill="#4dffa0" opacity="0.35"/><circle class="pf1" cx="0" cy="6.5" r="1.06" transform="translate(555.9,0)" fill="#12c25a" opacity="0.32"/><circle class="pf2" cx="0" cy="4.1" r="0.81" transform="translate(952.0,0)" fill="#eafff2" opacity="0.5"/><circle class="pf3" cx="0" cy="3.1" r="0.92" transform="translate(870.2,0)" fill="#4dffa0" opacity="0.65"/><circle class="pf4" cx="0" cy="5.1" r="1.37" transform="translate(1043.1,0)" fill="#eafff2" opacity="0.53"/><circle class="pf5" cx="0" cy="6.4" r="1.4" transform="translate(760.9,0)" fill="#eafff2" opacity="0.62"/><circle class="pf6" cx="0" cy="5.4" r="0.99" transform="translate(80.3,0)" fill="#4dffa0" opacity="0.42"/><circle class="pf7" cx="0" cy="10.9" r="1.41" transform="translate(1107.1,0)" fill="#12c25a" opacity="0.32"/><circle class="pf8" cx="0" cy="6.8" r="1.34" transform="translate(635.6,0)" fill="#8affc4" opacity="0.48"/><circle class="pf9" cx="0" cy="5.4" r="0.96" transform="translate(569.3,0)" fill="#eafff2" opacity="0.53"/><circle class="pf10" cx="0" cy="2.8" r="1.54" transform="translate(426.6,0)" fill="#eafff2" opacity="0.58"/><circle class="pf11" cx="0" cy="7.9" r="0.93" transform="translate(594.9,0)" fill="#eafff2" opacity="0.51"/><circle class="pf12" cx="0" cy="3.6" r="0.95" transform="translate(483.5,0)" fill="#8affc4" opacity="0.67"/><circle class="pf13" cx="0" cy="8.3" r="0.96" transform="translate(183.3,0)" fill="#4dffa0" opacity="0.59"/><circle class="pf14" cx="0" cy="10.7" r="1.07" transform="translate(1148.2,0)" fill="#eafff2" opacity="0.38"/><circle class="pf15" cx="0" cy="2.5" r="1.22" transform="translate(45.9,0)" fill="#12c25a" opacity="0.61"/><circle class="pf16" cx="0" cy="9.6" r="1.13" transform="translate(943.1,0)" fill="#8affc4" opacity="0.35"/><circle class="pf17" cx="0" cy="4.7" r="1.04" transform="translate(1059.5,0)" fill="#8affc4" opacity="0.34"/><circle class="pf18" cx="0" cy="4.4" r="1.05" transform="translate(638.7,0)" fill="#eafff2" opacity="0.46"/><circle class="pf19" cx="0" cy="10.9" r="0.82" transform="translate(1015.1,0)" fill="#eafff2" opacity="0.45"/><circle class="pf20" cx="0" cy="5.6" r="1.59" transform="translate(-0.9,0)" fill="#12c25a" opacity="0.45"/><circle class="pf21" cx="0" cy="4.9" r="0.87" transform="translate(138.9,0)" fill="#8affc4" opacity="0.47"/><circle class="pf22" cx="0" cy="4.5" r="1.0" transform="translate(11.2,0)" fill="#8affc4" opacity="0.64"/><circle class="pf23" cx="0" cy="3.3" r="1.07" transform="translate(440.8,0)" fill="#12c25a" opacity="0.33"/><circle class="pf24" cx="0" cy="6.9" r="1.47" transform="translate(249.6,0)" fill="#4dffa0" opacity="0.66"/><circle class="pf25" cx="0" cy="10.3" r="0.91" transform="translate(83.2,0)" fill="#12c25a" opacity="0.51"/><circle class="pf26" cx="0" cy="9.9" r="1.09" transform="translate(0.3,0)" fill="#8affc4" opacity="0.49"/><circle class="pf27" cx="0" cy="6.0" r="1.39" transform="translate(305.4,0)" fill="#12c25a" opacity="0.31"/><circle class="pf28" cx="0" cy="7.5" r="1.38" transform="translate(711.2,0)" fill="#eafff2" opacity="0.36"/><circle class="pf29" cx="0" cy="3.9" r="1.28" transform="translate(623.2,0)" fill="#eafff2" opacity="0.31"/><circle class="pf30" cx="0" cy="8.4" r="1.47" transform="translate(299.1,0)" fill="#eafff2" opacity="0.63"/><circle class="pf31" cx="0" cy="8.2" r="1.3" transform="translate(276.8,0)" fill="#8affc4" opacity="0.52"/><circle class="pf32" cx="0" cy="2.8" r="1.13" transform="translate(801.0,0)" fill="#4dffa0" opacity="0.47"/><circle class="pf33" cx="0" cy="11.1" r="0.94" transform="translate(1170.2,0)" fill="#eafff2" opacity="0.6"/><circle class="pf34" cx="0" cy="9.0" r="1.43" transform="translate(119.9,0)" fill="#eafff2" opacity="0.36"/><circle class="pf35" cx="0" cy="7.4" r="1.54" transform="translate(1198.5,0)" fill="#12c25a" opacity="0.63"/><circle class="pf36" cx="0" cy="10.8" r="1.03" transform="translate(635.9,0)" fill="#8affc4" opacity="0.69"/><circle class="pf37" cx="0" cy="7.3" r="0.98" transform="translate(1005.5,0)" fill="#12c25a" opacity="0.35"/><circle class="pf38" cx="0" cy="7.1" r="1.22" transform="translate(700.5,0)" fill="#12c25a" opacity="0.67"/><circle class="pf39" cx="0" cy="5.2" r="1.48" transform="translate(1182.5,0)" fill="#12c25a" opacity="0.35"/>
+  
+    <g class="gb0" style="transform-box: fill-box; transform-origin: center;">
+      <rect x="0" y="3.9" width="1200" height="0.9" fill="#ff2b6d" opacity="0.5"/>
+      <rect x="2" y="4.8" width="1200" height="0.9" fill="#00e5ff" opacity="0.5"/>
+      <rect x="-2" y="4.3999999999999995" width="1200" height="0.9" fill="#4dffa0" opacity="0.85"/>
+    </g>
+    
+    <g class="gb1" style="transform-box: fill-box; transform-origin: center;">
+      <rect x="0" y="4.0" width="1200" height="0.9" fill="#ff2b6d" opacity="0.5"/>
+      <rect x="2" y="4.9" width="1200" height="0.9" fill="#00e5ff" opacity="0.5"/>
+      <rect x="-2" y="4.5" width="1200" height="0.9" fill="#4dffa0" opacity="0.85"/>
+    </g>
+    
+    <g class="gb2" style="transform-box: fill-box; transform-origin: center;">
+      <rect x="0" y="9.7" width="1200" height="0.9" fill="#ff2b6d" opacity="0.5"/>
+      <rect x="2" y="10.6" width="1200" height="0.9" fill="#00e5ff" opacity="0.5"/>
+      <rect x="-2" y="10.2" width="1200" height="0.9" fill="#4dffa0" opacity="0.85"/>
+    </g>
+    
+  <rect class="scanband" x="0" y="0" width="30" height="14" fill="#00ff8c" opacity="0.06"/>
+  <rect x="0" y="0" width="1200" height="14" fill="url(#fadeSides)"/>
+</g>
+</svg>
