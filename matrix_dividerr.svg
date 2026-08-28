@@ -1,0 +1,242 @@
+<svg width="1200" height="26" viewBox="0 0 1200 26" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="baseLine" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00ff8c" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#00ff8c" stop-opacity="0.55"/>
+    <stop offset="100%" stop-color="#00ff8c" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="fadeSides" cx="50%" cy="50%" r="60%">
+    <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+    <stop offset="75%" stop-color="#000000" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#000000" stop-opacity="0.95"/>
+  </radialGradient>
+  <filter id="glowSoft" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="0.6"/>
+  </filter>
+  <clipPath id="frame"><rect x="0" y="0" width="1200" height="26"/></clipPath>
+</defs>
+<style>
+
+.pf0 { animation: drift0 5.58s linear -4.59s infinite, flick0 1.87s ease-in-out -0.46s infinite; }
+@keyframes drift0 { 0% { transform: translateX(338.3px); } 100% { transform: translateX(513.1px); } }
+@keyframes flick0 { 0%,100% { opacity:0.65; } 50% { opacity:1.0; } }
+
+.pf1 { animation: drift1 4.63s linear -4.43s infinite, flick1 1.96s ease-in-out -0.88s infinite; }
+@keyframes drift1 { 0% { transform: translateX(968.5px); } 100% { transform: translateX(1059.5px); } }
+@keyframes flick1 { 0%,100% { opacity:0.65; } 50% { opacity:1.0; } }
+
+.pf2 { animation: drift2 4.89s linear -3.81s infinite, flick2 1.74s ease-in-out -0.71s infinite; }
+@keyframes drift2 { 0% { transform: translateX(228.3px); } 100% { transform: translateX(137.20000000000002px); } }
+@keyframes flick2 { 0%,100% { opacity:0.33; } 50% { opacity:0.78; } }
+
+.pf3 { animation: drift3 4.84s linear -4.06s infinite, flick3 1.85s ease-in-out -0.68s infinite; }
+@keyframes drift3 { 0% { transform: translateX(906.3px); } 100% { transform: translateX(1069.8px); } }
+@keyframes flick3 { 0%,100% { opacity:0.33; } 50% { opacity:0.78; } }
+
+.pf4 { animation: drift4 6.5s linear -5.05s infinite, flick4 1.37s ease-in-out -0.68s infinite; }
+@keyframes drift4 { 0% { transform: translateX(412.8px); } 100% { transform: translateX(541.1px); } }
+@keyframes flick4 { 0%,100% { opacity:0.59; } 50% { opacity:1.0; } }
+
+.pf5 { animation: drift5 7.08s linear -2.85s infinite, flick5 1.6s ease-in-out -1.27s infinite; }
+@keyframes drift5 { 0% { transform: translateX(938.3px); } 100% { transform: translateX(1050.6px); } }
+@keyframes flick5 { 0%,100% { opacity:0.63; } 50% { opacity:1.0; } }
+
+.pf6 { animation: drift6 7.92s linear -3.43s infinite, flick6 2.54s ease-in-out -1.89s infinite; }
+@keyframes drift6 { 0% { transform: translateX(1211.9px); } 100% { transform: translateX(1042.3000000000002px); } }
+@keyframes flick6 { 0%,100% { opacity:0.54; } 50% { opacity:0.99; } }
+
+.pf7 { animation: drift7 5.84s linear -0.54s infinite, flick7 1.66s ease-in-out -0.79s infinite; }
+@keyframes drift7 { 0% { transform: translateX(1123.2px); } 100% { transform: translateX(951.6px); } }
+@keyframes flick7 { 0%,100% { opacity:0.56; } 50% { opacity:1.0; } }
+
+.pf8 { animation: drift8 7.92s linear -5.99s infinite, flick8 2.23s ease-in-out -0.51s infinite; }
+@keyframes drift8 { 0% { transform: translateX(853.3px); } 100% { transform: translateX(949.6999999999999px); } }
+@keyframes flick8 { 0%,100% { opacity:0.53; } 50% { opacity:0.98; } }
+
+.pf9 { animation: drift9 4.96s linear -4.24s infinite, flick9 2.32s ease-in-out -0.1s infinite; }
+@keyframes drift9 { 0% { transform: translateX(299.5px); } 100% { transform: translateX(454.4px); } }
+@keyframes flick9 { 0%,100% { opacity:0.33; } 50% { opacity:0.78; } }
+
+.pf10 { animation: drift10 7.52s linear -5.79s infinite, flick10 2.55s ease-in-out -1.42s infinite; }
+@keyframes drift10 { 0% { transform: translateX(586.8px); } 100% { transform: translateX(487.29999999999995px); } }
+@keyframes flick10 { 0%,100% { opacity:0.59; } 50% { opacity:1.0; } }
+
+.pf11 { animation: drift11 6.93s linear -1.99s infinite, flick11 2.28s ease-in-out -1.37s infinite; }
+@keyframes drift11 { 0% { transform: translateX(-6.9px); } 100% { transform: translateX(116.6px); } }
+@keyframes flick11 { 0%,100% { opacity:0.31; } 50% { opacity:0.76; } }
+
+.pf12 { animation: drift12 6.8s linear -4.62s infinite, flick12 2.39s ease-in-out -1.01s infinite; }
+@keyframes drift12 { 0% { transform: translateX(178.3px); } 100% { transform: translateX(3.700000000000017px); } }
+@keyframes flick12 { 0%,100% { opacity:0.43; } 50% { opacity:0.88; } }
+
+.pf13 { animation: drift13 8.45s linear -5.49s infinite, flick13 1.33s ease-in-out -0.27s infinite; }
+@keyframes drift13 { 0% { transform: translateX(327.2px); } 100% { transform: translateX(158.29999999999998px); } }
+@keyframes flick13 { 0%,100% { opacity:0.33; } 50% { opacity:0.78; } }
+
+.pf14 { animation: drift14 8.87s linear -6.7s infinite, flick14 2.24s ease-in-out -2.2s infinite; }
+@keyframes drift14 { 0% { transform: translateX(1211.1px); } 100% { transform: translateX(1056.6999999999998px); } }
+@keyframes flick14 { 0%,100% { opacity:0.53; } 50% { opacity:0.98; } }
+
+.pf15 { animation: drift15 6.2s linear -4.63s infinite, flick15 1.52s ease-in-out -0.74s infinite; }
+@keyframes drift15 { 0% { transform: translateX(1135.4px); } 100% { transform: translateX(1035.2px); } }
+@keyframes flick15 { 0%,100% { opacity:0.34; } 50% { opacity:0.79; } }
+
+.pf16 { animation: drift16 8.6s linear -5.06s infinite, flick16 2.29s ease-in-out -0.7s infinite; }
+@keyframes drift16 { 0% { transform: translateX(634.9px); } 100% { transform: translateX(799.0999999999999px); } }
+@keyframes flick16 { 0%,100% { opacity:0.64; } 50% { opacity:1.0; } }
+
+.pf17 { animation: drift17 8.07s linear -5.27s infinite, flick17 1.53s ease-in-out -1.17s infinite; }
+@keyframes drift17 { 0% { transform: translateX(46.2px); } 100% { transform: translateX(-80.5px); } }
+@keyframes flick17 { 0%,100% { opacity:0.52; } 50% { opacity:0.97; } }
+
+.pf18 { animation: drift18 6.12s linear -3.96s infinite, flick18 1.36s ease-in-out -0.45s infinite; }
+@keyframes drift18 { 0% { transform: translateX(29.4px); } 100% { transform: translateX(181.70000000000002px); } }
+@keyframes flick18 { 0%,100% { opacity:0.35; } 50% { opacity:0.8; } }
+
+.pf19 { animation: drift19 4.52s linear -0.14s infinite, flick19 2.03s ease-in-out -1.01s infinite; }
+@keyframes drift19 { 0% { transform: translateX(18.3px); } 100% { transform: translateX(174.60000000000002px); } }
+@keyframes flick19 { 0%,100% { opacity:0.58; } 50% { opacity:1.0; } }
+
+.pf20 { animation: drift20 8.51s linear -0.75s infinite, flick20 2.53s ease-in-out -1.22s infinite; }
+@keyframes drift20 { 0% { transform: translateX(663.8px); } 100% { transform: translateX(842.6999999999999px); } }
+@keyframes flick20 { 0%,100% { opacity:0.44; } 50% { opacity:0.89; } }
+
+.pf21 { animation: drift21 6.94s linear -5.34s infinite, flick21 1.77s ease-in-out -0.33s infinite; }
+@keyframes drift21 { 0% { transform: translateX(379.1px); } 100% { transform: translateX(283.8px); } }
+@keyframes flick21 { 0%,100% { opacity:0.47; } 50% { opacity:0.9199999999999999; } }
+
+.pf22 { animation: drift22 8.03s linear -3.23s infinite, flick22 2.34s ease-in-out -0.12s infinite; }
+@keyframes drift22 { 0% { transform: translateX(236.7px); } 100% { transform: translateX(374.2px); } }
+@keyframes flick22 { 0%,100% { opacity:0.65; } 50% { opacity:1.0; } }
+
+.pf23 { animation: drift23 8.84s linear -3.8s infinite, flick23 1.22s ease-in-out -0.45s infinite; }
+@keyframes drift23 { 0% { transform: translateX(959.0px); } 100% { transform: translateX(865.5px); } }
+@keyframes flick23 { 0%,100% { opacity:0.42; } 50% { opacity:0.87; } }
+
+.pf24 { animation: drift24 8.24s linear -4.34s infinite, flick24 2.33s ease-in-out -0.59s infinite; }
+@keyframes drift24 { 0% { transform: translateX(338.5px); } 100% { transform: translateX(214.3px); } }
+@keyframes flick24 { 0%,100% { opacity:0.54; } 50% { opacity:0.99; } }
+
+.pf25 { animation: drift25 5.8s linear -5.6s infinite, flick25 1.86s ease-in-out -0.17s infinite; }
+@keyframes drift25 { 0% { transform: translateX(703.7px); } 100% { transform: translateX(586.2px); } }
+@keyframes flick25 { 0%,100% { opacity:0.48; } 50% { opacity:0.9299999999999999; } }
+
+.pf26 { animation: drift26 8.12s linear -4.4s infinite, flick26 1.59s ease-in-out -1.49s infinite; }
+@keyframes drift26 { 0% { transform: translateX(587.6px); } 100% { transform: translateX(475.5px); } }
+@keyframes flick26 { 0%,100% { opacity:0.36; } 50% { opacity:0.81; } }
+
+.pf27 { animation: drift27 4.61s linear -2.74s infinite, flick27 2.4s ease-in-out -0.23s infinite; }
+@keyframes drift27 { 0% { transform: translateX(522.7px); } 100% { transform: translateX(356.90000000000003px); } }
+@keyframes flick27 { 0%,100% { opacity:0.54; } 50% { opacity:0.99; } }
+
+.pf28 { animation: drift28 8.58s linear -3.2s infinite, flick28 2.54s ease-in-out -1.19s infinite; }
+@keyframes drift28 { 0% { transform: translateX(723.2px); } 100% { transform: translateX(558.6px); } }
+@keyframes flick28 { 0%,100% { opacity:0.42; } 50% { opacity:0.87; } }
+
+.pf29 { animation: drift29 4.72s linear -2.72s infinite, flick29 1.39s ease-in-out -0.51s infinite; }
+@keyframes drift29 { 0% { transform: translateX(420.2px); } 100% { transform: translateX(340.0px); } }
+@keyframes flick29 { 0%,100% { opacity:0.62; } 50% { opacity:1.0; } }
+
+.pf30 { animation: drift30 5.98s linear -4.17s infinite, flick30 2.55s ease-in-out -0.47s infinite; }
+@keyframes drift30 { 0% { transform: translateX(711.4px); } 100% { transform: translateX(585.3px); } }
+@keyframes flick30 { 0%,100% { opacity:0.45; } 50% { opacity:0.9; } }
+
+.pf31 { animation: drift31 4.98s linear -4.97s infinite, flick31 2.27s ease-in-out -2.13s infinite; }
+@keyframes drift31 { 0% { transform: translateX(84.4px); } 100% { transform: translateX(160.8px); } }
+@keyframes flick31 { 0%,100% { opacity:0.43; } 50% { opacity:0.88; } }
+
+.pf32 { animation: drift32 6.79s linear -3.52s infinite, flick32 2.48s ease-in-out -1.87s infinite; }
+@keyframes drift32 { 0% { transform: translateX(805.2px); } 100% { transform: translateX(962.5px); } }
+@keyframes flick32 { 0%,100% { opacity:0.63; } 50% { opacity:1.0; } }
+
+.pf33 { animation: drift33 6.08s linear -1.85s infinite, flick33 2.49s ease-in-out -0.29s infinite; }
+@keyframes drift33 { 0% { transform: translateX(627.7px); } 100% { transform: translateX(738.0px); } }
+@keyframes flick33 { 0%,100% { opacity:0.46; } 50% { opacity:0.91; } }
+
+
+.gb0 { opacity:0; animation: gflash0 5.12s ease-in-out -2.67s infinite; }
+@keyframes gflash0 {
+  0%, 90%, 100% { opacity: 0; transform: scaleX(0.2); }
+  91% { opacity: 0.95; transform: scaleX(1); }
+  92.5% { opacity: 0.25; transform: scaleX(0.6) translateX(5px); }
+  94% { opacity: 0.95; transform: scaleX(1) translateX(-4px); }
+  95.5% { opacity: 0; transform: scaleX(1); }
+}
+
+.gb1 { opacity:0; animation: gflash1 3.78s ease-in-out -1.67s infinite; }
+@keyframes gflash1 {
+  0%, 90%, 100% { opacity: 0; transform: scaleX(0.2); }
+  91% { opacity: 0.95; transform: scaleX(1); }
+  92.5% { opacity: 0.25; transform: scaleX(0.6) translateX(5px); }
+  94% { opacity: 0.95; transform: scaleX(1) translateX(-4px); }
+  95.5% { opacity: 0; transform: scaleX(1); }
+}
+
+.gb2 { opacity:0; animation: gflash2 4.65s ease-in-out -0.81s infinite; }
+@keyframes gflash2 {
+  0%, 90%, 100% { opacity: 0; transform: scaleX(0.2); }
+  91% { opacity: 0.95; transform: scaleX(1); }
+  92.5% { opacity: 0.25; transform: scaleX(0.6) translateX(5px); }
+  94% { opacity: 0.95; transform: scaleX(1) translateX(-4px); }
+  95.5% { opacity: 0; transform: scaleX(1); }
+}
+
+.nb0 { opacity:0; animation: nflick0 1.31s steps(1,end) -0.88s infinite; }
+@keyframes nflick0 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb1 { opacity:0; animation: nflick1 0.81s steps(1,end) -0.32s infinite; }
+@keyframes nflick1 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb2 { opacity:0; animation: nflick2 0.82s steps(1,end) -0.49s infinite; }
+@keyframes nflick2 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb3 { opacity:0; animation: nflick3 1.27s steps(1,end) -0.03s infinite; }
+@keyframes nflick3 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb4 { opacity:0; animation: nflick4 1.05s steps(1,end) -0.65s infinite; }
+@keyframes nflick4 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb5 { opacity:0; animation: nflick5 1.31s steps(1,end) -0.79s infinite; }
+@keyframes nflick5 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb6 { opacity:0; animation: nflick6 1.31s steps(1,end) -1.28s infinite; }
+@keyframes nflick6 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb7 { opacity:0; animation: nflick7 0.71s steps(1,end) -0.39s infinite; }
+@keyframes nflick7 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb8 { opacity:0; animation: nflick8 0.77s steps(1,end) -0.23s infinite; }
+@keyframes nflick8 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb9 { opacity:0; animation: nflick9 0.6s steps(1,end) -0.47s infinite; }
+@keyframes nflick9 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb10 { opacity:0; animation: nflick10 1.34s steps(1,end) -0.61s infinite; }
+@keyframes nflick10 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb11 { opacity:0; animation: nflick11 0.96s steps(1,end) -0.68s infinite; }
+@keyframes nflick11 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb12 { opacity:0; animation: nflick12 0.66s steps(1,end) -0.41s infinite; }
+@keyframes nflick12 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb13 { opacity:0; animation: nflick13 1.36s steps(1,end) -0.3s infinite; }
+@keyframes nflick13 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb14 { opacity:0; animation: nflick14 0.92s steps(1,end) -0.62s infinite; }
+@keyframes nflick14 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }.nb15 { opacity:0; animation: nflick15 0.69s steps(1,end) -0.14s infinite; }
+@keyframes nflick15 { 0%,100% { opacity:0; } 50% { opacity:0.8; } }
+.scanband { animation: scanmove 2.2s linear infinite; }
+@keyframes scanmove { 0% { transform: translateX(-80px); } 100% { transform: translateX(1280px); } }
+.edgeTick { stroke:#00ff8c; stroke-width:1.2; opacity:0.7; }
+</style>
+<g clip-path="url(#frame)">
+  <rect x="0" y="0" width="1200" height="26" fill="#000603"/>
+
+  <!-- faint always-on baseline so the strip has definition even at rest -->
+  <line x1="0" y1="13.0" x2="1200" y2="13.0" stroke="url(#baseLine)" stroke-width="1"/>
+
+  <g filter="url(#glowSoft)"><text class="pf0" x="0" y="18.6" transform="translate(338.3,0)" font-family="'Courier New',monospace" font-size="9" fill="#4dffa0" opacity="0.65">1</text><text class="pf1" x="0" y="7.5" transform="translate(968.5,0)" font-family="'Courier New',monospace" font-size="8" fill="#12c25a" opacity="0.65">F</text><text class="pf2" x="0" y="8.1" transform="translate(228.3,0)" font-family="'Courier New',monospace" font-size="9" fill="#4dffa0" opacity="0.33">1</text><text class="pf3" x="0" y="16.9" transform="translate(906.3,0)" font-family="'Courier New',monospace" font-size="9" fill="#12c25a" opacity="0.33">9</text><text class="pf4" x="0" y="19.1" transform="translate(412.8,0)" font-family="'Courier New',monospace" font-size="8" fill="#12c25a" opacity="0.59">F</text><text class="pf5" x="0" y="17.8" transform="translate(938.3,0)" font-family="'Courier New',monospace" font-size="8" fill="#4dffa0" opacity="0.63">1</text><text class="pf6" x="0" y="5.9" transform="translate(1211.9,0)" font-family="'Courier New',monospace" font-size="8" fill="#4dffa0" opacity="0.54">A</text><text class="pf7" x="0" y="16.1" transform="translate(1123.2,0)" font-family="'Courier New',monospace" font-size="8" fill="#8affc4" opacity="0.56">0</text><text class="pf8" x="0" y="5.0" transform="translate(853.3,0)" font-family="'Courier New',monospace" font-size="9" fill="#12c25a" opacity="0.53">0</text><text class="pf9" x="0" y="6.9" transform="translate(299.5,0)" font-family="'Courier New',monospace" font-size="9" fill="#4dffa0" opacity="0.33">C</text><text class="pf10" x="0" y="7.5" transform="translate(586.8,0)" font-family="'Courier New',monospace" font-size="8" fill="#4dffa0" opacity="0.59">1</text><text class="pf11" x="0" y="13.0" transform="translate(-6.9,0)" font-family="'Courier New',monospace" font-size="9" fill="#8affc4" opacity="0.31">F</text><text class="pf12" x="0" y="7.4" transform="translate(178.3,0)" font-family="'Courier New',monospace" font-size="8" fill="#12c25a" opacity="0.43">1</text><text class="pf13" x="0" y="19.9" transform="translate(327.2,0)" font-family="'Courier New',monospace" font-size="9" fill="#8affc4" opacity="0.33">1</text><text class="pf14" x="0" y="10.5" transform="translate(1211.1,0)" font-family="'Courier New',monospace" font-size="8" fill="#12c25a" opacity="0.53">F</text><text class="pf15" x="0" y="13.6" transform="translate(1135.4,0)" font-family="'Courier New',monospace" font-size="9" fill="#4dffa0" opacity="0.34">F</text><text class="pf16" x="0" y="11.1" transform="translate(634.9,0)" font-family="'Courier New',monospace" font-size="8" fill="#4dffa0" opacity="0.64">1</text><text class="pf17" x="0" y="15.9" transform="translate(46.2,0)" font-family="'Courier New',monospace" font-size="8" fill="#12c25a" opacity="0.52">F</text><text class="pf18" x="0" y="6.5" transform="translate(29.4,0)" font-family="'Courier New',monospace" font-size="9" fill="#12c25a" opacity="0.35">1</text><text class="pf19" x="0" y="18.4" transform="translate(18.3,0)" font-family="'Courier New',monospace" font-size="8" fill="#8affc4" opacity="0.58">3</text><text class="pf20" x="0" y="20.9" transform="translate(663.8,0)" font-family="'Courier New',monospace" font-size="8" fill="#8affc4" opacity="0.44">9</text><text class="pf21" x="0" y="6.2" transform="translate(379.1,0)" font-family="'Courier New',monospace" font-size="9" fill="#12c25a" opacity="0.47">1</text><text class="pf22" x="0" y="21.0" transform="translate(236.7,0)" font-family="'Courier New',monospace" font-size="9" fill="#12c25a" opacity="0.65">9</text><text class="pf23" x="0" y="15.9" transform="translate(959.0,0)" font-family="'Courier New',monospace" font-size="9" fill="#4dffa0" opacity="0.42">A</text><text class="pf24" x="0" y="21.0" transform="translate(338.5,0)" font-family="'Courier New',monospace" font-size="9" fill="#4dffa0" opacity="0.54">0</text><text class="pf25" x="0" y="13.2" transform="translate(703.7,0)" font-family="'Courier New',monospace" font-size="8" fill="#12c25a" opacity="0.48">F</text><text class="pf26" x="0" y="16.8" transform="translate(587.6,0)" font-family="'Courier New',monospace" font-size="8" fill="#12c25a" opacity="0.36">C</text><text class="pf27" x="0" y="19.7" transform="translate(522.7,0)" font-family="'Courier New',monospace" font-size="9" fill="#4dffa0" opacity="0.54">F</text><text class="pf28" x="0" y="14.8" transform="translate(723.2,0)" font-family="'Courier New',monospace" font-size="9" fill="#4dffa0" opacity="0.42">A</text><text class="pf29" x="0" y="7.1" transform="translate(420.2,0)" font-family="'Courier New',monospace" font-size="8" fill="#12c25a" opacity="0.62">0</text><text class="pf30" x="0" y="18.1" transform="translate(711.4,0)" font-family="'Courier New',monospace" font-size="8" fill="#4dffa0" opacity="0.45">0</text><text class="pf31" x="0" y="17.2" transform="translate(84.4,0)" font-family="'Courier New',monospace" font-size="8" fill="#12c25a" opacity="0.43">C</text><text class="pf32" x="0" y="9.7" transform="translate(805.2,0)" font-family="'Courier New',monospace" font-size="8" fill="#8affc4" opacity="0.63">1</text><text class="pf33" x="0" y="7.8" transform="translate(627.7,0)" font-family="'Courier New',monospace" font-size="8" fill="#8affc4" opacity="0.46">F</text></g>
+  <g><rect class="nb0" x="8.0" y="17.1" width="3" height="1" fill="#00e5ff"/><rect class="nb1" x="36.2" y="18.3" width="3" height="2" fill="#4dffa0"/><rect class="nb2" x="1104.4" y="21.1" width="3" height="2" fill="#4dffa0"/><rect class="nb3" x="652.2" y="17.7" width="2" height="1" fill="#00e5ff"/><rect class="nb4" x="701.5" y="3.6" width="3" height="1" fill="#4dffa0"/><rect class="nb5" x="818.3" y="13.7" width="3" height="1" fill="#00e5ff"/><rect class="nb6" x="271.2" y="18.6" width="3" height="2" fill="#4dffa0"/><rect class="nb7" x="250.9" y="16.2" width="3" height="2" fill="#00e5ff"/><rect class="nb8" x="1049.8" y="20.8" width="3" height="1" fill="#00e5ff"/><rect class="nb9" x="165.5" y="1.7" width="2" height="1" fill="#eafff2"/><rect class="nb10" x="471.5" y="3.8" width="4" height="1" fill="#4dffa0"/><rect class="nb11" x="491.2" y="11.9" width="3" height="2" fill="#00e5ff"/><rect class="nb12" x="48.6" y="21.7" width="2" height="2" fill="#4dffa0"/><rect class="nb13" x="1191.1" y="21.3" width="2" height="2" fill="#eafff2"/><rect class="nb14" x="380.6" y="23.9" width="3" height="2" fill="#eafff2"/><rect class="nb15" x="34.5" y="18.0" width="3" height="2" fill="#00e5ff"/></g>
+  
+    <g class="gb0" style="transform-box: fill-box; transform-origin: center;">
+      <rect x="0" y="14.0" width="1200" height="1.4" fill="#ff2b6d" opacity="0.55"/>
+      <rect x="3" y="15.5" width="1200" height="1.4" fill="#00e5ff" opacity="0.55"/>
+      <rect x="-3" y="14.8" width="1200" height="1.4" fill="#4dffa0" opacity="0.85"/>
+    </g>
+    
+    <g class="gb1" style="transform-box: fill-box; transform-origin: center;">
+      <rect x="0" y="1.7999999999999998" width="1200" height="1.4" fill="#ff2b6d" opacity="0.55"/>
+      <rect x="3" y="3.3" width="1200" height="1.4" fill="#00e5ff" opacity="0.55"/>
+      <rect x="-3" y="2.5999999999999996" width="1200" height="1.4" fill="#4dffa0" opacity="0.85"/>
+    </g>
+    
+    <g class="gb2" style="transform-box: fill-box; transform-origin: center;">
+      <rect x="0" y="8.9" width="1200" height="1.4" fill="#ff2b6d" opacity="0.55"/>
+      <rect x="3" y="10.4" width="1200" height="1.4" fill="#00e5ff" opacity="0.55"/>
+      <rect x="-3" y="9.700000000000001" width="1200" height="1.4" fill="#4dffa0" opacity="0.85"/>
+    </g>
+    
+
+  <rect class="scanband" x="0" y="0" width="40" height="26" fill="#00ff8c" opacity="0.06"/>
+
+  <g class="edgeTick">
+    <path d="M 8 7.0 L 8 19.0" fill="none"/>
+    <path d="M 1192 7.0 L 1192 19.0" fill="none"/>
+  </g>
+
+  <rect x="0" y="0" width="1200" height="26" fill="url(#fadeSides)"/>
+</g>
+</svg>
