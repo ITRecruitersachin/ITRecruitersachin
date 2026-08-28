@@ -18,7 +18,7 @@
 </a>
 </h3>
 
-<img src="matrix_dividerr.svg" width="100%" height="26" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="26" alt="divider"/>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
@@ -58,13 +58,13 @@
 
 <br/>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 📖 Table of Contents
 About • Nationwide Coverage • Domain Expertise • Engagement Types • Legal & Compliance • Core Skills • Sourcing Channels & Tools • ATS/CRM/VMS Ecosystem • Performance Metrics • Work Authorization • Database Growth • Experience Timeline • Certifications • Why Work With Me • GitHub Analytics • Testimonials • Contact
 
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;About Sachin
 
@@ -130,7 +130,7 @@ motto: >
 </tr>
 </table>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🌟 Why Work With Me
 
@@ -189,7 +189,7 @@ W H Y   W O R K   W I T H   M E
 
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🟢 Availability Status
 # 📍 Availability
@@ -208,7 +208,7 @@ W H Y   W O R K   W I T H   M E
 
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 # 🤝 Connect With Me
 
@@ -239,7 +239,7 @@ W H Y   W O R K   W I T H   M E
 
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 # 🏆 Career Highlights
 
@@ -258,7 +258,7 @@ W H Y   W O R K   W I T H   M E
 
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 # 🧠 Core Recruiting Skills
 
@@ -315,7 +315,7 @@ W H Y   W O R K   W I T H   M E
 
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 # ⚙️ ATS • CRM • VMS
 
@@ -334,7 +334,7 @@ W H Y   W O R K   W I T H   M E
 
 <br clear="right"/>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🚀 Candidate Submission Workflow
 
@@ -346,7 +346,7 @@ Boolean      ContactOut    Juicebox       Qualify        Format       Portal    
 Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    Follow-up
 ```
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🌊 Pipeline
 
@@ -382,7 +382,7 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
               Right candidate. Right role. Right time. Every time.
 ```
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 📈 Live Job Market Pulse · Hottest Roles 2025
 
@@ -401,7 +401,7 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
 | 🟡 Network Engineer | ███████ 68% | ↑ +10% | $100–$150K |
 | 🟡 Full Stack Dev | ███████ 70% | ↑ +14% | $110–$160K |
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 📊 Recruiter Metrics Dashboard
 
@@ -417,7 +417,7 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
 
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🗺️ Nationwide Coverage
 
@@ -425,7 +425,7 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
 
 > Region groupings follow the standard U.S. Census Bureau definitions (Northeast: 9 · Midwest: 12 · South incl. D.C.: 17 · West: 13 = 51).
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🧾 Engagement Types Handled
 
@@ -439,7 +439,7 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
 | C2C | Candidate's own corporation contracts with the vendor/client | MSA/SOW review, vendor onboarding, invoicing cadence, corp-to-corp compliance docs |
 | 1099 | Candidate works as an independent contractor | Contractor agreements, scope-of-work documentation, W-9 collection |
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## ⚖️ Legal, Compliance & Onboarding
 ✅ Form I-9 verification & E-Verify processing
@@ -453,7 +453,7 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
 ✅ State-specific labor law awareness across all 50 states
 ✅ Offer letter generation, background/reference verification, new-hire paperwork
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🧠 Core Recruiting Skill Set
 
@@ -461,7 +461,7 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
 <img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27radar%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27Sourcing%27%2C+%27Boolean+%2F+X-Ray+Search%27%2C+%27ATS+Management%27%2C+%27Compliance+%26+Onboarding%27%2C+%27Client+Relationship%27%2C+%27Negotiation%27%2C+%27Candidate+Screening%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27Skill+Proficiency%27%2C%0A++++++data%3A+%5B95%2C92%2C90%2C93%2C88%2C85%2C94%5D%2C%0A++++++backgroundColor%3A+%27rgba%2846%2C+204%2C+113%2C+0.25%29%27%2C%0A++++++borderColor%3A+%27%232ecc71%27%2C%0A++++++pointBackgroundColor%3A+%27%232ecc71%27%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Core+Recruiting+Skill+Set%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scale%3A+%7B%0A++++++angleLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.2%29%27+%7D%2C%0A++++++gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.2%29%27+%7D%2C%0A++++++pointLabels%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C%0A++++++ticks%3A+%7B+display%3A+false%2C+beginAtZero%3A+true%2C+max%3A+100+%7D%0A++++%7D%0A++%7D%0A%7D&w=480&h=340&bkg=transparent&devicePixelRatio=2" alt="Core skills radar chart"/>
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🔍 Sourcing Channels & Tools
 
@@ -478,7 +478,7 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
 **Free & Niche Sourcing Sources:**
 ![Craigslist](https://img.shields.io/badge/Craigslist-793A11?style=flat-square) ![Google for Jobs](https://img.shields.io/badge/Google%20for%20Jobs-4285F4?style=flat-square&logo=google&logoColor=white) ![USAJobs](https://img.shields.io/badge/USAJobs-002F6C?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub%20(tech%20sourcing)-181717?style=flat-square&logo=github&logoColor=white) ![Meetup](https://img.shields.io/badge/Meetup%20Groups-ED1C40?style=flat-square&logo=meetup&logoColor=white) ![Facebook Groups](https://img.shields.io/badge/Facebook%20Job%20Groups-1877F2?style=flat-square&logo=facebook&logoColor=white)
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🔍 Advanced Sourcing Techniques
 
@@ -521,7 +521,7 @@ A D V A N C E D   T A L E N T   S O U R C I N G
 ══════════════════════════════════════════════════════════════════════════════════════
 ```
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## ⚙️ ATS, CRM & VMS Ecosystem
 
@@ -553,7 +553,7 @@ I-9/E-Verify · OFCCP Rules · EEOC Compliance · SOC2 Aware · GDPR/CCPA
 
 </details>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🤖 AI-Assisted Sourcing Platforms
 HireEZ · Hiretual · Fetcher.ai · Findem.ai · Juicebox.io · SeekOut · Entelo · Eightfold.ai · AI X-Ray Sourcing
@@ -565,7 +565,7 @@ HireEZ · Hiretual · Fetcher.ai · Findem.ai · Juicebox.io · SeekOut · Entel
 <img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27polarArea%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27USC%27%2C%27GC%27%2C%27H1B%27%2C%27OPT%2FCPT%27%2C%27TN%27%2C%27L1%2FL2%27%2C%27E3%27%2C%27H4-EAD%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++data%3A+%5B30%2C20%2C18%2C12%2C8%2C6%2C3%2C3%5D%2C%0A++++++backgroundColor%3A+%5B%27%232ecc71%27%2C%27%233498db%27%2C%27%239b59b6%27%2C%27%23f1c40f%27%2C%27%23e67e22%27%2C%27%231abc9c%27%2C%27%23e74c3c%27%2C%27%2395a5a6%27%5D%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Work+Authorization+Types+Supported%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+15+%7D%2C%0A++++++legend%3A+%7B+position%3A+%27right%27%2C+labels%3A+%7B+fontColor%3A+%27%23ffffff%27%2C+boxWidth%3A+12%2C+fontSize%3A+10+%7D+%7D%0A++++%7D%2C%0A++++scale%3A+%7B+ticks%3A+%7B+display%3A+false+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.15%29%27+%7D+%7D%0A++%7D%0A%7D&w=560&h=340&bkg=transparent&devicePixelRatio=2" alt="Work authorization types chart"/>
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 📈 Candidate Database Growth
 
@@ -575,7 +575,7 @@ HireEZ · Hiretual · Fetcher.ai · Findem.ai · Juicebox.io · SeekOut · Entel
 
 (Sample growth curve — plug in actual year-by-year database size if tracked.)
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ```mermaid
 timeline
@@ -684,7 +684,7 @@ Specializations   │ AI • Cloud • Cybersecurity • ERP • Data • Networ
 ══════════════════════════════════════════════════════════════════════════════════════════════
 ```
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 📊 Career Snapshot
 
@@ -705,7 +705,7 @@ Specializations   │ AI • Cloud • Cybersecurity • ERP • Data • Networ
 
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🎓 LinkedIn Learning Certifications
 
@@ -811,7 +811,7 @@ W H Y   W O R K   W I T H   M E
 
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🎯 Technology & Industry Expertise
 
@@ -961,7 +961,7 @@ W H Y   W O R K   W I T H   M E
 </tr>
 </table>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 > **Specialization:** Delivering specialized talent acquisition solutions across enterprise technology, cloud platforms, artificial intelligence, cybersecurity, software engineering, data & analytics, ERP, infrastructure, and digital transformation programs for **Federal, State Government, Fortune 500, Direct Clients, MSP, VMS, RPO, and Commercial organizations** throughout the United States.
 ### 🎯 Recruitment Coverage
@@ -979,7 +979,7 @@ Infrastructure 🌐  ███████████████████�
 
 **Supporting Federal • State • Fortune 500 • Global System Integrators • Product Companies • Consulting Firms • Digital Transformation Programs across the United States**
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🛠️ Skills & Competency Matrix
 
@@ -1150,7 +1150,7 @@ F --> G[Onboarding]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 # 🛰️ TALENT ACQUISITION COMMAND CENTER
 
@@ -1181,7 +1181,7 @@ F --> G[Onboarding]
 >
 > *"Sachin is a very personable professional who consistently prioritizes both employees and clients. He goes above and beyond to ensure client satisfaction and is always eager to deliver exceptional service. His commitment, professionalism, and dedication make him a valuable asset to any organization."*
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 > **Anastasia Bielka**
 > 🔗 https://www.linkedin.com/in/anastasiia-bielka/
@@ -1190,7 +1190,7 @@ F --> G[Onboarding]
 >
 > *Sachin helped me feel confident while completing documentation and joining a new team. His professionalism, flexibility, and genuine support made a significant difference, and I believe any organization would benefit from having him as a recruiter."*
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 <!-- ========================================= -->
 <!-- 📊 GitHub Analytics -->
@@ -1229,7 +1229,7 @@ F --> G[Onboarding]
   />
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 <h2 align="center">📈 Contribution Activity</h2>
 
@@ -1250,7 +1250,7 @@ F --> G[Onboarding]
   />
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 <h2 align="center">🔥 Contribution Heatmap</h2>
 
@@ -1258,7 +1258,7 @@ F --> G[Onboarding]
   <img width="100%" src="https://ghchart.rshah.org/58A6FF/ITRecruitersachin" alt="Contribution Heatmap"/>
 </p>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 <p align="center">
   Pacman Contribution Graph Action
@@ -1278,7 +1278,7 @@ F --> G[Onboarding]
   />
 </picture>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -1290,7 +1290,7 @@ F --> G[Onboarding]
 </picture>
 </p>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 <div align="center">
 
@@ -1298,7 +1298,7 @@ F --> G[Onboarding]
 
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## ⭐ Star History
 
@@ -1323,7 +1323,7 @@ F --> G[Onboarding]
   </a>
 </p>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 <div align="center">
    <img width="100%" src="India n fantasy.png" />
@@ -1335,7 +1335,7 @@ F --> G[Onboarding]
 <img src="./Dyno.gif.gif" width="100%">
 </p>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🌟 The Royal Decree
 
@@ -1355,7 +1355,7 @@ F --> G[Onboarding]
 
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 # 🌠 Let's Connect
 
@@ -1411,7 +1411,7 @@ F --> G[Onboarding]
 
 </div>
 
-<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ### ⭐ If you found my profile helpful, consider giving it a ⭐
 
