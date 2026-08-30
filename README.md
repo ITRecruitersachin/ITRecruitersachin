@@ -256,6 +256,135 @@ W H Y   W O R K   W I T H   M E
 
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
+### 🌎 U.S. Hiring Coverage
+
+```mermaid
+mindmap
+  root((🇺🇸 US Hiring))
+    🏙️ Northeast
+      New York
+      New Jersey
+      Massachusetts
+      Connecticut
+      Pennsylvania
+      Hot Markets
+        NYC Metro
+        Boston
+        Philadelphia
+
+    🌊 Southeast
+      Georgia
+      Florida
+      North Carolina
+      Virginia
+      Maryland
+      Hot Markets
+        Atlanta
+        Miami
+        Charlotte
+        DC Metro
+
+    🏔️ Midwest
+      Michigan
+      Illinois
+      Ohio
+      Indiana
+      Wisconsin
+      Minnesota
+      Hot Markets
+        Detroit
+        Chicago
+        Columbus
+        Twin Cities
+
+    ⭐ South & Southwest
+      Texas
+      Tennessee
+      Arizona
+      Colorado
+      Nevada
+      Hot Markets
+        Austin
+        Dallas
+        Houston
+        Denver
+        Phoenix
+
+    🌅 West Coast
+      California
+      Washington
+      Oregon
+      Hot Markets
+        Bay Area
+        Seattle
+        Los Angeles
+        San Diego
+        Portland
+
+    🌐 Remote
+      All 50 U.S. States
+      Remote Opportunities
+```
+
+---
+
+### 📌 Key Recruiting Markets
+
+| 🏙️ Major Markets | 🌎 Coverage |
+|:-----------------|:------------|
+| Detroit | ✅ |
+| Chicago | ✅ |
+| New York City | ✅ |
+| Atlanta | ✅ |
+| Dallas | ✅ |
+| Austin | ✅ |
+| Houston | ✅ |
+| Charlotte | ✅ |
+| Boston | ✅ |
+| Seattle | ✅ |
+| San Francisco Bay Area | ✅ |
+| Los Angeles | ✅ |
+| Philadelphia | ✅ |
+| Washington DC Metro | ✅ |
+| Miami | ✅ |
+| Phoenix | ✅ |
+| Denver | ✅ |
+| Portland | ✅ |
+| 🌐 Remote (All 50 States) | ✅ |
+
+> **Specialized recruiting across multiple U.S. time zones (EST, CST, MST & PST), supporting Direct Clients, MSP/VMS, RPO, and Enterprise hiring engagements.**
+</div>
+
+<br/>
+
+<div align="center">
+
+![Michigan](https://img.shields.io/badge/Michigan-🔥%20Hot-FF4444?style=for-the-badge&labelColor=0D1117)
+![Texas](https://img.shields.io/badge/Texas-🔥%20Hot-FF4444?style=for-the-badge&labelColor=0D1117)
+![Georgia](https://img.shields.io/badge/Georgia-🔥%20Hot-FF4444?style=for-the-badge&labelColor=0D1117)
+![Illinois](https://img.shields.io/badge/Illinois-🔥%20Hot-FF4444?style=for-the-badge&labelColor=0D1117)
+![California](https://img.shields.io/badge/California-⚡%20Active-00d4ff?style=for-the-badge&labelColor=0D1117)
+![Ohio](https://img.shields.io/badge/Ohio-⚡%20Active-00d4ff?style=for-the-badge&labelColor=0D1117)
+![Florida](https://img.shields.io/badge/Florida-⚡%20Active-00d4ff?style=for-the-badge&labelColor=0D1117)
+![New Jersey](https://img.shields.io/badge/New%20Jersey-⚡%20Active-00d4ff?style=for-the-badge&labelColor=0D1117)
+![North Carolina](https://img.shields.io/badge/North%20Carolina-⚡%20Active-00d4ff?style=for-the-badge&labelColor=0D1117)
+![New York](https://img.shields.io/badge/New%20York-⚡%20Active-00d4ff?style=for-the-badge&labelColor=0D1117)
+![Washington](https://img.shields.io/badge/Washington-✅%20Available-00ff88?style=for-the-badge&labelColor=0D1117)
+![Pennsylvania](https://img.shields.io/badge/Pennsylvania-✅%20Available-00ff88?style=for-the-badge&labelColor=0D1117)
+![Virginia](https://img.shields.io/badge/Virginia-✅%20Available-00ff88?style=for-the-badge&labelColor=0D1117)
+![Colorado](https://img.shields.io/badge/Colorado-✅%20Available-00ff88?style=for-the-badge&labelColor=0D1117)
+![Remote USA](https://img.shields.io/badge/🌐%20Remote%20USA-All%2050%20States-A855F7?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
+
 ---
 <!-- ========================================================= -->
 <!--              CAREER IMPACT & RECRUITER DASHBOARD          -->
