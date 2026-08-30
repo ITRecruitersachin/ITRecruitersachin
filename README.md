@@ -360,7 +360,6 @@ W H Y   W O R K   W I T H   M E
 | Bullhorn |
 | JobDiva |
 | Ceipal |
-| SmartRecruiters |
 
 </div>
 
