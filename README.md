@@ -1308,11 +1308,15 @@ F --> G[Onboarding]
 
 <br><br>
 
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
+
 ### ✨ Aurora Talent Network
 
 *Connecting organizations with exceptional technology professionals through strategic sourcing, trusted relationships, and modern recruiting.*
 
 </div>
+
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -1326,6 +1330,8 @@ F --> G[Onboarding]
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
+
 <div align="center">
 
 ### ⭐ Recruit • Connect • Deliver • Repeat ⭐
@@ -1337,16 +1343,14 @@ F --> G[Onboarding]
 ### ⭐ If you found my profile helpful, consider giving it a ⭐
 
 <div align="center">
-
-**© 2026 Sachin R • Senior US IT Recruiter • Bengaluru, India**
-
-*Federal • State • Commercial • AI • Cloud • Cybersecurity • Data Engineering*
-
-**📍 Bengaluru, India 🇮🇳 &nbsp;·&nbsp; 🌐 Remote — All US States &nbsp;·&nbsp; ⏰ IST (GMT+5:30) &nbsp;·&nbsp; 🟢 Available Immediately**
-
-*Made with ❤️ by Sachin — Lead Senior US IT Recruiter*
+  **© 2026 Sachin R • Senior US IT Recruiter • Bengaluru, India**
+  *Federal • State • Commercial • AI • Cloud • Cybersecurity • Data Engineering*
+  **📍 Bengaluru, India 🇮🇳 &nbsp;·&nbsp; 🌐 Remote — All US States &nbsp;·&nbsp; ⏰ IST (GMT+5:30) &nbsp;·&nbsp; 🟢 Available Immediately**
+  *Made with ❤️ by Sachin — Lead Senior US IT Recruiter*
 
 </div>
+
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=065f46,0d9488,06b6d4,6d28d9,010d0a&height=140&section=footer&text=ITRecruitersachin+%C2%B7+US+RECRUITER+%C2%B7+NICHE+TECH+%C2%B7+NDA+PROTECTED+%C2%B7+ALL+CLIENTS+CONFIDENTIAL&fontSize=10&fontColor=065f46&animation=fadeIn" width="100%"/>
 
@@ -1364,6 +1368,8 @@ F --> G[Onboarding]
 [![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/ITRecruitersachin)
 
 </div>
+
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
