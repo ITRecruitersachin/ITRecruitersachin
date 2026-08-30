@@ -20,7 +20,7 @@
 
 <img src="matrix_dividerrr.svg" width="100%" height="26" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;About Sachin
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;About ME
 
 <table>
 <tr>
