@@ -900,8 +900,6 @@ QA 🧪              ███████████████████�
 Infrastructure 🌐  ██████████████████████
 ```
 
-**Supporting Federal • State • Fortune 500 • Global System Integrators • Product Companies • Consulting Firms • Digital Transformation Programs across the United States**
-
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 🛠️ Skills & Competency Matrix
