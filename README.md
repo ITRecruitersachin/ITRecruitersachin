@@ -1403,7 +1403,7 @@ F --> G[Onboarding]
    <img width="100%" src="India n fantasy.png" />
 </div>
 
-<img src="./colourfull line.gif" width="100%">
+<img src="matrix_dividerr.svg" width="100%" height="56" alt="divider"/>
 
 <p align="center">
 <img src="./Dyno.gif.gif" width="100%">
