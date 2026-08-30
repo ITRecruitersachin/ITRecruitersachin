@@ -197,6 +197,20 @@ Specializations   │ AI • Cloud • Cybersecurity • ERP • Data • Networ
 
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
+## 📜 Professional Certifications
+
+| Certification | Provider | Credential |
+|---------------|----------|------------|
+| 🏅 **Niche Recruiting** | LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/de0aabefe2cc74c02d337c5a8b67ee378811c21086649bac4384b51cd96b73e5/) |
+| 🏅 **Technical Recruiting** | LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/4774b60946f70c67f95d1c8cb43d51378af79c7a16e92a46ce8503094829a504/) |
+| 🏅 **Generative AI, Recruiting & Talent Acquisition** | LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/a7882075e24f4c29bc05baadc3559acbc00f3bf849b36ad31fad4c7e68f3d9f3/) |
+| 🏅 **Hire Better, Hire Faster with Social Media** | LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/76854da4e0b6cc8a137a14484fb8a349604e4aeb710dda9bf8cdd80a2262259e/) |
+| 🏅 **AI Agents for Everyday Professionals** | LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/fcc0e5f8bee3c176fb288da92c3ddd60dbe1e946daebe200a4531ba04a8837b0/) |
+
+<br/>
+
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
+
 ## 🌟 Why Work With Me
 
 ```text
