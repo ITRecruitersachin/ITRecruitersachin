@@ -20,6 +20,72 @@
 
 <img src="matrix_dividerrr.svg" width="100%" height="26" alt="divider"/>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;About Sachin
+
+<table>
+<tr>
+<td width="55%">
+
+```yaml
+# ══════════════════════════════════════
+#   SACHIN  |  RECRUITER PROFILE CARD
+# ══════════════════════════════════════
+
+Identity:
+  Name        : "Sachin"
+  Title       : "Lead US IT Recruiter"
+  Pronouns    : "He / Him"
+  Location    : "Bangalore, Karnataka, India 🇮🇳"
+  Timezone    : "IST (GMT+5:30)"
+
+Availability:
+  Status      : "🟢 AVAILABLE IMMEDIATELY"
+  Notice      : "⚡ ZERO days — join today"
+  Remote      : "✅ All Over India"
+  Onsite      : "✅ Bengaluru / Hybrid"
+  Work_type   : ["FTE", "Contract", "C2H"]
+
+Experience:
+  Years       : "10+"
+  TAT         : "24 HRS"
+  OAR         : "95%"
+  Fill_time   : "48 hrs avg"
+  Clients     : "100+"
+  Team_led    : "5 recruiters"
+
+Expertise:
+  - Full-Cycle US IT Recruiting
+  - Cloud · AI/ML · DevOps · Data Eng
+  - SAP · Salesforce · Cybersecurity
+  - W2 / C2C / 1099 Tax Structures
+  - Citizen · Green Card · TN VISA · H-1B · H-4 EAD · L-2 EAD · CPT · OPT · STEM OPT · E-3 · L-1A/L-1B · O-1 · EAD
+  - Direct Client · MSP · VMS · RPO · Staff Augmentation · Statement of Work (SOW) · Prime Vendor · Sub-Vendor
+  · Preferred Supplier Program (PSP) · Master Service Agreement (MSA) · Federal Government · State Government
+  · Enterprise Accounts · Time & Materials (T&M) · Project-Based Hiring"
+  - High-Volume & Executive Search
+
+contact:
+  email       : "writeforsachin@gmail.com"
+  linkedin    : "linkedin.com/in/recruitersachin"
+  whatsapp    : "+91-9742434111"
+
+motto: >
+  "Every placement is a promise.
+   Speed, quality, trust — always."
+```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Developer GIF"/><br/><br/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" alt="Recruiter network GIF"/>
+
+</td>
+</tr>
+</table>
+
+<img src="matrix_dividerrr.svg" width="100%" height="26" alt="divider"/>
+
 ```mermaid
 timeline
     title Career Progression
@@ -32,6 +98,8 @@ timeline
 ```
 
 <br>
+
+<img src="matrix_dividerrr.svg" width="100%" height="26" alt="divider"/>
 
 ## 🕐 Professional Timeline
 
@@ -175,62 +243,6 @@ About • Nationwide Coverage • Domain Expertise • Engagement Types • Lega
 
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;About Sachin
-
-<table>
-<tr>
-<td width="55%">
-
-```yaml
-# ══════════════════════════════════════
-#   SACHIN  |  RECRUITER PROFILE CARD
-# ══════════════════════════════════════
-
-Identity:
-  Name        : "Sachin"
-  Title       : "Lead US IT Recruiter"
-  Pronouns    : "He / Him"
-  Location    : "Bangalore, Karnataka, India 🇮🇳"
-  Timezone    : "IST (GMT+5:30)"
-
-Availability:
-  Status      : "🟢 AVAILABLE IMMEDIATELY"
-  Notice      : "⚡ ZERO days — join today"
-  Remote      : "✅ All Over India"
-  Onsite      : "✅ Bengaluru / Hybrid"
-  Work_type   : ["FTE", "Contract", "C2H"]
-
-Experience:
-  Years       : "10+"
-  TAT         : "24 HRS"
-  OAR         : "95%"
-  Fill_time   : "48 hrs avg"
-  Clients     : "100+"
-  Team_led    : "5 recruiters"
-
-Expertise:
-  - Full-Cycle US IT Recruiting
-  - Cloud · AI/ML · DevOps · Data Eng
-  - SAP · Salesforce · Cybersecurity
-  - W2 / C2C / 1099 Tax Structures
-  - Citizen · Green Card · TN VISA · H-1B · H-4 EAD · L-2 EAD · CPT · OPT · STEM OPT · E-3 · L-1A/L-1B · O-1 · EAD
-  - Direct Client · MSP · VMS · RPO · Staff Augmentation · Statement of Work (SOW) · Prime Vendor · Sub-Vendor
-  · Preferred Supplier Program (PSP) · Master Service Agreement (MSA) · Federal Government · State Government
-  · Enterprise Accounts · Time & Materials (T&M) · Project-Based Hiring"
-  - High-Volume & Executive Search
-
-contact:
-  email       : "writeforsachin@gmail.com"
-  linkedin    : "linkedin.com/in/recruitersachin"
-  whatsapp    : "+91-9742434111"
-
-motto: >
-  "Every placement is a promise.
-   Speed, quality, trust — always."
-```
-
-</td>
-<td width="45%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Developer GIF"/><br/><br/>
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" alt="Recruiter network GIF"/>
