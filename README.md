@@ -197,7 +197,7 @@ Specializations   │ AI • Cloud • Cybersecurity • ERP • Data • Networ
 
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
-## 📜 Professional Certifications
+## 🎓 LinkedIn Learning Certifications
 
 | Certification | Provider | Credential |
 |---------------|----------|------------|
@@ -769,112 +769,6 @@ HireEZ · Hiretual · Fetcher.ai · Findem.ai · Juicebox.io · SeekOut · Entel
 | 🗄️ **ATS / CRM** | JobDiva • Bullhorn • PeopleFluent |
 | 🔄 **VMS Platforms** | VectorVMS • Fieldglass • Beeline • IQNavigator |
 | ☁️ **Technology Focus** | AI • Cloud • Cybersecurity • DevOps • Data • ERP • Enterprise Applications |
-
-</div>
-
-<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
-
-## 🎓 LinkedIn Learning Certifications
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🎯 Recruitment Excellence
-
-- ✅ **Niche Recruiting**
-  - 📅 Jan 2026
-  - 🏢 LinkedIn Learning
-  - 🏷️ Skills: Recruiting
-
-- ✅ **Technical Recruiting**
-  - 📅 May 2025
-  - 🏢 LinkedIn Learning
-  - 🏷️ Skills: Technical Recruiting
-
-- ✅ **Hire Better, Hire Faster with Social Media and Digital Platforms**
-  - 📅 Jan 2026
-  - 🏢 LinkedIn Learning
-  - 🏷️ Skills: Hiring • Social Recruiting
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI & Future of Recruiting
-
-- ✅ **Generative AI, Recruiting, and Talent Acquisition**
-  - 📅 May 2025
-  - 🏢 LinkedIn Learning
-  - 🏷️ Skills: Artificial Intelligence for Business
-
-- ✅ **AI Agents for Everyday Professionals: Simple Automations to Speed Up Your Work (No Code Required)**
-  - 📅 Jan 2026
-  - 🏢 LinkedIn Learning
-  - 🏷️ Skills: Automation • Productivity Improvement • AI Agents
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🌟 Why Work With Me
-
-```text
-═══════════════════════════════════════════════════════════════════════════════════════════════════
-W H Y   W O R K   W I T H   M E
-═══════════════════════════════════════════════════════════════════════════════════════════════════
-⚡ RAPID DELIVERY
-┃  ✦ Efficient sourcing workflows designed to reduce time-to-submit.
-┃  ✦ Quick turnaround on priority and hard-to-fill technical roles.
-
-🎯 STRATEGIC SOURCING
-┃  ✦ Advanced Boolean, Google X-Ray and AI-assisted sourcing techniques.
-┃  ✦ Strong focus on identifying and engaging passive technology talent.
-
-🗂 TALENT PIPELINES
-┃  ✦ Well-maintained consultant pipelines for recurring hiring needs.
-┃  ✦ Proactive talent mapping for niche and high-demand skill sets.
-
-🌎 NATIONWIDE REACH
-┃  ✦ Recruitment experience supporting clients across the United States.
-┃  ✦ Comfortable hiring across multiple time zones and locations.
-
-⚖️ COMPLIANCE FIRST
-┃  ✦ Knowledge of U.S. work authorization, visa categories and onboarding.
-┃  ✦ Experienced with documentation, compliance workflows and vendor processes.
-
-💼 FLEXIBLE HIRING MODELS
-┃  ✦ Full-Time • Contract • Contract-to-Hire • W2 • C2C • 1099.
-┃  ✦ Adaptable recruiting strategies based on client engagement models.
-
-🤝 PARTNERSHIP APPROACH
-┃  ✦ Collaborative communication with hiring managers and delivery teams.
-┃  ✦ Candidate-focused experience from sourcing through successful onboarding.
-══════════════════════════════════════════════════════════════════════════════════════════════
-```
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  #  PILLAR            PROOF                                              ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║ 01  ⚡ SPEED          48-hr avg fill · 34-hr record on niche roles       ║
-║ 02  ✅ QUALITY        95% OAR · 91% 90-day retention · 4.9/5 CSAT       ║
-║ 03  🕸️  NETWORK       15,000+ pre-vetted US IT profiles — warm          ║
-║ 04  📋 COMPLIANCE     W2/C2C/1099/H1B/OPT/GC/EAD — zero errors          ║
-║ 05  👥 LEADERSHIP     Built & scaled teams of 12 recruiters             ║
-║ 06  🤖 TECH-SAVVY     AWS-certified; real technical fluency             ║
-║ 07  📊 METRICS        TTTF · CPH · DNI · OAR · full KPI dashboards      ║
-║ 08  🌐 GEOGRAPHY      All 50 US states · deep coast-to-coast network    ║
-║ 09  💡 STRATEGY       Workforce planning + talent pipeline architecture ║
-║ 10  ❤️  RELATIONSHIPS  Candidates + clients return. Every time.          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
