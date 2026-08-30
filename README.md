@@ -20,6 +20,115 @@
 
 <img src="matrix_dividerrr.svg" width="100%" height="26" alt="divider"/>
 
+```mermaid
+timeline
+    title Career Progression
+    2013 : Technical Recruiter @ Pragna Technologies
+    2015 : US IT Recruiter @ ObjectWin Technologies
+    2018 : Senior Technical Recruiter @ Q Analysts LLC
+    2020 : Lead Technical Recruiter @ i-Link Solutions
+    2025 : Senior US IT Recruiter @ V2Soft
+    2026 : Lead Recruiter @ Staffworxs
+```
+
+<br>
+
+## 🕐 Professional Timeline
+
+```text
+══════════════════════════════════════════════════════════════════════════════════════════════
+                                S A C H I N   R
+                  10+ YEARS • US IT RECRUITMENT • TALENT ACQUISITION
+══════════════════════════════════════════════════════════════════════════════════════════════
+
+◉ Jan 2026 – May 2026
+┃  💼 Lead Recruiter | 🏢 Staffworxs | 🌎 Federal • State • Commercial Recruiting
+┃
+┃  ✦ Recruited for AI/ML, Cloud, Cybersecurity, Infrastructure & Networking roles.
+┃  ✦ Supported hiring across Georgia, Texas, New York, New Jersey and other U.S. states.
+┃  ✦ Conducted candidate screening, technical qualification and pay-rate negotiations.
+┃  ✦ Coordinated interviews with hiring managers and delivery teams.
+┃  ✦ Built AI-assisted sourcing workflows to improve recruiter productivity.
+┃  ✦ Managed candidate pipelines, reports and recruiting metrics using JobDiva ATS.
+┃  ✦ Leveraged LinkedIn Recruiter, Dice, GitHub, Monster, Boolean & Google X-Ray sourcing.
+
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+
+◉ May 2025 – Dec 2025
+┃  💼 Senior US IT Recruiter | 🏢 V2Soft | 🏦 Banking • Automotive • Healthcare • Manufacturing • State Clients
+┃
+┃  ✦ Delivered full-cycle recruitment for Contract, Contract-to-Hire and Full-Time hiring.
+┃  ✦ Partnered with hiring managers, account managers and delivery teams.
+┃  ✦ Built strategic W2 consultant pipelines for niche technology positions.
+┃  ✦ Executed advanced LinkedIn Recruiter, Boolean and Google X-Ray sourcing.
+┃  ✦ Utilized GitHub, Stack Overflow and contact discovery platforms for passive sourcing.
+┃  ✦ Conducted technical screening, interview coordination, offer negotiation and onboarding.
+┃  ✦ Maintained consultant redeployment pipelines and ATS documentation using JobDiva.
+
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+
+◉ Sep 2020 – Mar 2025
+┃  💼 Lead Technical Recruiter | 🏢 i-Link Solutions | 🏛 Federal • State • Commercial • MSP / VMS Programs
+┃
+┃  ✦ Delivered end-to-end recruitment for Federal, State and Commercial clients.
+┃  ✦ Managed requisitions through VectorVMS and PeopleFluent platforms.
+┃  ✦ Built scalable W2 consultant pipelines, C2C vendor networks and redeployment pools.
+┃  ✦ Executed advanced Boolean, Google X-Ray and AI-assisted sourcing strategies.
+┃  ✦ Validated work authorization, visa documentation and consultant compliance.
+┃  ✦ Coordinated onboarding with compliance, HR and legal stakeholders.
+┃  ✦ Negotiated compensation, bill rates and consultant engagement terms.
+┃  ✦ Optimized resumes and submission packages for hiring manager review.
+┃  ✦ Guided consultants through interviews, offers, onboarding and post-placement support.
+┃  ✦ Mentored recruiters on sourcing, ATS workflows and recruitment best practices.
+┃  ✦ Tracked recruitment KPIs and continuously improved hiring efficiency.
+┃  ✦ Supported H1B workforce planning with immigration and legal teams.
+
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+
+◉ Aug 2018 – Feb 2020
+┃  💼 Senior Technical Recruiter | 🏢 Q Analysts LLC | 🚀 Fortune 500 • AI/ML • Big Tech Programs
+┃
+┃  ✦ Supported enterprise technology hiring across multiple client programs.
+┃  ✦ Recruited for AI/ML, NLP, Speech Data and Voice Technology initiatives.
+┃  ✦ Delivered QA and Testing professionals for advanced technology projects.
+┃  ✦ Supported AR, VR, XR and Smart Device testing programs.
+┃  ✦ Managed recruitment activities using Bullhorn ATS.
+
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+
+◉ May 2015 – Jul 2018
+┃  💼 US IT Recruiter | 🏢 ObjectWin Technologies | 💻 W2 • C2C • Contract • Contract-to-Hire • Full-Time
+┃
+┃  ✦ Delivered full-cycle recruitment across IT and Non-IT positions.
+┃  ✦ Specialized in W2 and C2C consultant hiring.
+┃  ✦ Sourced candidates via LinkedIn Recruiter, Dice, Monster and CareerBuilder.
+┃  ✦ Negotiated compensation, bill rates and consultant engagement terms.
+┃  ✦ Maintained consultant pipelines and ATS records using JobDiva.
+┃  ✦ Supported onboarding, compliance documentation and consultant engagement.
+
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+
+◉ May 2013 – Apr 2015
+┃  💼 Technical Recruiter | 🏢 Pragna Technologies | 🌱 Career Foundation • US Staffing
+┃
+┃  ✦ Began career supporting U.S. Contract and Contract-to-Hire recruitment.
+┃  ✦ Conducted candidate sourcing, resume review and technical screening.
+┃  ✦ Coordinated interviews, candidate communication and hiring workflows.
+┃  ✦ Learned U.S. staffing processes, tax terms and work authorization categories.
+┃  ✦ Built a strong foundation in Boolean sourcing and candidate relationship management.
+
+══════════════════════════════════════════════════════════════════════════════════════════════
+Experience        │ 10+ Years
+Companies         │ 6
+Industries        │ Federal • State • Commercial • Fortune 500
+Recruitment       │ W2 • C2C • 1099 • FTE • Contract • CTH
+ATS / VMS         │ JobDiva • Bullhorn • VectorVMS • PeopleFluent
+Specializations   │ AI • Cloud • Cybersecurity • ERP • Data • Networking
+══════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
+
 <div align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=2300&pause=700&color=00FFFF&background=0D111700&center=true&vCenter=true&repeat=true&width=980&height=65&lines=SACHIN+R+-+AVAILABLE+IMMEDIATELY;Lead+US+IT+Recruiter+%7C+10%2B+Years+Experience;Federal+%7C+State+%7C+Commercial+Hiring;Remote+%7C+Hybrid+%7C+Onsite+Recruitment;AI+Sourcing+%7C+Boolean+Search+%7C+X-Ray+Search;W2+%7C+C2C+%7C+1099+%7C+Full-Time+Hiring;USC+%7C+GC+%7C+H1B+%7C+OPT+%7C+CPT+%7C+EAD;Cloud+%7C+DevOps+%7C+Data+%7C+AI%2FML+%7C+SAP;Bullhorn+%7C+Fieldglass+%7C+VectorVMS+%7C+ATS;Full-Cycle+Recruitment+%7C+Team+Leadership;Building+High-Impact+Engineering+Teams;Zero+Notice+Period+-+Let's+Build+Great+Teams!" alt="Typing SVG"/>
@@ -577,114 +686,7 @@ HireEZ · Hiretual · Fetcher.ai · Findem.ai · Juicebox.io · SeekOut · Entel
 
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
-```mermaid
-timeline
-    title Career Progression
-    2013 : Technical Recruiter @ Pragna Technologies
-    2015 : US IT Recruiter @ ObjectWin Technologies
-    2018 : Senior Technical Recruiter @ Q Analysts LLC
-    2020 : Lead Technical Recruiter @ i-Link Solutions
-    2025 : Senior US IT Recruiter @ V2Soft
-    2026 : Lead Recruiter @ Staffworxs
-```
 
-<br>
-
-## 🕐 Professional Timeline
-
-```text
-══════════════════════════════════════════════════════════════════════════════════════════════
-                                S A C H I N   R
-                  10+ YEARS • US IT RECRUITMENT • TALENT ACQUISITION
-══════════════════════════════════════════════════════════════════════════════════════════════
-
-◉ Jan 2026 – May 2026
-┃  💼 Lead Recruiter | 🏢 Staffworxs | 🌎 Federal • State • Commercial Recruiting
-┃
-┃  ✦ Recruited for AI/ML, Cloud, Cybersecurity, Infrastructure & Networking roles.
-┃  ✦ Supported hiring across Georgia, Texas, New York, New Jersey and other U.S. states.
-┃  ✦ Conducted candidate screening, technical qualification and pay-rate negotiations.
-┃  ✦ Coordinated interviews with hiring managers and delivery teams.
-┃  ✦ Built AI-assisted sourcing workflows to improve recruiter productivity.
-┃  ✦ Managed candidate pipelines, reports and recruiting metrics using JobDiva ATS.
-┃  ✦ Leveraged LinkedIn Recruiter, Dice, GitHub, Monster, Boolean & Google X-Ray sourcing.
-
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-
-◉ May 2025 – Dec 2025
-┃  💼 Senior US IT Recruiter | 🏢 V2Soft | 🏦 Banking • Automotive • Healthcare • Manufacturing • State Clients
-┃
-┃  ✦ Delivered full-cycle recruitment for Contract, Contract-to-Hire and Full-Time hiring.
-┃  ✦ Partnered with hiring managers, account managers and delivery teams.
-┃  ✦ Built strategic W2 consultant pipelines for niche technology positions.
-┃  ✦ Executed advanced LinkedIn Recruiter, Boolean and Google X-Ray sourcing.
-┃  ✦ Utilized GitHub, Stack Overflow and contact discovery platforms for passive sourcing.
-┃  ✦ Conducted technical screening, interview coordination, offer negotiation and onboarding.
-┃  ✦ Maintained consultant redeployment pipelines and ATS documentation using JobDiva.
-
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-
-◉ Sep 2020 – Mar 2025
-┃  💼 Lead Technical Recruiter | 🏢 i-Link Solutions | 🏛 Federal • State • Commercial • MSP / VMS Programs
-┃
-┃  ✦ Delivered end-to-end recruitment for Federal, State and Commercial clients.
-┃  ✦ Managed requisitions through VectorVMS and PeopleFluent platforms.
-┃  ✦ Built scalable W2 consultant pipelines, C2C vendor networks and redeployment pools.
-┃  ✦ Executed advanced Boolean, Google X-Ray and AI-assisted sourcing strategies.
-┃  ✦ Validated work authorization, visa documentation and consultant compliance.
-┃  ✦ Coordinated onboarding with compliance, HR and legal stakeholders.
-┃  ✦ Negotiated compensation, bill rates and consultant engagement terms.
-┃  ✦ Optimized resumes and submission packages for hiring manager review.
-┃  ✦ Guided consultants through interviews, offers, onboarding and post-placement support.
-┃  ✦ Mentored recruiters on sourcing, ATS workflows and recruitment best practices.
-┃  ✦ Tracked recruitment KPIs and continuously improved hiring efficiency.
-┃  ✦ Supported H1B workforce planning with immigration and legal teams.
-
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-
-◉ Aug 2018 – Feb 2020
-┃  💼 Senior Technical Recruiter | 🏢 Q Analysts LLC | 🚀 Fortune 500 • AI/ML • Big Tech Programs
-┃
-┃  ✦ Supported enterprise technology hiring across multiple client programs.
-┃  ✦ Recruited for AI/ML, NLP, Speech Data and Voice Technology initiatives.
-┃  ✦ Delivered QA and Testing professionals for advanced technology projects.
-┃  ✦ Supported AR, VR, XR and Smart Device testing programs.
-┃  ✦ Managed recruitment activities using Bullhorn ATS.
-
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-
-◉ May 2015 – Jul 2018
-┃  💼 US IT Recruiter | 🏢 ObjectWin Technologies | 💻 W2 • C2C • Contract • Contract-to-Hire • Full-Time
-┃
-┃  ✦ Delivered full-cycle recruitment across IT and Non-IT positions.
-┃  ✦ Specialized in W2 and C2C consultant hiring.
-┃  ✦ Sourced candidates via LinkedIn Recruiter, Dice, Monster and CareerBuilder.
-┃  ✦ Negotiated compensation, bill rates and consultant engagement terms.
-┃  ✦ Maintained consultant pipelines and ATS records using JobDiva.
-┃  ✦ Supported onboarding, compliance documentation and consultant engagement.
-
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-
-◉ May 2013 – Apr 2015
-┃  💼 Technical Recruiter | 🏢 Pragna Technologies | 🌱 Career Foundation • US Staffing
-┃
-┃  ✦ Began career supporting U.S. Contract and Contract-to-Hire recruitment.
-┃  ✦ Conducted candidate sourcing, resume review and technical screening.
-┃  ✦ Coordinated interviews, candidate communication and hiring workflows.
-┃  ✦ Learned U.S. staffing processes, tax terms and work authorization categories.
-┃  ✦ Built a strong foundation in Boolean sourcing and candidate relationship management.
-
-══════════════════════════════════════════════════════════════════════════════════════════════
-Experience        │ 10+ Years
-Companies         │ 6
-Industries        │ Federal • State • Commercial • Fortune 500
-Recruitment       │ W2 • C2C • 1099 • FTE • Contract • CTH
-ATS / VMS         │ JobDiva • Bullhorn • VectorVMS • PeopleFluent
-Specializations   │ AI • Cloud • Cybersecurity • ERP • Data • Networking
-══════════════════════════════════════════════════════════════════════════════════════════════
-```
-
-<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
 ## 📊 Career Snapshot
 
