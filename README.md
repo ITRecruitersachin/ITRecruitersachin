@@ -1246,18 +1246,6 @@ F --> G[Onboarding]
 
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
-<div align="center">
-   <img width="100%" src="India n fantasy.png" />
-</div>
-
-<img src="./colourfull line.gif" width="100%">
-
-<p align="center">
-<img src="./Dyno.gif.gif" width="100%">
-</p>
-
-<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
-
 ## 🌟 The Royal Decree
 
 > "Great recruitment is not just filling roles — it is building strong teams, one excellent hire at a time."
@@ -1408,3 +1396,17 @@ F --> G[Onboarding]
 </div>
 
 <br/>
+
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
+
+<div align="center">
+   <img width="100%" src="India n fantasy.png" />
+</div>
+
+<img src="./colourfull line.gif" width="100%">
+
+<p align="center">
+<img src="./Dyno.gif.gif" width="100%">
+</p>
+
+<img src="matrix_divider.svg" width="100%" height="56" alt="divider"/>
