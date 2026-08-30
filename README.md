@@ -237,22 +237,6 @@ Specializations   │ AI • Cloud • Cybersecurity • ERP • Data • Networ
 
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
-## 📖 Table of Contents
-About • Nationwide Coverage • Domain Expertise • Engagement Types • Legal & Compliance • Core Skills • Sourcing Channels & Tools • ATS/CRM/VMS Ecosystem • Performance Metrics • Work Authorization • Database Growth • Experience Timeline • Certifications • Why Work With Me • GitHub Analytics • Testimonials • Contact
-
-
-<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
-
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Developer GIF"/><br/><br/>
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" alt="Recruiter network GIF"/>
-
-</td>
-</tr>
-</table>
-
-<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
-
 ## 🌟 Why Work With Me
 
 ```text
@@ -311,39 +295,6 @@ W H Y   W O R K   W I T H   M E
 </div>
 
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
-
-## 🟢 Availability Status
-# 📍 Availability
-
-<div align="center">
-
-| Status | Details |
-|:------|:---------|
-| 🟢 Availability | Immediate Joiner |
-| 🌍 Coverage | All 50 US States + Washington D.C. |
-| 🏢 Work Mode | Remote • Hybrid • Onsite |
-| 📍 Location | Bengaluru, India |
-| 🕐 Time Zone | IST • Flexible with US EST/CST/MST/PST |
-| 💼 Hiring Models | W2 • 1099 • Contract • Full-Time |
-| 📞 Interview | Same Day Scheduling |
-
-</div>
-
-<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/recruitersachin)
-
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:writeforsachin@gmail.com)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919742434111)
-
-[![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/ITRecruitersachin)
-
-</div>
 
 ---
 <!-- ========================================================= -->
@@ -1444,67 +1395,17 @@ F --> G[Onboarding]
 <img src="https://capsule-render.vercel.app/api?type=waving&color=065f46,0d9488,06b6d4,6d28d9,010d0a&height=140&section=footer&text=ITRecruitersachin+%C2%B7+US+RECRUITER+%C2%B7+NICHE+TECH+%C2%B7+NDA+PROTECTED+%C2%B7+ALL+CLIENTS+CONFIDENTIAL&fontSize=10&fontColor=065f46&animation=fadeIn" width="100%"/>
 
 
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★  ██████████████████████████████████████████████████████████████████████████████│
-│  ★ ★ ★ ★ ★ ★ ★ ★ ★ ★   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│
-│ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★  ██████████████████████████████████████████████████████████████████████████████│
-│  ★ ★ ★ ★ ★ ★ ★ ★ ★ ★   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│
-│ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★  ██████████████████████████████████████████████████████████████████████████████│
-│  ★ ★ ★ ★ ★ ★ ★ ★ ★ ★   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│
-│ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★  ██████████████████████████████████████████████████████████████████████████████│
-│  ★ ★ ★ ★ ★ ★ ★ ★ ★ ★   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│
-│ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★  ██████████████████████████████████████████████████████████████████████████████│
-│████████████████████████████████████████████████████████████████████████████████████████████████████████████│
-│▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│
-│████████████████████████████████████████████████████████████████████████████████████████████████████████████│
-│▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│
-│████████████████████████████████████████████████████████████████████████████████████████████████████████████│
-│▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│
-│████████████████████████████████████████████████████████████████████████████████████████████████████████████│
-│▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│
-│████████████████████████████████████████████████████████████████████████████████████████████████████████████│
-│▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│
-│████████████████████████████████████████████████████████████████████████████████████████████████████████████│
-│▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│
-│████████████████████████████████████████████████████████████████████████████████████████████████████████████│
-└────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+# 🤝 Connect With Me
 
-Senior US Technical Recruiter
+<div align="center">
 
-US IT Recruiter
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/recruitersachin)
 
-US Recruiter
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:writeforsachin@gmail.com)
 
-US IT Recruitment
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919742434111)
 
-Technical Talent Acquisition
+[![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/ITRecruitersachin)
 
-US Staffing
+</div>
 
-W2
-
-W-2
-
-C2C
-
-1099
-
-Contract Recruiting
-
-Boolean Search
-
-Google X-Ray Search
-
-Passive Candidate Sourcing
-
-AI Recruiting
-
-ATS
-
-VMS
-
-MSP
-
-RPO
