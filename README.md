@@ -197,46 +197,6 @@ Specializations   │ AI • Cloud • Cybersecurity • ERP • Data • Networ
 
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
-<div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=2300&pause=700&color=00FFFF&background=0D111700&center=true&vCenter=true&repeat=true&width=980&height=65&lines=SACHIN+R+-+AVAILABLE+IMMEDIATELY;Lead+US+IT+Recruiter+%7C+10%2B+Years+Experience;Federal+%7C+State+%7C+Commercial+Hiring;Remote+%7C+Hybrid+%7C+Onsite+Recruitment;AI+Sourcing+%7C+Boolean+Search+%7C+X-Ray+Search;W2+%7C+C2C+%7C+1099+%7C+Full-Time+Hiring;USC+%7C+GC+%7C+H1B+%7C+OPT+%7C+CPT+%7C+EAD;Cloud+%7C+DevOps+%7C+Data+%7C+AI%2FML+%7C+SAP;Bullhorn+%7C+Fieldglass+%7C+VectorVMS+%7C+ATS;Full-Cycle+Recruitment+%7C+Team+Leadership;Building+High-Impact+Engineering+Teams;Zero+Notice+Period+-+Let's+Build+Great+Teams!" alt="Typing SVG"/>
-</a>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2ECC71&center=true&vCenter=true&width=800&lines=Full-Cycle+US+IT+Recruiter;Nationwide+%E2%80%94+All+50+States+%2B+D.C.;W2+%7C+C2C+%7C+1099+Engagements;100%2C000%2B+Candidate+Database;Sourcing+%E2%80%A2+Screening+%E2%80%A2+Compliance+%E2%80%A2+Placement" alt="Typing SVG" />
-</a>
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/📅_NOTICE-ZERO_DAYS-ff1744?style=for-the-badge&labelColor=4a0000"/>
-<img src="https://img.shields.io/badge/🌐_REMOTE-ALL_50_US_STATES-00b0ff?style=for-the-badge&labelColor=002171"/>
-<img src="https://img.shields.io/badge/🏢_ONSITE-BENGALURU_%2F_HYBRID-aa00ff?style=for-the-badge&labelColor=12005e"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/💼_EXP-10%2B_YEARS-ff6d00?style=for-the-badge&labelColor=331100"/>
-<img src="https://img.shields.io/badge/🎯_TAT-24_HRS_AVG-e91e63?style=for-the-badge&labelColor=560027"/>
-<img src="https://img.shields.io/badge/✅_OAR-95%25-00c853?style=for-the-badge&labelColor=003300"/>
-<img src="https://img.shields.io/badge/⏱️_FILL_TIME-48_HRS_AVG-ffd600?style=for-the-badge&labelColor=423300"/>
-<img src="https://img.shields.io/badge/🤝_CLIENTS-100%2B-0091ea?style=for-the-badge&labelColor=003060"/>
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect)](https://linkedin.com/in/recruitersachin)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Hire%20Me)](mailto:writeforsachin@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Chat)](https://wa.me/919742434111)
-[![Calendly](https://img.shields.io/badge/Book%20a%20Call-006BFF?style=for-the-badge&logo=googlemeet&logoColor=white)](https://calendly.com/ITRecruitersachin)
-[![Profile Views](https://komarev.com/ghpvc/?username=ITRecruitersachin&label=👁️+Views&color=00e5ff&style=for-the-badge)](https://github.com/ITRecruitersachin)
-
-</div>
-
-<br/>
-
-<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
-
 ## 🌟 Why Work With Me
 
 ```text
@@ -1409,3 +1369,40 @@ F --> G[Onboarding]
 
 </div>
 
+<div align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=2300&pause=700&color=00FFFF&background=0D111700&center=true&vCenter=true&repeat=true&width=980&height=65&lines=SACHIN+R+-+AVAILABLE+IMMEDIATELY;Lead+US+IT+Recruiter+%7C+10%2B+Years+Experience;Federal+%7C+State+%7C+Commercial+Hiring;Remote+%7C+Hybrid+%7C+Onsite+Recruitment;AI+Sourcing+%7C+Boolean+Search+%7C+X-Ray+Search;W2+%7C+C2C+%7C+1099+%7C+Full-Time+Hiring;USC+%7C+GC+%7C+H1B+%7C+OPT+%7C+CPT+%7C+EAD;Cloud+%7C+DevOps+%7C+Data+%7C+AI%2FML+%7C+SAP;Bullhorn+%7C+Fieldglass+%7C+VectorVMS+%7C+ATS;Full-Cycle+Recruitment+%7C+Team+Leadership;Building+High-Impact+Engineering+Teams;Zero+Notice+Period+-+Let's+Build+Great+Teams!" alt="Typing SVG"/>
+</a>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2ECC71&center=true&vCenter=true&width=800&lines=Full-Cycle+US+IT+Recruiter;Nationwide+%E2%80%94+All+50+States+%2B+D.C.;W2+%7C+C2C+%7C+1099+Engagements;100%2C000%2B+Candidate+Database;Sourcing+%E2%80%A2+Screening+%E2%80%A2+Compliance+%E2%80%A2+Placement" alt="Typing SVG" />
+</a>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/📅_NOTICE-ZERO_DAYS-ff1744?style=for-the-badge&labelColor=4a0000"/>
+<img src="https://img.shields.io/badge/🌐_REMOTE-ALL_50_US_STATES-00b0ff?style=for-the-badge&labelColor=002171"/>
+<img src="https://img.shields.io/badge/🏢_ONSITE-BENGALURU_%2F_HYBRID-aa00ff?style=for-the-badge&labelColor=12005e"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/💼_EXP-10%2B_YEARS-ff6d00?style=for-the-badge&labelColor=331100"/>
+<img src="https://img.shields.io/badge/🎯_TAT-24_HRS_AVG-e91e63?style=for-the-badge&labelColor=560027"/>
+<img src="https://img.shields.io/badge/✅_OAR-95%25-00c853?style=for-the-badge&labelColor=003300"/>
+<img src="https://img.shields.io/badge/⏱️_FILL_TIME-48_HRS_AVG-ffd600?style=for-the-badge&labelColor=423300"/>
+<img src="https://img.shields.io/badge/🤝_CLIENTS-100%2B-0091ea?style=for-the-badge&labelColor=003060"/>
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect)](https://linkedin.com/in/recruitersachin)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Hire%20Me)](mailto:writeforsachin@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Chat)](https://wa.me/919742434111)
+[![Calendly](https://img.shields.io/badge/Book%20a%20Call-006BFF?style=for-the-badge&logo=googlemeet&logoColor=white)](https://calendly.com/ITRecruitersachin)
+[![Profile Views](https://komarev.com/ghpvc/?username=ITRecruitersachin&label=👁️+Views&color=00e5ff&style=for-the-badge)](https://github.com/ITRecruitersachin)
+
+</div>
+
+<br/>
