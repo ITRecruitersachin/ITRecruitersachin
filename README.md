@@ -38,13 +38,6 @@ Identity:
   Location    : "Bangalore, Karnataka, India 🇮🇳"
   Timezone    : "IST (GMT+5:30)"
 
-Availability:
-  Status      : "🟢 AVAILABLE IMMEDIATELY"
-  Notice      : "⚡ ZERO days — join today"
-  Remote      : "✅ All Over India"
-  Onsite      : "✅ Bengaluru / Hybrid"
-  Work_type   : ["FTE", "Contract", "C2H"]
-
 Experience:
   Years       : "10+"
   TAT         : "24 HRS"
@@ -408,9 +401,9 @@ mindmap
 
 <div align="center">
 
-| 💼 Experience | 🌎 Coverage | ⚡ Availability | 🎯 Hiring Models |
+| 💼 Experience | 🌎 Coverage | 🎯 Hiring Models |
 |:-------------:|:-----------:|:---------------:|:----------------:|
-| **10+ Years** | **50 U.S. States + D.C.** | **Immediate** | **W2 • 1099 • Contract • FTE** |
+| **10+ Years** | **50 U.S. States + D.C.** | **W2 • 1099 • Contract • FTE** |
 
 </div>
 
