@@ -1,42 +1,36 @@
-name: 🎮 Deploy RecruitVerse™ Galaga
+name: 🎮 Generate Galaga Contribution Graph
 
 on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
   push:
     branches:
       - main
-  workflow_dispatch:
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: true
 
 jobs:
-  deploy:
-    name: 🚀 Deploy Galaga Arcade
+  generate:
+    name: 🚀 Generate Galaga
     runs-on: ubuntu-latest
 
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      contents: write
 
     steps:
-
       - name: 📥 Checkout Repository
         uses: actions/checkout@v4
 
-      - name: ⚙️ Configure GitHub Pages
-        uses: actions/configure-pages@v5
-
-      - name: 📦 Upload Galaga Game
-        uses: actions/upload-pages-artifact@v3
+      - name: 🎮 Generate Galaga Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          path: './galaga'
+          github_user_name: ITRecruitersachin
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "galaga"
 
-      - name: 🚀 Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: 📤 Push Generated Files
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "🎮 Update Galaga contribution graph"
+          file_pattern: "output/*"
