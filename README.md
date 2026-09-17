@@ -337,7 +337,7 @@ mindmap
 
 <p align="center">
   <img
-    src="US-MAP-ALL.png"
+    src="US-50STATES.png"
     alt="RECRUITVERSE™ — Across All 50 States and Beyond"
     width="100%"
   />
