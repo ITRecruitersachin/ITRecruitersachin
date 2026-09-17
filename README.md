@@ -335,6 +335,28 @@ mindmap
 
 ---
 
+<p align="center">
+  <img
+    src="US-MAP-ALL.png"
+    alt="RECRUITVERSE™ — Across All 50 States and Beyond"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <strong>PEOPLE • TALENT • OPPORTUNITIES • A STRONGER TOMORROW</strong>
+</p>
+
+<p align="center">
+  <sub>
+    🇺🇸 US Talent Acquisition • Technical Recruiting • AI Recruiting • Talent Intelligence
+  </sub>
+</p>
+
+---
+
+<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
+
 ### 📌 Key Recruiting Markets
 
 | 🏙️ Major Markets | 🌎 Coverage |
