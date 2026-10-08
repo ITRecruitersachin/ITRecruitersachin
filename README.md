@@ -63,7 +63,7 @@ Expertise:
 contact:
   email       : "writeforsachin@gmail.com"
   linkedin    : "linkedin.com/in/recruitersachin"
-  whatsapp    : "+91-9742434111"
+  whatsapp    : "+91-9742080111"
 
 motto: >
   "Every placement is a promise.
@@ -1406,7 +1406,7 @@ F --> G[Onboarding]
 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:writeforsachin@gmail.com)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919742434111)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919742080111)
 
 [![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/ITRecruitersachin)
 
@@ -1444,7 +1444,7 @@ F --> G[Onboarding]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect)](https://linkedin.com/in/recruitersachin)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Hire%20Me)](mailto:writeforsachin@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Chat)](https://wa.me/919742434111)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Chat)](https://wa.me/919742080111)
 [![Calendly](https://img.shields.io/badge/Book%20a%20Call-006BFF?style=for-the-badge&logo=googlemeet&logoColor=white)](https://calendly.com/ITRecruitersachin)
 [![Profile Views](https://komarev.com/ghpvc/?username=ITRecruitersachin&label=👁️+Views&color=00e5ff&style=for-the-badge)](https://github.com/ITRecruitersachin)
 
