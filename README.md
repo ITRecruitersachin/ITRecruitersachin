@@ -1346,3 +1346,7 @@ F --> G[Onboarding]
 </p>
 
 <img src="matrix_divider.svg" width="100%" height="56" alt="divider"/>
+
+<div align="center">
+   <img width="100%" src="GH.png" />
+</div>
