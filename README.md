@@ -38,16 +38,8 @@ Identity:
   Name        : "Sachin"
   Title       : "Lead US IT Recruiter"
   Pronouns    : "He / Him"
-  Location    : "Bangalore, Karnataka, India 🇮🇳"
-  Timezone    : "IST (GMT+5:30)"
-
-Experience:
-  Years       : "10+"
-  TAT         : "24 HRS"
-  OAR         : "95%"
-  Fill_time   : "48 hrs avg"
-  Clients     : "100+"
-  Team_led    : "5 recruiters"
+  Location    : "United States"
+  Timezone    : "EST (GMT-5:00)"
 
 Expertise:
   - Full-Cycle US IT Recruiting
@@ -61,9 +53,9 @@ Expertise:
   - High-Volume & Executive Search
 
 contact:
-  email       : "writeforsachin@gmail.com"
+  email       : "sachin.r@fornaxtech.com"
   linkedin    : "linkedin.com/in/recruitersachin"
-  whatsapp    : "+91-9742080111"
+  whatsapp    : "+1 718 210 9567"
 
 motto: >
   "Every placement is a promise.
@@ -1336,13 +1328,13 @@ F --> G[Onboarding]
 
 <br>
 
-<a href="mailto:writeforsachin@gmail.com">
+<a href="mailto:sachin.r@fornaxtech.com">
 <img src="https://img.shields.io/badge/📧_Email-Let's_Connect-065F46?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/recruitersachin">
 <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:writeforsachin@gmail.com?subject=Candidate%20Submission">
+<a href="mailto:sachin.r@fornaxtech.com?subject=Candidate%20Submission">
 <img src="https://img.shields.io/badge/👤_Submit_Profile-Candidates-6D28D9?style=for-the-badge"/>
 </a>
 <a href="https://calendly.com/ITRecruitersachin">
@@ -1404,7 +1396,7 @@ F --> G[Onboarding]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/recruitersachin)
 
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:writeforsachin@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin.r@fornaxtech.com)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919742080111)
 
@@ -1443,7 +1435,7 @@ F --> G[Onboarding]
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect)](https://linkedin.com/in/recruitersachin)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Hire%20Me)](mailto:writeforsachin@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Hire%20Me)](mailto:sachin.r@fornaxtech.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Chat)](https://wa.me/919742080111)
 [![Calendly](https://img.shields.io/badge/Book%20a%20Call-006BFF?style=for-the-badge&logo=googlemeet&logoColor=white)](https://calendly.com/ITRecruitersachin)
 [![Profile Views](https://komarev.com/ghpvc/?username=ITRecruitersachin&label=👁️+Views&color=00e5ff&style=for-the-badge)](https://github.com/ITRecruitersachin)
