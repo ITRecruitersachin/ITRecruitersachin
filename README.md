@@ -1,6 +1,3 @@
-(https://img.shields.io/github/commit-activity/w/ITRecruiterSachin/ITRecruiterSachin)
-
-
 <p align="center"> <img src="./matrix_banner_pro.svg" alt="Premium Matrix-themed US IT Recruiting banner" width="100%" /> </p>
 
 <div align="center">
@@ -36,10 +33,10 @@
 
 Identity:
   Name        : "Sachin"
-  Title       : "Lead US IT Recruiter"
+  Title       : "US IT Recruiter"
   Pronouns    : "He / Him"
   Location    : "United States"
-  Timezone    : "EST (GMT-5:00)"
+  Timezone    : "EST (GMT-5)"
 
 Expertise:
   - Full-Cycle US IT Recruiting
@@ -52,10 +49,10 @@ Expertise:
   · Enterprise Accounts · Time & Materials (T&M) · Project-Based Hiring"
   - High-Volume & Executive Search
 
-contact:
-  email       : "sachin.r@fornaxtech.com"
-  linkedin    : "linkedin.com/in/recruitersachin"
-  whatsapp    : "+1 718 210 9567"
+Contact:
+  Email       : "sachin.r@fornaxtech.com"
+  Linkedin    : "linkedin.com/in/Recruitersachin"
+  Phone    : "+1 718-210-9567"
 
 motto: >
   "Every placement is a promise.
@@ -71,6 +68,14 @@ motto: >
 </td>
 </tr>
 </table>
+
+<img src="matrix_dividerrr.svg" width="100%" height="26" alt="divider"/>
+
+
+
+Specializations   │ AI • Cloud • Cybersecurity • ERP • Data • Networking
+══════════════════════════════════════════════════════════════════════════════════════════════
+```
 
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
@@ -1217,13 +1222,13 @@ F --> G[Onboarding]
 
 <br>
 
-<a href="mailto:sachin.r@fornaxtech.com">
+<a href="mailto:writeforsachin@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email-Let's_Connect-065F46?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/recruitersachin">
 <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:sachin.r@fornaxtech.com?subject=Candidate%20Submission">
+<a href="mailto:writeforsachin@gmail.com?subject=Candidate%20Submission">
 <img src="https://img.shields.io/badge/👤_Submit_Profile-Candidates-6D28D9?style=for-the-badge"/>
 </a>
 <a href="https://calendly.com/ITRecruitersachin">
@@ -1285,7 +1290,7 @@ F --> G[Onboarding]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/recruitersachin)
 
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin.r@fornaxtech.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:writeforsachin@gmail.com)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919742080111)
 
@@ -1324,7 +1329,7 @@ F --> G[Onboarding]
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect)](https://linkedin.com/in/recruitersachin)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Hire%20Me)](mailto:sachin.r@fornaxtech.com)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Hire%20Me)](mailto:writeforsachin@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Chat)](https://wa.me/919742080111)
 [![Calendly](https://img.shields.io/badge/Book%20a%20Call-006BFF?style=for-the-badge&logo=googlemeet&logoColor=white)](https://calendly.com/ITRecruitersachin)
 [![Profile Views](https://komarev.com/ghpvc/?username=ITRecruitersachin&label=👁️+Views&color=00e5ff&style=for-the-badge)](https://github.com/ITRecruitersachin)
@@ -1346,7 +1351,3 @@ F --> G[Onboarding]
 </p>
 
 <img src="matrix_divider.svg" width="100%" height="56" alt="divider"/>
-
-<div align="center">
-   <img width="100%" src="GH.png" />
-</div>
