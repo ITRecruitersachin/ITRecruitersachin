@@ -1,4 +1,4 @@
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/ITRecruiterSachin/ITRecruiterSachin)
+(https://img.shields.io/github/commit-activity/w/ITRecruiterSachin/ITRecruiterSachin)
 
 
 <p align="center"> <img src="./matrix_banner_pro.svg" alt="Premium Matrix-themed US IT Recruiting banner" width="100%" /> </p>
