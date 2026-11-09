@@ -30,35 +30,20 @@
 
 ```yaml
 # ══════════════════════════════════════
-#   SACHIN  |  RECRUITER PROFILE CARD
+#   SACHIN R  |  RECRUITER PROFILE CARD
 # ══════════════════════════════════════
 
 Identity:
   Name        : "Sachin R Jain"
-  Title       : "US IT Recruiter"
-  Pronouns    : "He / Him"
-  Location    : "United States"
-  Timezone    : "EST (GMT-5)"
-
-Expertise:
-  - Full-Cycle US IT Recruiting
-  - Cloud · AI/ML · DevOps · Data Eng
-  - SAP · Salesforce · Cybersecurity
-  - W2 / C2C / 1099 Tax Structures
-  - Citizen · Green Card · TN VISA · H-1B · H-4 EAD · L-2 EAD · CPT · OPT · STEM OPT · E-3 · L-1A/L-1B · O-1 · EAD
-  - Direct Client · MSP · VMS · RPO · Staff Augmentation · Statement of Work (SOW) · Prime Vendor · Sub-Vendor
-  · Preferred Supplier Program (PSP) · Master Service Agreement (MSA) · Federal Government · State Government
-  · Enterprise Accounts · Time & Materials (T&M) · Project-Based Hiring"
-  - High-Volume & Executive Search
 
 Contact:
-  Email       : "sachin.r@fornaxtech.com"
-  Linkedin    : "linkedin.com/in/Recruitersachin"
-  Phone       : "(718) 210-9567"
+  Email          : "sachin.r@fornaxtech.com"
+  Linkedin       : "linkedin.com/in/Recruitersachin"
+  Kaggle         : "https://huggingface.co/recruitersachin"
+  StackOverflow  : "https://stackoverflow.com/users/31557148/sachin"
+  Phone          : "(718) 210-9567"
+  Email          : sachin.r@fornaxtech.com
 
-motto: >
-  "Every placement is a promise.
-   Speed, quality, trust — always."
 ```
 
 </td>
