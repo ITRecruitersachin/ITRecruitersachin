@@ -108,115 +108,13 @@ Contact:
 
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
-## 🧠 Core Recruiting Skill Set
-
-<div align="center">
-<img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27radar%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27Sourcing%27%2C+%27Boolean+%2F+X-Ray+Search%27%2C+%27ATS+Management%27%2C+%27Compliance+%26+Onboarding%27%2C+%27Client+Relationship%27%2C+%27Negotiation%27%2C+%27Candidate+Screening%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27Skill+Proficiency%27%2C%0A++++++data%3A+%5B95%2C92%2C90%2C93%2C88%2C85%2C94%5D%2C%0A++++++backgroundColor%3A+%27rgba%2846%2C+204%2C+113%2C+0.25%29%27%2C%0A++++++borderColor%3A+%27%232ecc71%27%2C%0A++++++pointBackgroundColor%3A+%27%232ecc71%27%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Core+Recruiting+Skill+Set%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scale%3A+%7B%0A++++++angleLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.2%29%27+%7D%2C%0A++++++gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.2%29%27+%7D%2C%0A++++++pointLabels%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C%0A++++++ticks%3A+%7B+display%3A+false%2C+beginAtZero%3A+true%2C+max%3A+100+%7D%0A++++%7D%0A++%7D%0A%7D&w=480&h=340&bkg=transparent&devicePixelRatio=2" alt="Core skills radar chart"/>
-</div>
-
-<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
-
-## 🔍 Sourcing Channels & Tools
-
-<div align="center">
-<img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27pie%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27LinkedIn+Recruiter%27%2C+%27Job+Boards+%28Dice%2C+Indeed%2C+Monster%2C+CB%2C+ZipRecruiter%29%27%2C+%27Free+%2F+Niche+Job+Boards%27%2C+%27X-Ray+%26+Boolean+Search%27%2C+%27Referrals+%26+Networking%27%2C+%27ATS+%2F+Internal+Database%27%2C+%27Social+Media+Sourcing%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++data%3A+%5B25%2C+22%2C+12%2C+15%2C+12%2C+9%2C+5%5D%2C%0A++++++backgroundColor%3A+%5B%27%232ecc71%27%2C%27%233498db%27%2C%27%23f1c40f%27%2C%27%23e67e22%27%2C%27%239b59b6%27%2C%27%231abc9c%27%2C%27%23e74c3c%27%5D%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Sourcing+Channel+Mix%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+position%3A+%27right%27%2C+labels%3A+%7B+fontColor%3A+%27%23ffffff%27%2C+boxWidth%3A+12%2C+fontSize%3A+10+%7D+%7D%0A++++%7D%0A++%7D%0A%7D&w=640&h=320&bkg=transparent&devicePixelRatio=2" alt="Sourcing channel mix chart"/>
-</div>
-
-**ATS Platforms:**
-![Bullhorn](https://img.shields.io/badge/Bullhorn-FF6600?style=flat-square) ![Ceipal](https://img.shields.io/badge/Ceipal-2C3E50?style=flat-square) ![JobDiva](https://img.shields.io/badge/JobDiva-1ABC9C?style=flat-square) ![iCIMS](https://img.shields.io/badge/iCIMS-0072CE?style=flat-square) ![Taleo](https://img.shields.io/badge/Taleo-EA6B10?style=flat-square) ![Zoho Recruit](https://img.shields.io/badge/Zoho%20Recruit-E42527?style=flat-square) ![Crelate](https://img.shields.io/badge/Crelate-6E44FF?style=flat-square) ![PCRecruiter](https://img.shields.io/badge/PCRecruiter-34495E?style=flat-square)
-
-**Job Boards & Sourcing Platforms:**
-![LinkedIn](https://img.shields.io/badge/LinkedIn%20Recruiter-0A66C2?style=flat-square&logo=linkedin&logoColor=white) ![Indeed](https://img.shields.io/badge/Indeed-2557A7?style=flat-square&logo=indeed&logoColor=white) ![Dice](https://img.shields.io/badge/Dice-EA1D63?style=flat-square) ![Monster](https://img.shields.io/badge/Monster-6C4C9F?style=flat-square) ![CareerBuilder](https://img.shields.io/badge/CareerBuilder-00A94F?style=flat-square) ![ZipRecruiter](https://img.shields.io/badge/ZipRecruiter-2CB34A?style=flat-square) ![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?style=flat-square&logo=glassdoor&logoColor=white)
-
 **Free & Niche Sourcing Sources:**
 ![Craigslist](https://img.shields.io/badge/Craigslist-793A11?style=flat-square) ![Google for Jobs](https://img.shields.io/badge/Google%20for%20Jobs-4285F4?style=flat-square&logo=google&logoColor=white) ![USAJobs](https://img.shields.io/badge/USAJobs-002F6C?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub%20(tech%20sourcing)-181717?style=flat-square&logo=github&logoColor=white) ![Meetup](https://img.shields.io/badge/Meetup%20Groups-ED1C40?style=flat-square&logo=meetup&logoColor=white) ![Facebook Groups](https://img.shields.io/badge/Facebook%20Job%20Groups-1877F2?style=flat-square&logo=facebook&logoColor=white)
 
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
-## 🔍 Advanced Sourcing Techniques
-
-```text
-══════════════════════════════════════════════════════════════════════════════════════
-A D V A N C E D   T A L E N T   S O U R C I N G
-══════════════════════════════════════════════════════════════════════════════════════
-
-🔎 Boolean Search
-┃  ✦ Advanced Boolean search strings across LinkedIn Recruiter, Dice,
-┃    Monster, CareerBuilder, Indeed, ZipRecruiter and niche job boards.
-
-🌐 X-Ray Search
-┃  ✦ Google & Bing X-Ray (Dorking) across LinkedIn, GitHub, Indeed,
-┃    Stack Overflow, Kaggle, personal portfolios and company websites.
-
-💻 Portfolio-Based Sourcing
-┃  ✦ GitHub, GitLab, Bitbucket, Behance, Dribbble,
-┃    Hugging Face, Kaggle and personal portfolios.
-
-📱 Professional Communities
-┃  ✦ LinkedIn, X (Twitter), Reddit, Slack, Discord,
-┃    Meetup groups, alumni networks and professional associations.
-
-🤝 Referral Recruiting
-┃  ✦ Employee referrals, consultant referrals,
-┃    alumni networks and professional communities.
-
-🎯 Candidate Pipeline Development
-┃  ✦ Active & passive talent pipelines for
-┃    W2, C2C, 1099, Contract and Full-Time hiring.
-
-🗄️ Talent Database Mining
-┃  ✦ Internal ATS and candidate database mining
-┃    to rapidly identify qualified consultants.
-
-🤖 AI-Assisted Sourcing
-┃  ✦ ChatGPT, Claude, Gemini and AI-assisted workflows
-┃    for market mapping, outreach and sourcing productivity.
-══════════════════════════════════════════════════════════════════════════════════════
-```
-
-<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
-
-## ⚙️ ATS, CRM & VMS Ecosystem
-
-<details>
-<summary><b>📂 Click to expand</b></summary>
-
-### 🗂 Applicant Tracking Systems (ATS)
-Bullhorn · JobDiva · Ceipal · SmartRecruiters
-
-### 🏢 Enterprise Talent Platforms
-PeopleFluent · Workday Recruiting · Oracle Taleo · iCIMS
-
-### 💬 Collaboration & Productivity
-Microsoft Teams · Zoom · Outlook · Gmail · Slack · Calendly
-
-
-### 🔐 Compliance
-I-9/E-Verify · OFCCP Rules · EEOC Compliance · SOC2 Aware · GDPR/CCPA
-
-### ⭐ Experience Highlights
-✔ Full-cycle recruiting
-✔ Resume parsing & candidate management
-✔ Candidate pipeline development
-✔ Interview scheduling & workflow automation
-✔ Compliance & onboarding coordination
-✔ Offer management & reporting
-✔ Recruiter dashboards & analytics
-✔ Vendor/MSP workflow management
-
-</details>
-
-<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
-
 ## 🤖 AI-Assisted Sourcing Platforms
 HireEZ · Hiretual · Fetcher.ai · Findem.ai · Juicebox.io · SeekOut · Entelo · Eightfold.ai · AI X-Ray Sourcing
-
----
-## 🛂 Work Authorization & Visa Types Supported
-
-<div align="center">
-<img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27polarArea%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27USC%27%2C%27GC%27%2C%27H1B%27%2C%27OPT%2FCPT%27%2C%27TN%27%2C%27L1%2FL2%27%2C%27E3%27%2C%27H4-EAD%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++data%3A+%5B30%2C20%2C18%2C12%2C8%2C6%2C3%2C3%5D%2C%0A++++++backgroundColor%3A+%5B%27%232ecc71%27%2C%27%233498db%27%2C%27%239b59b6%27%2C%27%23f1c40f%27%2C%27%23e67e22%27%2C%27%231abc9c%27%2C%27%23e74c3c%27%2C%27%2395a5a6%27%5D%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Work+Authorization+Types+Supported%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+15+%7D%2C%0A++++++legend%3A+%7B+position%3A+%27right%27%2C+labels%3A+%7B+fontColor%3A+%27%23ffffff%27%2C+boxWidth%3A+12%2C+fontSize%3A+10+%7D+%7D%0A++++%7D%2C%0A++++scale%3A+%7B+ticks%3A+%7B+display%3A+false+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.15%29%27+%7D+%7D%0A++%7D%0A%7D&w=560&h=340&bkg=transparent&devicePixelRatio=2" alt="Work authorization types chart"/>
-</div>
 
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
@@ -227,194 +125,6 @@ HireEZ · Hiretual · Fetcher.ai · Findem.ai · Juicebox.io · SeekOut · Entel
 </div>
 
 (Sample growth curve — plug in actual year-by-year database size if tracked.)
-
-<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
-
-
-
-## 📊 Career Snapshot
-
-<div align="center">
-
-| Category | Details |
-|:---------|:--------|
-| 💼 **Experience** | **10+ Years** in US IT Recruitment |
-| 🏢 **Organizations** | **6** Staffing & Technology Consulting Firms |
-| 🌎 **Clients** | Federal • State • Commercial • Fortune 500 |
-| 📍 **Coverage** | Nationwide Recruitment across all 50 U.S. States + D.C. |
-| 🤝 **Hiring Models** | W2 • C2C • 1099 • Contract • CTH • Full-Time |
-| 🔍 **Sourcing** | LinkedIn Recruiter • GitHub • Dice • Monster • CareerBuilder • Indeed |
-| ⚡ **Search Expertise** | Boolean • Google X-Ray • AI-Assisted Talent Discovery |
-| 🗄️ **ATS / CRM** | JobDiva • Bullhorn • PeopleFluent |
-| 🔄 **VMS Platforms** | VectorVMS • Fieldglass • Beeline • IQNavigator |
-| ☁️ **Technology Focus** | AI • Cloud • Cybersecurity • DevOps • Data • ERP • Enterprise Applications |
-
-</div>
-
-<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
-
-## 🎯 Technology & Industry Expertise
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-Cloud_Architecture-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-Enterprise_Cloud-0078D4?style=for-the-badge&logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-GCP_Platform-4285F4?style=for-the-badge&logo=googlecloud)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Containers-326CE5?style=for-the-badge&logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)
-![VMware](https://img.shields.io/badge/VMware-Virtualization-607078?style=for-the-badge)
-
-### 🤖 Artificial Intelligence
-![Generative AI](https://img.shields.io/badge/Generative_AI-LLMs-10B981?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-ML_Engineering-059669?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Language_Models-0EA5E9?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-CV_AI-6366F1?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-AI_Platforms-8B5CF6?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-LLM_Workflows-F43F5E?style=for-the-badge)
-
-### 💻 Software Engineering
-![Java](https://img.shields.io/badge/Java-Spring_Boot-E11D48?style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-C%23_&_ASP.NET-512BD4?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Backend_AI-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-React_NodeJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Golang-Microservices-00ADD8?style=for-the-badge)
-![Mobile](https://img.shields.io/badge/iOS_&_Android-Mobile-0284C7?style=for-the-badge)
-
-### 📊 Data & Analytics
-![Snowflake](https://img.shields.io/badge/Snowflake-Cloud_Data-29B5E8?style=for-the-badge)
-![Databricks](https://img.shields.io/badge/Databricks-Lakehouse-EF3E42?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-Business_Intelligence-E97627?style=for-the-badge)
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-ETL_&_Pipelines-7C3AED?style=for-the-badge)
-![Big Data](https://img.shields.io/badge/Big_Data-Spark_Hadoop-9333EA?style=for-the-badge)
-
-### 🔐 Cybersecurity
-![IAM](https://img.shields.io/badge/IAM-Identity_&_Access-DC2626?style=for-the-badge)
-![SOC](https://img.shields.io/badge/SOC-Security_Operations-B91C1C?style=for-the-badge)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-Security-E11D48?style=for-the-badge)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-CSPM-991B1B?style=for-the-badge)
-![Network Security](https://img.shields.io/badge/Network_Security-Firewalls-7F1D1D?style=for-the-badge)
-![Governance](https://img.shields.io/badge/GRC-Compliance-881337?style=for-the-badge)
-
-### 🏢 Enterprise Platforms
-![SAP](https://img.shields.io/badge/SAP-S4_HANA-0FAAFF?style=for-the-badge)
-![Oracle](https://img.shields.io/badge/Oracle-ERP-F80000?style=for-the-badge&logo=oracle)
-![Salesforce](https://img.shields.io/badge/Salesforce-CRM-00A1E0?style=for-the-badge&logo=salesforce)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-81B441?style=for-the-badge)
-![Workday](https://img.shields.io/badge/Workday-HCM-FC6D26?style=for-the-badge)
-![Dynamics](https://img.shields.io/badge/Dynamics_365-ERP_&_CRM-0078D4?style=for-the-badge)
-
-### 🧪 Other Domains
-![QA](https://img.shields.io/badge/🧪_Quality_Assurance-SDET_|_Automation-84cc16?style=for-the-badge)
-![Infrastructure](https://img.shields.io/badge/🌐_Infrastructure-Network_|_Cisco_|_Windows-64748b?style=for-the-badge)
-![Embedded](https://img.shields.io/badge/📡_Embedded-IoT_|_Firmware_|_FPGA-b45309?style=for-the-badge)
-![Project](https://img.shields.io/badge/📋_Project_Management-PMO_|_Agile_|_Scrum-e11d48?style=for-the-badge)
-![UIUX](https://img.shields.io/badge/🎨_UI_|_UX-Product_Design-db2777?style=for-the-badge)
-![Mobile](https://img.shields.io/badge/📱_Mobile-iOS_|_Android_|_React_Native-0369a1?style=for-the-badge)
-![Blockchain](https://img.shields.io/badge/🔗_Blockchain-Web3_|_DeFi-8b5cf6?style=for-the-badge)
-
-# 🏢 Industry Verticals
-
-<table>
-<tr>
-
-<td width="25%" valign="top">
-
-### 🏛️ Public Sector
-- 🇺🇸 Federal Government
-- 🏛️ State Government
-- 🏙️ Local Government
-- 🛡️ Public Sector Programs
-
-</td>
-
-<td width="25%" valign="top">
-
-### 💰 Financial Services
-- 🏦 Banking
-- 💳 FinTech
-- 📈 Capital Markets
-- 💼 Insurance
-
-</td>
-
-<td width="25%" valign="top">
-
-### 🏥 Healthcare & Life Sciences
-- 🏥 Healthcare
-- 💊 Pharmaceuticals
-- 🧬 Biotechnology
-- 💻 Healthcare IT
-
-</td>
-
-<td width="25%" valign="top">
-
-### 🏭 Enterprise
-- 🚗 Automotive
-- 🏭 Manufacturing
-- 🚚 Logistics & Supply Chain
-- 📦 Distribution
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="25%" valign="top">
-
-### 🛒 Digital Commerce
-- 🛍️ Retail
-- 🌐 eCommerce
-- 📺 Media & Entertainment
-- 📢 Digital Platforms
-
-</td>
-
-<td width="25%" valign="top">
-
-### ⚡ Infrastructure
-- ⚡ Energy
-- 🔌 Utilities
-- 📡 Telecommunications
-- ☁️ Cloud Infrastructure
-
-</td>
-
-<td colspan="2" valign="top">
-
-### 🚀 Emerging Technologies
-
-- 🤖 Artificial Intelligence (AI)
-- ☁️ Cloud Computing
-- 🔐 Cybersecurity
-- 📊 Data Engineering & Analytics
-- 📡 Internet of Things (IoT)
-- 🥽 AR / VR / XR
-- ⛓️ Blockchain
-- 🤖 Robotics & Automation
-- 🧠 Generative AI & LLMs
-- ⚙️ Digital Transformation
-
-</td>
-
-</tr>
-</table>
-
-<img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
-
-### 🎯 Recruitment Coverage
-
-```text
-Cloud ☁️           ████████████████████████
-AI / ML 🤖         ████████████████████████
-Cyber 🔐           ███████████████████████░
-Software 💻        ████████████████████████
-Data 📊            ███████████████████████░
-ERP 🏢             ██████████████████████░░
-QA 🧪              ██████████████████████░░
-Infrastructure 🌐  ██████████████████████
-```
 
 <img src="matrix_dividerrr.svg" width="100%" height="56" alt="divider"/>
 
@@ -483,12 +193,12 @@ Infrastructure 🌐  ███████████████████�
 ║ PROFESSIONAL STRENGTHS                                                                                 ║
 ╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ ✔ Full-Cycle Recruitment                                                         Expert              ║
-║ ✔ Passive Talent Engagement                                                     Expert              ║
+║ ✔ Passive Talent Engagement                                                      Expert              ║
 ║ ✔ Pipeline Building & Talent Communities                                         Expert              ║
-║ ✔ Stakeholder & Hiring Manager Partnership                                      Advanced            ║
-║ ✔ Interview Coordination & Offer Management                                     Advanced            ║
-║ ✔ Compliance & Work Authorization Validation                                    Advanced            ║
-║ ✔ Recruitment Analytics & KPI Tracking                                          Advanced            ║
+║ ✔ Stakeholder & Hiring Manager Partnership                                       Advanced            ║
+║ ✔ Interview Coordination & Offer Management                                      Advanced            ║
+║ ✔ Compliance & Work Authorization Validation                                     Advanced            ║
+║ ✔ Recruitment Analytics & KPI Tracking                                           Advanced            ║
 ║ ✔ AI-Assisted Recruiting Workflows                                               Advanced            ║
 ╚════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
