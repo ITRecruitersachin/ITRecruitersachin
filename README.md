@@ -34,7 +34,7 @@
 # ══════════════════════════════════════
 
 Identity:
-  Name        : "Sachin"
+  Name        : "Sachin R Jain"
   Title       : "US IT Recruiter"
   Pronouns    : "He / Him"
   Location    : "United States"
@@ -54,7 +54,7 @@ Expertise:
 Contact:
   Email       : "sachin.r@fornaxtech.com"
   Linkedin    : "linkedin.com/in/Recruitersachin"
-  Phone    : "+1 718-210-9567"
+  Phone       : "(718) 210-9567"
 
 motto: >
   "Every placement is a promise.
