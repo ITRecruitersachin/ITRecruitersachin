@@ -80,7 +80,6 @@ Contact:
 >
 > *"Sachin is a very personable professional who consistently prioritizes both employees and clients. He goes above and beyond to ensure client satisfaction and is always eager to deliver exceptional service. His commitment, professionalism, and dedication make him a valuable asset to any organization."*
 
-
 > **Anastasia Bielka**
 > 🔗 https://www.linkedin.com/in/anastasiia-bielka/
 >
@@ -96,7 +95,6 @@ Contact:
 <!-- ========================================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
-
 
 <p align="center">
   
