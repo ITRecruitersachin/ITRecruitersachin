@@ -37,10 +37,15 @@ Identity:
   Name        : "Sachin R Jain"
 
 Contact:
-  Email          : "sachin.r@fornaxtech.com"
   Linkedin       : "linkedin.com/in/Recruitersachin"
   Kaggle         : "https://huggingface.co/recruitersachin"
   StackOverflow  : "https://stackoverflow.com/users/31557148/sachin"
+  Blue Sky       : "https://bsky.app/profile/recruitersachin.bsky.social"
+  Dev Community  : "https://dev.to/recruitersachin"
+  tumblr         : "https://www.tumblr.com/blog/recruitersachin"
+  Hugging Face   : "https://huggingface.co/recruitersachin"
+  Behance        : "https://www.behance.net/recruitersachin"
+
   Phone          : "(718) 210-9567"
   Email          : sachin.r@fornaxtech.com
 
