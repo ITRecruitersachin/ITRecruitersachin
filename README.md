@@ -45,7 +45,6 @@ Contact:
   tumblr         : "https://www.tumblr.com/blog/recruitersachin"
   Hugging Face   : "https://huggingface.co/recruitersachin"
   Behance        : "https://www.behance.net/recruitersachin"
-
   Phone          : "(718) 210-9567"
   Email          : sachin.r@fornaxtech.com
 
